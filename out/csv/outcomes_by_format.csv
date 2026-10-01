@@ -1,0 +1,17 @@
+outcome,format,sic_primary,companies
+alive,counter,47240,2254
+alive,counter,56103,15432
+alive,service,56101,14738
+alive,service,56102,13476
+closing,counter,47240,149
+closing,counter,56103,1587
+closing,service,56101,1709
+closing,service,56102,1284
+dead,counter,47240,2599
+dead,counter,56103,25934
+dead,service,56101,22458
+dead,service,56102,16164
+failing,counter,47240,32
+failing,counter,56103,258
+failing,service,56101,900
+failing,service,56102,246

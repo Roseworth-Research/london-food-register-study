@@ -1,0 +1,49 @@
+format,death_era,bucket,companies
+counter,cost_of_living,1 to 2 years,7118
+counter,cost_of_living,10 years or more,365
+counter,cost_of_living,2 to 3 years,3117
+counter,cost_of_living,3 to 5 years,2226
+counter,cost_of_living,5 to 10 years,1587
+counter,cost_of_living,under 1 year,1096
+counter,covid,1 to 2 years,952
+counter,covid,10 years or more,59
+counter,covid,2 to 3 years,452
+counter,covid,3 to 5 years,353
+counter,covid,5 to 10 years,314
+counter,covid,under 1 year,192
+counter,pre_covid,1 to 2 years,1849
+counter,pre_covid,10 years or more,137
+counter,pre_covid,2 to 3 years,917
+counter,pre_covid,3 to 5 years,865
+counter,pre_covid,5 to 10 years,584
+counter,pre_covid,under 1 year,381
+counter,revival,1 to 2 years,1159
+counter,revival,10 years or more,37
+counter,revival,2 to 3 years,296
+counter,revival,3 to 5 years,198
+counter,revival,5 to 10 years,174
+counter,revival,under 1 year,135
+service,cost_of_living,1 to 2 years,7048
+service,cost_of_living,10 years or more,1063
+service,cost_of_living,2 to 3 years,3513
+service,cost_of_living,3 to 5 years,2706
+service,cost_of_living,5 to 10 years,2640
+service,cost_of_living,under 1 year,1098
+service,covid,1 to 2 years,1121
+service,covid,10 years or more,301
+service,covid,2 to 3 years,614
+service,covid,3 to 5 years,533
+service,covid,5 to 10 years,613
+service,covid,under 1 year,169
+service,pre_covid,1 to 2 years,2632
+service,pre_covid,10 years or more,471
+service,pre_covid,2 to 3 years,1288
+service,pre_covid,3 to 5 years,1326
+service,pre_covid,5 to 10 years,1184
+service,pre_covid,under 1 year,453
+service,revival,1 to 2 years,1009
+service,revival,10 years or more,139
+service,revival,2 to 3 years,367
+service,revival,3 to 5 years,284
+service,revival,5 to 10 years,316
+service,revival,under 1 year,101

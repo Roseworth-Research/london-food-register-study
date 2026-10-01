@@ -1,0 +1,12 @@
+# Python 3.12. Versions are those the published figures were produced with.
+duckdb==1.5.5
+pandas==3.0.5
+numpy==2.5.2
+scipy==1.18.0
+pyarrow==25.0.1
+lxml==6.1.1
+matplotlib==3.11.1
+pymupdf==1.28.2
+pypdf==6.16.1
+# Optional: OCR of scanned chain accounts (steps 12-14)
+# rapidocr_onnxruntime

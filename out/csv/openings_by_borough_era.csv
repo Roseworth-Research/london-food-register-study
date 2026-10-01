@@ -1,0 +1,390 @@
+borough,birth_era,format,companies
+Barking and Dagenham,cost_of_living,counter,486
+Barking and Dagenham,cost_of_living,service,395
+Barking and Dagenham,covid,counter,123
+Barking and Dagenham,covid,service,85
+Barking and Dagenham,pre_covid,counter,119
+Barking and Dagenham,pre_covid,service,105
+Barking and Dagenham,revival,counter,45
+Barking and Dagenham,revival,service,54
+Barnet,cost_of_living,counter,777
+Barnet,cost_of_living,service,1056
+Barnet,covid,counter,226
+Barnet,covid,service,316
+Barnet,pre_covid,counter,351
+Barnet,pre_covid,service,707
+Barnet,revival,counter,124
+Barnet,revival,service,146
+Bexley,cost_of_living,counter,355
+Bexley,cost_of_living,service,366
+Bexley,covid,counter,106
+Bexley,covid,service,62
+Bexley,pre_covid,counter,104
+Bexley,pre_covid,service,112
+Bexley,revival,counter,46
+Bexley,revival,service,47
+Brent,cost_of_living,counter,780
+Brent,cost_of_living,service,921
+Brent,covid,counter,211
+Brent,covid,service,206
+Brent,pre_covid,counter,270
+Brent,pre_covid,service,347
+Brent,revival,counter,104
+Brent,revival,service,97
+Bromley,cost_of_living,counter,369
+Bromley,cost_of_living,service,442
+Bromley,covid,counter,90
+Bromley,covid,service,116
+Bromley,pre_covid,counter,140
+Bromley,pre_covid,service,230
+Bromley,revival,counter,56
+Bromley,revival,service,61
+Broxbourne,cost_of_living,counter,95
+Broxbourne,cost_of_living,service,148
+Broxbourne,covid,counter,21
+Broxbourne,covid,service,24
+Broxbourne,pre_covid,counter,32
+Broxbourne,pre_covid,service,34
+Broxbourne,revival,counter,10
+Broxbourne,revival,service,11
+Buckinghamshire,cost_of_living,counter,7
+Buckinghamshire,cost_of_living,service,10
+Buckinghamshire,covid,counter,5
+Buckinghamshire,covid,service,5
+Buckinghamshire,pre_covid,service,7
+Buckinghamshire,revival,service,1
+Camden,cost_of_living,counter,950
+Camden,cost_of_living,service,1801
+Camden,covid,counter,250
+Camden,covid,service,351
+Camden,pre_covid,counter,245
+Camden,pre_covid,service,524
+Camden,revival,counter,102
+Camden,revival,service,173
+City of London,cost_of_living,counter,92
+City of London,cost_of_living,service,261
+City of London,covid,counter,27
+City of London,covid,service,74
+City of London,pre_covid,counter,32
+City of London,pre_covid,service,117
+City of London,revival,counter,29
+City of London,revival,service,44
+Croydon,cost_of_living,counter,842
+Croydon,cost_of_living,service,832
+Croydon,covid,counter,237
+Croydon,covid,service,198
+Croydon,pre_covid,counter,302
+Croydon,pre_covid,service,360
+Croydon,revival,counter,117
+Croydon,revival,service,89
+Dartford,cost_of_living,counter,111
+Dartford,cost_of_living,service,124
+Dartford,covid,counter,25
+Dartford,covid,service,29
+Dartford,pre_covid,counter,33
+Dartford,pre_covid,service,45
+Dartford,revival,counter,13
+Dartford,revival,service,13
+Ealing,cost_of_living,counter,644
+Ealing,cost_of_living,service,855
+Ealing,covid,counter,182
+Ealing,covid,service,207
+Ealing,pre_covid,counter,219
+Ealing,pre_covid,service,391
+Ealing,revival,counter,95
+Ealing,revival,service,96
+Elmbridge,cost_of_living,counter,26
+Elmbridge,cost_of_living,service,35
+Elmbridge,covid,counter,8
+Elmbridge,covid,service,10
+Elmbridge,pre_covid,counter,12
+Elmbridge,pre_covid,service,19
+Elmbridge,revival,counter,4
+Elmbridge,revival,service,7
+Enfield,cost_of_living,counter,866
+Enfield,cost_of_living,service,1056
+Enfield,covid,counter,214
+Enfield,covid,service,216
+Enfield,pre_covid,counter,413
+Enfield,pre_covid,service,524
+Enfield,revival,counter,90
+Enfield,revival,service,104
+Epping Forest,cost_of_living,counter,140
+Epping Forest,cost_of_living,service,142
+Epping Forest,covid,counter,31
+Epping Forest,covid,service,31
+Epping Forest,pre_covid,counter,40
+Epping Forest,pre_covid,service,57
+Epping Forest,revival,counter,11
+Epping Forest,revival,service,12
+Epsom and Ewell,cost_of_living,counter,92
+Epsom and Ewell,cost_of_living,service,91
+Epsom and Ewell,covid,counter,26
+Epsom and Ewell,covid,service,22
+Epsom and Ewell,pre_covid,counter,27
+Epsom and Ewell,pre_covid,service,39
+Epsom and Ewell,revival,counter,11
+Epsom and Ewell,revival,service,9
+Greenwich,cost_of_living,counter,428
+Greenwich,cost_of_living,service,465
+Greenwich,covid,counter,128
+Greenwich,covid,service,91
+Greenwich,pre_covid,counter,133
+Greenwich,pre_covid,service,164
+Greenwich,revival,counter,64
+Greenwich,revival,service,57
+Hackney,cost_of_living,counter,1195
+Hackney,cost_of_living,service,1591
+Hackney,covid,counter,416
+Hackney,covid,service,366
+Hackney,pre_covid,counter,329
+Hackney,pre_covid,service,588
+Hackney,revival,counter,155
+Hackney,revival,service,194
+Hammersmith and Fulham,cost_of_living,counter,301
+Hammersmith and Fulham,cost_of_living,service,528
+Hammersmith and Fulham,covid,counter,105
+Hammersmith and Fulham,covid,service,104
+Hammersmith and Fulham,pre_covid,counter,133
+Hammersmith and Fulham,pre_covid,service,219
+Hammersmith and Fulham,revival,counter,58
+Hammersmith and Fulham,revival,service,67
+Haringey,cost_of_living,counter,1232
+Haringey,cost_of_living,service,1046
+Haringey,covid,counter,200
+Haringey,covid,service,215
+Haringey,pre_covid,counter,262
+Haringey,pre_covid,service,366
+Haringey,revival,counter,104
+Haringey,revival,service,124
+Harrow,cost_of_living,counter,785
+Harrow,cost_of_living,service,861
+Harrow,covid,counter,183
+Harrow,covid,service,177
+Harrow,pre_covid,counter,220
+Harrow,pre_covid,service,310
+Harrow,revival,counter,75
+Harrow,revival,service,86
+Havering,cost_of_living,counter,423
+Havering,cost_of_living,service,476
+Havering,covid,counter,113
+Havering,covid,service,83
+Havering,pre_covid,counter,139
+Havering,pre_covid,service,169
+Havering,revival,counter,49
+Havering,revival,service,52
+Hertsmere,cost_of_living,counter,102
+Hertsmere,cost_of_living,service,167
+Hertsmere,covid,counter,31
+Hertsmere,covid,service,51
+Hertsmere,pre_covid,counter,78
+Hertsmere,pre_covid,service,105
+Hertsmere,revival,counter,23
+Hertsmere,revival,service,23
+Hillingdon,cost_of_living,counter,650
+Hillingdon,cost_of_living,service,599
+Hillingdon,covid,counter,165
+Hillingdon,covid,service,145
+Hillingdon,pre_covid,counter,185
+Hillingdon,pre_covid,service,201
+Hillingdon,revival,counter,77
+Hillingdon,revival,service,60
+Hounslow,cost_of_living,counter,477
+Hounslow,cost_of_living,service,668
+Hounslow,covid,counter,134
+Hounslow,covid,service,133
+Hounslow,pre_covid,counter,117
+Hounslow,pre_covid,service,219
+Hounslow,revival,counter,62
+Hounslow,revival,service,80
+Islington,cost_of_living,counter,934
+Islington,cost_of_living,service,1450
+Islington,covid,counter,223
+Islington,covid,service,285
+Islington,pre_covid,counter,297
+Islington,pre_covid,service,523
+Islington,revival,counter,124
+Islington,revival,service,189
+Kensington and Chelsea,cost_of_living,counter,134
+Kensington and Chelsea,cost_of_living,service,350
+Kensington and Chelsea,covid,counter,52
+Kensington and Chelsea,covid,service,84
+Kensington and Chelsea,pre_covid,counter,60
+Kensington and Chelsea,pre_covid,service,148
+Kensington and Chelsea,revival,counter,21
+Kensington and Chelsea,revival,service,54
+Kingston upon Thames,cost_of_living,counter,243
+Kingston upon Thames,cost_of_living,service,308
+Kingston upon Thames,covid,counter,63
+Kingston upon Thames,covid,service,85
+Kingston upon Thames,pre_covid,counter,102
+Kingston upon Thames,pre_covid,service,116
+Kingston upon Thames,revival,counter,40
+Kingston upon Thames,revival,service,50
+Lambeth,cost_of_living,counter,418
+Lambeth,cost_of_living,service,655
+Lambeth,covid,counter,146
+Lambeth,covid,service,162
+Lambeth,pre_covid,counter,187
+Lambeth,pre_covid,service,284
+Lambeth,revival,counter,70
+Lambeth,revival,service,63
+Lewisham,cost_of_living,counter,525
+Lewisham,cost_of_living,service,471
+Lewisham,covid,counter,172
+Lewisham,covid,service,109
+Lewisham,pre_covid,counter,185
+Lewisham,pre_covid,service,180
+Lewisham,revival,counter,63
+Lewisham,revival,service,51
+Merton,cost_of_living,counter,403
+Merton,cost_of_living,service,444
+Merton,covid,counter,140
+Merton,covid,service,88
+Merton,pre_covid,counter,150
+Merton,pre_covid,service,162
+Merton,revival,counter,55
+Merton,revival,service,54
+Mole Valley,cost_of_living,counter,20
+Mole Valley,cost_of_living,service,28
+Mole Valley,covid,counter,1
+Mole Valley,covid,service,5
+Mole Valley,pre_covid,counter,6
+Mole Valley,pre_covid,service,8
+Mole Valley,revival,counter,2
+Mole Valley,revival,service,1
+Newham,cost_of_living,counter,1082
+Newham,cost_of_living,service,1144
+Newham,covid,counter,322
+Newham,covid,service,252
+Newham,pre_covid,counter,300
+Newham,pre_covid,service,372
+Newham,revival,counter,136
+Newham,revival,service,140
+Redbridge,cost_of_living,counter,889
+Redbridge,cost_of_living,service,1041
+Redbridge,covid,counter,244
+Redbridge,covid,service,234
+Redbridge,pre_covid,counter,253
+Redbridge,pre_covid,service,421
+Redbridge,revival,counter,107
+Redbridge,revival,service,121
+Reigate and Banstead,cost_of_living,counter,21
+Reigate and Banstead,cost_of_living,service,34
+Reigate and Banstead,covid,counter,5
+Reigate and Banstead,covid,service,9
+Reigate and Banstead,pre_covid,counter,10
+Reigate and Banstead,pre_covid,service,7
+Reigate and Banstead,revival,counter,4
+Reigate and Banstead,revival,service,2
+Richmond upon Thames,cost_of_living,counter,139
+Richmond upon Thames,cost_of_living,service,294
+Richmond upon Thames,covid,counter,53
+Richmond upon Thames,covid,service,67
+Richmond upon Thames,pre_covid,counter,49
+Richmond upon Thames,pre_covid,service,135
+Richmond upon Thames,revival,counter,28
+Richmond upon Thames,revival,service,47
+Sevenoaks,cost_of_living,counter,21
+Sevenoaks,cost_of_living,service,12
+Sevenoaks,covid,counter,6
+Sevenoaks,covid,service,4
+Sevenoaks,pre_covid,counter,1
+Sevenoaks,pre_covid,service,4
+Sevenoaks,revival,counter,3
+Sevenoaks,revival,service,6
+Southwark,cost_of_living,counter,477
+Southwark,cost_of_living,service,579
+Southwark,covid,counter,139
+Southwark,covid,service,148
+Southwark,pre_covid,counter,204
+Southwark,pre_covid,service,219
+Southwark,revival,counter,62
+Southwark,revival,service,78
+Spelthorne,cost_of_living,counter,56
+Spelthorne,cost_of_living,service,43
+Spelthorne,covid,counter,14
+Spelthorne,covid,service,9
+Spelthorne,pre_covid,counter,19
+Spelthorne,pre_covid,service,18
+Spelthorne,revival,counter,7
+Spelthorne,revival,service,4
+Sutton,cost_of_living,counter,250
+Sutton,cost_of_living,service,249
+Sutton,covid,counter,77
+Sutton,covid,service,64
+Sutton,pre_covid,counter,123
+Sutton,pre_covid,service,123
+Sutton,revival,counter,37
+Sutton,revival,service,38
+Tandridge,cost_of_living,counter,29
+Tandridge,cost_of_living,service,36
+Tandridge,covid,counter,5
+Tandridge,covid,service,6
+Tandridge,pre_covid,counter,20
+Tandridge,pre_covid,service,14
+Tandridge,revival,counter,8
+Tandridge,revival,service,4
+Three Rivers,cost_of_living,counter,40
+Three Rivers,cost_of_living,service,56
+Three Rivers,covid,counter,11
+Three Rivers,covid,service,14
+Three Rivers,pre_covid,counter,13
+Three Rivers,pre_covid,service,13
+Three Rivers,revival,counter,6
+Three Rivers,revival,service,3
+Thurrock,cost_of_living,counter,36
+Thurrock,cost_of_living,service,30
+Thurrock,covid,counter,6
+Thurrock,covid,service,3
+Thurrock,pre_covid,counter,10
+Thurrock,pre_covid,service,5
+Thurrock,revival,counter,4
+Thurrock,revival,service,2
+Tower Hamlets,cost_of_living,counter,1004
+Tower Hamlets,cost_of_living,service,1510
+Tower Hamlets,covid,counter,300
+Tower Hamlets,covid,service,343
+Tower Hamlets,pre_covid,counter,347
+Tower Hamlets,pre_covid,service,637
+Tower Hamlets,revival,counter,139
+Tower Hamlets,revival,service,223
+Waltham Forest,cost_of_living,counter,597
+Waltham Forest,cost_of_living,service,832
+Waltham Forest,covid,counter,188
+Waltham Forest,covid,service,180
+Waltham Forest,pre_covid,counter,224
+Waltham Forest,pre_covid,service,317
+Waltham Forest,revival,counter,88
+Waltham Forest,revival,service,93
+Wandsworth,cost_of_living,counter,411
+Wandsworth,cost_of_living,service,566
+Wandsworth,covid,counter,143
+Wandsworth,covid,service,149
+Wandsworth,pre_covid,counter,147
+Wandsworth,pre_covid,service,207
+Wandsworth,revival,counter,62
+Wandsworth,revival,service,59
+Watford,cost_of_living,counter,1
+Watford,cost_of_living,service,1
+Watford,pre_covid,counter,1
+Welwyn Hatfield,cost_of_living,counter,5
+Welwyn Hatfield,cost_of_living,service,4
+Welwyn Hatfield,covid,counter,3
+Welwyn Hatfield,covid,service,1
+Welwyn Hatfield,pre_covid,counter,1
+Welwyn Hatfield,pre_covid,service,4
+Welwyn Hatfield,revival,counter,2
+Westminster,cost_of_living,counter,650
+Westminster,cost_of_living,service,1622
+Westminster,covid,counter,194
+Westminster,covid,service,481
+Westminster,pre_covid,counter,309
+Westminster,pre_covid,service,713
+Westminster,revival,counter,92
+Westminster,revival,service,219
+Windsor and Maidenhead,cost_of_living,counter,2
+Windsor and Maidenhead,cost_of_living,service,4
+Windsor and Maidenhead,covid,service,1
+Windsor and Maidenhead,pre_covid,counter,3
+Windsor and Maidenhead,pre_covid,service,3

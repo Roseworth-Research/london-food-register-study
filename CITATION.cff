@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: >-
+  If you use this work, please cite the report below. The MIT licence applies to
+  the code in pipeline/ only; documentation, outputs and the papers are
+  © Roseworth Limited (see COPYRIGHT.md).
+title: "London food register study: pipeline and methodology"
+type: software
+authors:
+  - name: "Roseworth Research, Roseworth Limited"
+    address: "662 High Road, Finchley"
+    city: "London"
+    post-code: "N12 0NL"
+    country: GB
+    email: "info@roseworth.co"
+    website: "https://www.roseworth.co"
+version: "1.0"
+date-released: "2026-10-01"
+license: MIT
+repository-code: "https://github.com/Roseworth-Research/london-food-register-study"
+keywords:
+  - Companies House
+  - business demography
+  - high street
+  - London
+  - food and hospitality
+  - VAT
+  - survival analysis
+  - competing risks
+preferred-citation:
+  type: report
+  title: "The Paper High Street: what 119,220 London food companies reveal — and why the company register cannot be read as a map of shops"
+  authors:
+    - name: "Roseworth Research, Roseworth Limited"
+  institution:
+    name: "Roseworth Limited"
+    city: "London"
+    country: GB
+  year: 2026
+  month: 10
+  version: "1.0"
+  url: "https://www.roseworth.co"

@@ -1,0 +1,361 @@
+borough,format,outcome,companies
+Barking and Dagenham,counter,alive,397
+Barking and Dagenham,counter,closing,36
+Barking and Dagenham,counter,dead,539
+Barking and Dagenham,counter,failing,1
+Barking and Dagenham,service,alive,362
+Barking and Dagenham,service,closing,41
+Barking and Dagenham,service,dead,437
+Barnet,counter,alive,735
+Barnet,counter,closing,78
+Barnet,counter,dead,1402
+Barnet,counter,failing,40
+Barnet,service,alive,1288
+Barnet,service,closing,150
+Barnet,service,dead,2574
+Barnet,service,failing,209
+Bexley,counter,alive,322
+Bexley,counter,closing,27
+Bexley,counter,dead,458
+Bexley,service,alive,367
+Bexley,service,closing,40
+Bexley,service,dead,467
+Bexley,service,failing,2
+Brent,counter,alive,661
+Brent,counter,closing,74
+Brent,counter,dead,1071
+Brent,counter,failing,6
+Brent,service,alive,921
+Brent,service,closing,136
+Brent,service,dead,1275
+Brent,service,failing,13
+Bromley,counter,alive,333
+Bromley,counter,closing,34
+Bromley,counter,dead,500
+Bromley,counter,failing,14
+Bromley,service,alive,490
+Bromley,service,closing,64
+Bromley,service,dead,807
+Bromley,service,failing,40
+Broxbourne,counter,alive,87
+Broxbourne,counter,closing,11
+Broxbourne,counter,dead,114
+Broxbourne,service,alive,169
+Broxbourne,service,closing,13
+Broxbourne,service,dead,119
+Broxbourne,service,failing,2
+Buckinghamshire,counter,alive,5
+Buckinghamshire,counter,dead,10
+Buckinghamshire,service,alive,23
+Buckinghamshire,service,closing,1
+Buckinghamshire,service,dead,12
+Buckinghamshire,service,failing,1
+Camden,counter,alive,840
+Camden,counter,closing,62
+Camden,counter,dead,1065
+Camden,counter,failing,3
+Camden,service,alive,1858
+Camden,service,closing,160
+Camden,service,dead,2166
+Camden,service,failing,45
+City of London,counter,alive,83
+City of London,counter,closing,6
+City of London,counter,dead,176
+City of London,counter,failing,6
+City of London,service,alive,367
+City of London,service,closing,20
+City of London,service,dead,529
+City of London,service,failing,65
+Croydon,counter,alive,771
+Croydon,counter,closing,92
+Croydon,counter,dead,1131
+Croydon,counter,failing,9
+Croydon,service,alive,931
+Croydon,service,closing,93
+Croydon,service,dead,1189
+Croydon,service,failing,18
+Dartford,counter,alive,103
+Dartford,counter,closing,7
+Dartford,counter,dead,129
+Dartford,service,alive,160
+Dartford,service,closing,10
+Dartford,service,dead,125
+Dartford,service,failing,6
+Ealing,counter,alive,615
+Ealing,counter,closing,66
+Ealing,counter,dead,843
+Ealing,counter,failing,2
+Ealing,service,alive,835
+Ealing,service,closing,131
+Ealing,service,dead,1214
+Ealing,service,failing,5
+Elmbridge,counter,alive,24
+Elmbridge,counter,closing,3
+Elmbridge,counter,dead,41
+Elmbridge,service,alive,51
+Elmbridge,service,closing,5
+Elmbridge,service,dead,60
+Enfield,counter,alive,763
+Enfield,counter,closing,101
+Enfield,counter,dead,1471
+Enfield,counter,failing,16
+Enfield,service,alive,1135
+Enfield,service,closing,148
+Enfield,service,dead,1928
+Enfield,service,failing,60
+Epping Forest,counter,alive,151
+Epping Forest,counter,closing,8
+Epping Forest,counter,dead,115
+Epping Forest,service,alive,149
+Epping Forest,service,closing,12
+Epping Forest,service,dead,181
+Epping Forest,service,failing,4
+Epsom and Ewell,counter,alive,75
+Epsom and Ewell,counter,closing,6
+Epsom and Ewell,counter,dead,117
+Epsom and Ewell,service,alive,115
+Epsom and Ewell,service,closing,8
+Epsom and Ewell,service,dead,125
+Epsom and Ewell,service,failing,1
+Greenwich,counter,alive,356
+Greenwich,counter,closing,38
+Greenwich,counter,dead,566
+Greenwich,counter,failing,1
+Greenwich,service,alive,489
+Greenwich,service,closing,46
+Greenwich,service,dead,564
+Greenwich,service,failing,4
+Hackney,counter,alive,759
+Hackney,counter,closing,61
+Hackney,counter,dead,1675
+Hackney,counter,failing,1
+Hackney,service,alive,1359
+Hackney,service,closing,126
+Hackney,service,dead,2148
+Hackney,service,failing,16
+Hammersmith and Fulham,counter,alive,274
+Hammersmith and Fulham,counter,closing,35
+Hammersmith and Fulham,counter,dead,479
+Hammersmith and Fulham,service,alive,554
+Hammersmith and Fulham,service,closing,70
+Hammersmith and Fulham,service,dead,796
+Hammersmith and Fulham,service,failing,9
+Haringey,counter,alive,863
+Haringey,counter,closing,95
+Haringey,counter,dead,1273
+Haringey,counter,failing,1
+Haringey,service,alive,961
+Haringey,service,closing,132
+Haringey,service,dead,1353
+Haringey,service,failing,13
+Harrow,counter,alive,756
+Harrow,counter,closing,62
+Harrow,counter,dead,828
+Harrow,counter,failing,9
+Harrow,service,alive,996
+Harrow,service,closing,91
+Harrow,service,dead,1044
+Harrow,service,failing,42
+Havering,counter,alive,339
+Havering,counter,closing,40
+Havering,counter,dead,555
+Havering,counter,failing,1
+Havering,service,alive,451
+Havering,service,closing,55
+Havering,service,dead,553
+Havering,service,failing,1
+Hertsmere,counter,alive,111
+Hertsmere,counter,closing,7
+Hertsmere,counter,dead,171
+Hertsmere,counter,failing,21
+Hertsmere,service,alive,193
+Hertsmere,service,closing,14
+Hertsmere,service,dead,322
+Hertsmere,service,failing,80
+Hillingdon,counter,alive,567
+Hillingdon,counter,closing,56
+Hillingdon,counter,dead,741
+Hillingdon,counter,failing,2
+Hillingdon,service,alive,617
+Hillingdon,service,closing,61
+Hillingdon,service,dead,792
+Hillingdon,service,failing,9
+Hounslow,counter,alive,426
+Hounslow,counter,closing,31
+Hounslow,counter,dead,555
+Hounslow,service,alive,649
+Hounslow,service,closing,55
+Hounslow,service,dead,755
+Hounslow,service,failing,1
+Islington,counter,alive,781
+Islington,counter,closing,43
+Islington,counter,dead,1200
+Islington,counter,failing,8
+Islington,service,alive,1341
+Islington,service,closing,95
+Islington,service,dead,1984
+Islington,service,failing,60
+Kensington and Chelsea,counter,alive,131
+Kensington and Chelsea,counter,closing,15
+Kensington and Chelsea,counter,dead,229
+Kensington and Chelsea,counter,failing,1
+Kensington and Chelsea,service,alive,475
+Kensington and Chelsea,service,closing,38
+Kensington and Chelsea,service,dead,506
+Kensington and Chelsea,service,failing,3
+Kingston upon Thames,counter,alive,237
+Kingston upon Thames,counter,closing,23
+Kingston upon Thames,counter,dead,375
+Kingston upon Thames,counter,failing,2
+Kingston upon Thames,service,alive,396
+Kingston upon Thames,service,closing,37
+Kingston upon Thames,service,dead,421
+Kingston upon Thames,service,failing,4
+Lambeth,counter,alive,369
+Lambeth,counter,closing,34
+Lambeth,counter,dead,676
+Lambeth,service,alive,786
+Lambeth,service,closing,85
+Lambeth,service,dead,839
+Lambeth,service,failing,2
+Lewisham,counter,alive,399
+Lewisham,counter,closing,54
+Lewisham,counter,dead,807
+Lewisham,service,alive,453
+Lewisham,service,closing,44
+Lewisham,service,dead,655
+Lewisham,service,failing,2
+Merton,counter,alive,425
+Merton,counter,closing,56
+Merton,counter,dead,594
+Merton,counter,failing,3
+Merton,service,alive,470
+Merton,service,closing,69
+Merton,service,dead,579
+Merton,service,failing,4
+Mole Valley,counter,alive,17
+Mole Valley,counter,closing,1
+Mole Valley,counter,dead,24
+Mole Valley,service,alive,28
+Mole Valley,service,closing,3
+Mole Valley,service,dead,35
+Newham,counter,alive,836
+Newham,counter,closing,75
+Newham,counter,dead,1355
+Newham,counter,failing,23
+Newham,service,alive,987
+Newham,service,closing,100
+Newham,service,dead,1301
+Newham,service,failing,93
+Redbridge,counter,alive,717
+Redbridge,counter,closing,68
+Redbridge,counter,dead,1235
+Redbridge,counter,failing,28
+Redbridge,service,alive,1033
+Redbridge,service,closing,115
+Redbridge,service,dead,1581
+Redbridge,service,failing,68
+Reigate and Banstead,counter,alive,22
+Reigate and Banstead,counter,dead,28
+Reigate and Banstead,service,alive,41
+Reigate and Banstead,service,closing,2
+Reigate and Banstead,service,dead,34
+Richmond upon Thames,counter,alive,130
+Richmond upon Thames,counter,closing,18
+Richmond upon Thames,counter,dead,234
+Richmond upon Thames,counter,failing,4
+Richmond upon Thames,service,alive,372
+Richmond upon Thames,service,closing,45
+Richmond upon Thames,service,dead,431
+Richmond upon Thames,service,failing,12
+Sevenoaks,counter,alive,15
+Sevenoaks,counter,dead,24
+Sevenoaks,service,alive,15
+Sevenoaks,service,closing,1
+Sevenoaks,service,dead,20
+Southwark,counter,alive,410
+Southwark,counter,closing,29
+Southwark,counter,dead,726
+Southwark,counter,failing,1
+Southwark,service,alive,671
+Southwark,service,closing,60
+Southwark,service,dead,817
+Southwark,service,failing,5
+Spelthorne,counter,alive,50
+Spelthorne,counter,closing,1
+Spelthorne,counter,dead,70
+Spelthorne,service,alive,44
+Spelthorne,service,closing,7
+Spelthorne,service,dead,65
+Spelthorne,service,failing,1
+Sutton,counter,alive,234
+Sutton,counter,closing,24
+Sutton,counter,dead,407
+Sutton,counter,failing,23
+Sutton,service,alive,290
+Sutton,service,closing,26
+Sutton,service,dead,471
+Sutton,service,failing,24
+Tandridge,counter,alive,28
+Tandridge,counter,closing,5
+Tandridge,counter,dead,52
+Tandridge,service,alive,39
+Tandridge,service,closing,3
+Tandridge,service,dead,49
+Three Rivers,counter,alive,36
+Three Rivers,counter,closing,3
+Three Rivers,counter,dead,58
+Three Rivers,counter,failing,1
+Three Rivers,service,alive,66
+Three Rivers,service,closing,6
+Three Rivers,service,dead,105
+Three Rivers,service,failing,1
+Thurrock,counter,alive,21
+Thurrock,counter,closing,3
+Thurrock,counter,dead,36
+Thurrock,counter,failing,1
+Thurrock,service,alive,25
+Thurrock,service,dead,24
+Tower Hamlets,counter,alive,802
+Tower Hamlets,counter,closing,100
+Tower Hamlets,counter,dead,1532
+Tower Hamlets,counter,failing,35
+Tower Hamlets,service,alive,1457
+Tower Hamlets,service,closing,219
+Tower Hamlets,service,dead,2312
+Tower Hamlets,service,failing,123
+Waltham Forest,counter,alive,504
+Waltham Forest,counter,closing,57
+Waltham Forest,counter,dead,912
+Waltham Forest,counter,failing,12
+Waltham Forest,service,alive,743
+Waltham Forest,service,closing,78
+Waltham Forest,service,dead,1152
+Waltham Forest,service,failing,16
+Wandsworth,counter,alive,367
+Wandsworth,counter,closing,27
+Wandsworth,counter,dead,678
+Wandsworth,service,alive,608
+Wandsworth,service,closing,84
+Wandsworth,service,dead,819
+Wandsworth,service,failing,2
+Watford,counter,alive,1
+Watford,counter,dead,2
+Watford,service,alive,1
+Welwyn Hatfield,counter,alive,4
+Welwyn Hatfield,counter,dead,10
+Welwyn Hatfield,service,alive,5
+Welwyn Hatfield,service,dead,8
+Westminster,counter,alive,708
+Westminster,counter,closing,57
+Westminster,counter,dead,1094
+Westminster,counter,failing,14
+Westminster,service,alive,2324
+Westminster,service,closing,181
+Westminster,service,dead,2476
+Westminster,service,failing,79
+Windsor and Maidenhead,counter,alive,2
+Windsor and Maidenhead,counter,closing,1
+Windsor and Maidenhead,counter,dead,5
+Windsor and Maidenhead,service,alive,2
+Windsor and Maidenhead,service,dead,8

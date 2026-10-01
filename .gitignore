@@ -1,0 +1,51 @@
+# --- Secrets and credentials ---------------------------------------------
+.env
+.env.*
+!.env.example
+.dev.vars
+*.key
+*.pem
+*.p12
+*token*
+*secret*
+credentials*
+
+# --- Raw data, caches and downloads (never distributed) -------------------
+data/
+*.zip
+*.parquet
+*.duckdb
+*.duckdb.wal
+api_cache/
+life_history/
+
+# --- Source documents and OCR working files --------------------------------
+*.pdf
+sources/**/ocr_*.json
+sources/**/*_targets.json
+out/page_renders/
+
+# --- Logs and run artefacts -------------------------------------------------
+*.log
+out/logs/
+
+# --- Papers are published separately, not from this repository -------------
+papers/
+*.tpl.html
+
+# --- Python -----------------------------------------------------------------
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# --- Editors and operating systems ------------------------------------------
+.vscode/
+.idea/
+.claude/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini

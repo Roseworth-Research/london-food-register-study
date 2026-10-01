@@ -1,0 +1,19 @@
+format,year,scenario,projected_stock
+counter,2026,entry -10%,20303
+counter,2026,entry flat,20812
+counter,2026,entry +10%,21322
+counter,2027,entry -10%,20781
+counter,2027,entry flat,21627
+counter,2027,entry +10%,22473
+counter,2028,entry -10%,21673
+counter,2028,entry flat,22754
+counter,2028,entry +10%,23835
+service,2026,entry -10%,32842
+service,2026,entry flat,33512
+service,2026,entry +10%,34182
+service,2027,entry -10%,33967
+service,2027,entry flat,35129
+service,2027,entry +10%,36292
+service,2028,entry -10%,35498
+service,2028,entry flat,37028
+service,2028,entry +10%,38558

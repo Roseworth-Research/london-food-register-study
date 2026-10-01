@@ -1,0 +1,41 @@
+predecessor_format,successor_industry,n
+counter,Other,503
+counter,Retail (shops),388
+counter,Property,193
+counter,Food and drink service,137
+counter,Wholesale,133
+counter,IT and software,105
+counter,"Personal services (hair, beauty, laundry)",104
+counter,Construction,92
+counter,Construction trades,89
+counter,Education,60
+counter,Transport,51
+counter,Food manufacturing,50
+counter,Business support,40
+counter,Management consultancy,40
+counter,Motor trades,39
+counter,Health,36
+counter,Sports and recreation,22
+counter,Accommodation,17
+counter,Dormant or unclassified,12
+counter,Post and courier,8
+service,Other,512
+service,Retail (shops),331
+service,Property,293
+service,"Personal services (hair, beauty, laundry)",170
+service,Food and drink service,156
+service,IT and software,129
+service,Wholesale,122
+service,Construction,114
+service,Management consultancy,83
+service,Construction trades,76
+service,Business support,61
+service,Transport,58
+service,Motor trades,55
+service,Health,50
+service,Food manufacturing,43
+service,Education,43
+service,Sports and recreation,24
+service,Accommodation,24
+service,Dormant or unclassified,15
+service,Post and courier,7

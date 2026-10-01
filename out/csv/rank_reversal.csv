@@ -1,0 +1,7 @@
+metric,from,to,moved_1plus,moved_3plus,moved_5plus,moved_10plus,max_move,spearman,kendall
+pre_deadline_share,A_as_registered,B_single_company,25,18,13,8,20,0.343,0.243
+pre_deadline_share,A_as_registered,C_premises_confirmed,22,11,8,1,14,0.789,0.625
+pre_deadline_share,B_single_company,C_premises_confirmed,26,15,13,6,22,0.403,0.323
+survival_3y,A_as_registered,B_single_company,28,24,20,7,21,0.525,0.398
+survival_3y,A_as_registered,C_premises_confirmed,24,14,12,4,16,0.774,0.618
+survival_3y,B_single_company,C_premises_confirmed,30,25,19,8,21,0.579,0.411

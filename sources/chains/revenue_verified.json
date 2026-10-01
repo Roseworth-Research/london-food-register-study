@@ -1,0 +1,256 @@
+{
+  "_README": [
+    "Revenue as filed at Companies House, read from the scanned accounts and",
+    "checked by arithmetic: revenue minus cost of sales must equal gross profit,",
+    "or revenue plus other income minus operating costs must equal operating",
+    "profit. Every figure below passed that check against the filed page.",
+    "Source PDFs are in sources/chains/<slug>/. Page numbers are in",
+    "sources/chains/ocr_results.json.",
+    "",
+    "Figures are net of VAT, because UK turnover always is. That is the whole",
+    "reason the VAT numbers in 13_vat_model.py have to be modelled."
+  ],
+  "_discontinuities": [
+    "COSTA: the reporting entity and basis both change. To Feb 2019 these are",
+    "consolidated group accounts under Whitbread ownership. Coca-Cola acquired",
+    "Costa in January 2019 and the year end moved to December, producing a",
+    "ten-month transition period to 31 December 2019. From 2020 the filing is",
+    "Costa Limited's own income statement, not a consolidation. Do NOT read the",
+    "2018-19 and 2020-24 figures as one continuous series.",
+    "",
+    "GAIL'S: the group parent changes. To February 2021 the filer is Bread",
+    "Holdings Limited (07570780). From August 2021 the group sits under Grain",
+    "Topco Limited (13572366, SIC 64209 holding company), whose first period is",
+    "a stub of about six months to February 2022 and is therefore excluded from",
+    "the annual series rather than annualised.",
+    "",
+    "PRET: the filer is Pret A Manger (Europe) Limited, the main UK and European",
+    "trading entity, not the worldwide group. FY2024 is a 53-week year, so",
+    "per-week comparison is needed before calling FY2025 a decline."
+  ],
+  "greggs": [
+    {
+      "label": "FY2018",
+      "year_end": "2018-12-29",
+      "days": 364,
+      "revenue_gbp": 1029300000,
+      "basis": "consolidated, 52 weeks"
+    },
+    {
+      "label": "FY2019",
+      "year_end": "2019-12-28",
+      "days": 364,
+      "revenue_gbp": 1167900000,
+      "basis": "consolidated, 52 weeks"
+    },
+    {
+      "label": "FY2020",
+      "year_end": "2021-01-02",
+      "days": 371,
+      "revenue_gbp": 811300000,
+      "basis": "consolidated, 53 weeks"
+    },
+    {
+      "label": "FY2021",
+      "year_end": "2022-01-01",
+      "days": 364,
+      "revenue_gbp": 1229700000,
+      "basis": "consolidated, 52 weeks"
+    },
+    {
+      "label": "FY2022",
+      "year_end": "2022-12-31",
+      "days": 364,
+      "revenue_gbp": 1512800000,
+      "basis": "consolidated, 52 weeks"
+    },
+    {
+      "label": "FY2023",
+      "year_end": "2023-12-30",
+      "days": 364,
+      "revenue_gbp": 1809600000,
+      "basis": "consolidated, 52 weeks"
+    },
+    {
+      "label": "FY2024",
+      "year_end": "2024-12-28",
+      "days": 364,
+      "revenue_gbp": 2014400000,
+      "basis": "consolidated, 52 weeks"
+    },
+    {
+      "label": "FY2025",
+      "year_end": "2025-12-27",
+      "days": 364,
+      "revenue_gbp": 2151200000,
+      "basis": "consolidated, 52 weeks"
+    }
+  ],
+  "pret": [
+    {
+      "label": "FY2018",
+      "year_end": "2019-01-03",
+      "days": 364,
+      "revenue_gbp": 710036000,
+      "basis": "Pret A Manger (Europe) Limited"
+    },
+    {
+      "label": "FY2019",
+      "year_end": "2020-01-02",
+      "days": 364,
+      "revenue_gbp": 708359000,
+      "basis": "Pret A Manger (Europe) Limited"
+    },
+    {
+      "label": "FY2020",
+      "year_end": "2020-12-31",
+      "days": 364,
+      "revenue_gbp": 299380000,
+      "basis": "Pret A Manger (Europe) Limited"
+    },
+    {
+      "label": "FY2021",
+      "year_end": "2021-12-30",
+      "days": 364,
+      "revenue_gbp": 372262000,
+      "basis": "Pret A Manger (Europe) Limited"
+    },
+    {
+      "label": "FY2022",
+      "year_end": "2022-12-29",
+      "days": 364,
+      "revenue_gbp": 648416000,
+      "basis": "Pret A Manger (Europe) Limited"
+    },
+    {
+      "label": "FY2023",
+      "year_end": "2023-12-28",
+      "days": 364,
+      "revenue_gbp": 729960000,
+      "basis": "Pret A Manger (Europe) Limited"
+    },
+    {
+      "label": "FY2024",
+      "year_end": "2025-01-02",
+      "days": 371,
+      "revenue_gbp": 734834000,
+      "basis": "53-week year"
+    },
+    {
+      "label": "FY2025",
+      "year_end": "2026-01-01",
+      "days": 364,
+      "revenue_gbp": 704540000,
+      "basis": "Pret A Manger (Europe) Limited"
+    }
+  ],
+  "costa": [
+    {
+      "label": "FY2018 (to Mar)",
+      "year_end": "2018-03-01",
+      "days": 365,
+      "revenue_gbp": 1291665000,
+      "basis": "consolidated, Whitbread ownership"
+    },
+    {
+      "label": "FY2019 (to Feb)",
+      "year_end": "2019-02-28",
+      "days": 364,
+      "revenue_gbp": 1344138000,
+      "basis": "consolidated, Whitbread ownership"
+    },
+    {
+      "label": "2019 stub (10m)",
+      "year_end": "2019-12-31",
+      "days": 305,
+      "revenue_gbp": 880587000,
+      "basis": "transition period after Coca-Cola acquisition"
+    },
+    {
+      "label": "FY2020",
+      "year_end": "2020-12-31",
+      "days": 366,
+      "revenue_gbp": 603588000,
+      "basis": "Costa Limited"
+    },
+    {
+      "label": "FY2021",
+      "year_end": "2021-12-31",
+      "days": 365,
+      "revenue_gbp": 923174000,
+      "basis": "Costa Limited"
+    },
+    {
+      "label": "FY2022",
+      "year_end": "2022-12-31",
+      "days": 365,
+      "revenue_gbp": 1117450000,
+      "basis": "Costa Limited"
+    },
+    {
+      "label": "FY2023",
+      "year_end": "2023-12-31",
+      "days": 365,
+      "revenue_gbp": 1222856000,
+      "basis": "Costa Limited"
+    },
+    {
+      "label": "FY2024",
+      "year_end": "2024-12-31",
+      "days": 366,
+      "revenue_gbp": 1231795000,
+      "basis": "Costa Limited"
+    }
+  ],
+  "gails": [
+    {
+      "label": "FY2018 (Feb)",
+      "year_end": "2018-02-28",
+      "days": 365,
+      "revenue_gbp": 86378000,
+      "basis": "Bread Holdings Limited"
+    },
+    {
+      "label": "FY2019 (Feb)",
+      "year_end": "2019-02-28",
+      "days": 365,
+      "revenue_gbp": 100765000,
+      "basis": "Bread Holdings Limited"
+    },
+    {
+      "label": "FY2020 (Feb)",
+      "year_end": "2020-02-29",
+      "days": 366,
+      "revenue_gbp": 116440000,
+      "basis": "Bread Holdings Limited"
+    },
+    {
+      "label": "FY2021 (Feb)",
+      "year_end": "2021-02-28",
+      "days": 365,
+      "revenue_gbp": 84501000,
+      "basis": "Bread Holdings Limited"
+    },
+    {
+      "label": "FY2023 (Feb)",
+      "year_end": "2023-02-28",
+      "days": 365,
+      "revenue_gbp": 181779000,
+      "basis": "Grain Topco Limited, consolidated"
+    },
+    {
+      "label": "FY2024 (Feb)",
+      "year_end": "2024-02-29",
+      "days": 366,
+      "revenue_gbp": 231785000,
+      "basis": "Grain Topco Limited, consolidated"
+    },
+    {
+      "label": "FY2025 (Feb)",
+      "year_end": "2025-02-28",
+      "days": 365,
+      "revenue_gbp": 278045000,
+      "basis": "Grain Topco Limited, consolidated"
+    }
+  ]
+}

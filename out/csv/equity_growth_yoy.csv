@@ -1,0 +1,15 @@
+financial_year,format,pairs,median_growth_pct,winsorised_mean_growth_pct
+2019,counter,1858,9.4,32.8
+2019,service,3732,3.9,33.7
+2020,counter,2261,8.4,53.6
+2020,service,4542,0.0,32.4
+2021,counter,2733,12.0,74.7
+2021,service,5065,9.4,82.3
+2022,counter,2232,0.6,23.6
+2022,service,4050,3.1,44.1
+2023,counter,2424,1.2,24.3
+2023,service,4410,0.0,21.8
+2024,counter,3407,3.0,24.7
+2024,service,6141,1.0,22.0
+2025,counter,2986,4.3,28.8
+2025,service,5111,0.0,17.8

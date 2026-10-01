@@ -1,0 +1,182 @@
+death_era,predecessor_format,successor_format,successor_industry,n
+cost_of_living,counter,counter,Food and drink service,1919
+cost_of_living,counter,non_food,Other,366
+cost_of_living,counter,non_food,Retail (shops),300
+cost_of_living,counter,non_food,Property,136
+cost_of_living,counter,non_food,Food and drink service,111
+cost_of_living,counter,non_food,Wholesale,106
+cost_of_living,counter,non_food,Construction trades,70
+cost_of_living,counter,non_food,Construction,69
+cost_of_living,counter,non_food,"Personal services (hair, beauty, laundry)",67
+cost_of_living,counter,non_food,IT and software,63
+cost_of_living,counter,non_food,Education,41
+cost_of_living,counter,non_food,Food manufacturing,41
+cost_of_living,counter,non_food,Transport,34
+cost_of_living,counter,non_food,Motor trades,32
+cost_of_living,counter,non_food,Management consultancy,30
+cost_of_living,counter,non_food,Health,25
+cost_of_living,counter,non_food,Business support,22
+cost_of_living,counter,non_food,Sports and recreation,16
+cost_of_living,counter,non_food,Accommodation,15
+cost_of_living,counter,non_food,Dormant or unclassified,6
+cost_of_living,counter,non_food,Post and courier,5
+cost_of_living,counter,service,Food and drink service,664
+cost_of_living,counter,,,6974
+cost_of_living,service,counter,Food and drink service,610
+cost_of_living,service,non_food,Other,328
+cost_of_living,service,non_food,Retail (shops),244
+cost_of_living,service,non_food,Property,171
+cost_of_living,service,non_food,Food and drink service,103
+cost_of_living,service,non_food,"Personal services (hair, beauty, laundry)",100
+cost_of_living,service,non_food,Wholesale,90
+cost_of_living,service,non_food,IT and software,86
+cost_of_living,service,non_food,Construction,70
+cost_of_living,service,non_food,Construction trades,49
+cost_of_living,service,non_food,Management consultancy,48
+cost_of_living,service,non_food,Transport,38
+cost_of_living,service,non_food,Health,37
+cost_of_living,service,non_food,Motor trades,36
+cost_of_living,service,non_food,Food manufacturing,34
+cost_of_living,service,non_food,Business support,34
+cost_of_living,service,non_food,Education,28
+cost_of_living,service,non_food,Accommodation,18
+cost_of_living,service,non_food,Sports and recreation,15
+cost_of_living,service,non_food,Dormant or unclassified,7
+cost_of_living,service,non_food,Post and courier,3
+cost_of_living,service,service,Food and drink service,2320
+cost_of_living,service,,,7484
+covid,counter,counter,Food and drink service,269
+covid,counter,non_food,Retail (shops),22
+covid,counter,non_food,Other,21
+covid,counter,non_food,Property,18
+covid,counter,non_food,IT and software,10
+covid,counter,non_food,Education,8
+covid,counter,non_food,"Personal services (hair, beauty, laundry)",8
+covid,counter,non_food,Food and drink service,5
+covid,counter,non_food,Wholesale,5
+covid,counter,non_food,Business support,5
+covid,counter,non_food,Food manufacturing,3
+covid,counter,non_food,Health,2
+covid,counter,non_food,Transport,2
+covid,counter,non_food,Construction trades,2
+covid,counter,non_food,Management consultancy,2
+covid,counter,non_food,Construction,2
+covid,counter,non_food,Dormant or unclassified,2
+covid,counter,non_food,Motor trades,2
+covid,counter,non_food,Sports and recreation,1
+covid,counter,non_food,Post and courier,1
+covid,counter,non_food,Accommodation,1
+covid,counter,service,Food and drink service,108
+covid,counter,,,1177
+covid,service,counter,Food and drink service,110
+covid,service,non_food,Other,46
+covid,service,non_food,Property,31
+covid,service,non_food,Retail (shops),23
+covid,service,non_food,IT and software,21
+covid,service,non_food,Construction,13
+covid,service,non_food,"Personal services (hair, beauty, laundry)",11
+covid,service,non_food,Management consultancy,10
+covid,service,non_food,Wholesale,10
+covid,service,non_food,Food and drink service,9
+covid,service,non_food,Motor trades,8
+covid,service,non_food,Transport,6
+covid,service,non_food,Construction trades,6
+covid,service,non_food,Education,5
+covid,service,non_food,Health,5
+covid,service,non_food,Business support,5
+covid,service,non_food,Food manufacturing,3
+covid,service,non_food,Post and courier,2
+covid,service,non_food,Sports and recreation,2
+covid,service,non_food,Dormant or unclassified,1
+covid,service,non_food,Accommodation,1
+covid,service,service,Food and drink service,379
+covid,service,,,1542
+pre_covid,counter,counter,Food and drink service,779
+pre_covid,counter,non_food,Other,65
+pre_covid,counter,non_food,Retail (shops),36
+pre_covid,counter,non_food,"Personal services (hair, beauty, laundry)",23
+pre_covid,counter,non_food,Property,23
+pre_covid,counter,non_food,IT and software,20
+pre_covid,counter,non_food,Wholesale,13
+pre_covid,counter,non_food,Food and drink service,13
+pre_covid,counter,non_food,Construction,12
+pre_covid,counter,non_food,Business support,10
+pre_covid,counter,non_food,Transport,8
+pre_covid,counter,non_food,Construction trades,8
+pre_covid,counter,non_food,Management consultancy,5
+pre_covid,counter,non_food,Motor trades,4
+pre_covid,counter,non_food,Education,4
+pre_covid,counter,non_food,Health,3
+pre_covid,counter,non_food,Food manufacturing,2
+pre_covid,counter,non_food,Post and courier,2
+pre_covid,counter,non_food,Sports and recreation,2
+pre_covid,counter,non_food,Dormant or unclassified,2
+pre_covid,counter,service,Food and drink service,295
+pre_covid,counter,,,2193
+pre_covid,service,counter,Food and drink service,260
+pre_covid,service,non_food,Other,85
+pre_covid,service,non_food,Property,60
+pre_covid,service,non_food,"Personal services (hair, beauty, laundry)",47
+pre_covid,service,non_food,Retail (shops),46
+pre_covid,service,non_food,Food and drink service,27
+pre_covid,service,non_food,Construction,25
+pre_covid,service,non_food,Management consultancy,19
+pre_covid,service,non_food,Business support,18
+pre_covid,service,non_food,IT and software,17
+pre_covid,service,non_food,Wholesale,13
+pre_covid,service,non_food,Construction trades,13
+pre_covid,service,non_food,Transport,9
+pre_covid,service,non_food,Dormant or unclassified,6
+pre_covid,service,non_food,Motor trades,5
+pre_covid,service,non_food,Health,5
+pre_covid,service,non_food,Sports and recreation,5
+pre_covid,service,non_food,Food manufacturing,5
+pre_covid,service,non_food,Education,5
+pre_covid,service,non_food,Accommodation,3
+pre_covid,service,non_food,Post and courier,2
+pre_covid,service,service,Food and drink service,1138
+pre_covid,service,,,3338
+revival,counter,counter,Food and drink service,227
+revival,counter,non_food,Other,51
+revival,counter,non_food,Retail (shops),30
+revival,counter,non_food,Property,16
+revival,counter,non_food,IT and software,12
+revival,counter,non_food,Wholesale,9
+revival,counter,non_food,Construction trades,9
+revival,counter,non_food,Construction,9
+revival,counter,non_food,Food and drink service,8
+revival,counter,non_food,Education,7
+revival,counter,non_food,Transport,7
+revival,counter,non_food,"Personal services (hair, beauty, laundry)",6
+revival,counter,non_food,Health,6
+revival,counter,non_food,Food manufacturing,4
+revival,counter,non_food,Management consultancy,3
+revival,counter,non_food,Sports and recreation,3
+revival,counter,non_food,Business support,3
+revival,counter,non_food,Dormant or unclassified,2
+revival,counter,non_food,Accommodation,1
+revival,counter,non_food,Motor trades,1
+revival,counter,service,Food and drink service,76
+revival,counter,,,1004
+revival,service,counter,Food and drink service,67
+revival,service,non_food,Other,53
+revival,service,non_food,Property,31
+revival,service,non_food,Retail (shops),18
+revival,service,non_food,Food and drink service,17
+revival,service,non_food,"Personal services (hair, beauty, laundry)",12
+revival,service,non_food,Wholesale,9
+revival,service,non_food,Construction trades,8
+revival,service,non_food,Management consultancy,6
+revival,service,non_food,Motor trades,6
+revival,service,non_food,Construction,6
+revival,service,non_food,Transport,5
+revival,service,non_food,IT and software,5
+revival,service,non_food,Education,5
+revival,service,non_food,Business support,4
+revival,service,non_food,Health,3
+revival,service,non_food,Sports and recreation,2
+revival,service,non_food,Accommodation,2
+revival,service,non_food,Food manufacturing,1
+revival,service,non_food,Dormant or unclassified,1
+revival,service,service,Food and drink service,253
+revival,service,,,1027

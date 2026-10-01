@@ -1,0 +1,9 @@
+format,birth_era,companies,with_charge,pct_with_charge,pct_outstanding
+counter,cost_of_living,20633,94,0.46,0.41
+service,cost_of_living,26743,406,1.52,1.43
+counter,covid,5773,75,1.3,1.21
+service,covid,6121,187,3.06,2.6
+counter,pre_covid,6976,113,1.62,1.35
+service,pre_covid,10634,357,3.36,2.81
+counter,revival,2686,21,0.78,0.78
+service,revival,3217,74,2.3,2.14

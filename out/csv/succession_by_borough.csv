@@ -1,0 +1,1116 @@
+borough,death_era,transition,n
+Barking and Dagenham,cost_of_living,counter->counter,44
+Barking and Dagenham,cost_of_living,counter->non_food,49
+Barking and Dagenham,cost_of_living,counter->service,11
+Barking and Dagenham,cost_of_living,service->counter,9
+Barking and Dagenham,cost_of_living,service->non_food,37
+Barking and Dagenham,cost_of_living,service->service,30
+Barking and Dagenham,cost_of_living,went_dark,330
+Barking and Dagenham,covid,counter->counter,7
+Barking and Dagenham,covid,counter->non_food,2
+Barking and Dagenham,covid,service->service,2
+Barking and Dagenham,covid,went_dark,46
+Barking and Dagenham,pre_covid,counter->counter,18
+Barking and Dagenham,pre_covid,counter->non_food,3
+Barking and Dagenham,pre_covid,counter->service,4
+Barking and Dagenham,pre_covid,service->counter,3
+Barking and Dagenham,pre_covid,service->non_food,15
+Barking and Dagenham,pre_covid,service->service,14
+Barking and Dagenham,pre_covid,went_dark,108
+Barking and Dagenham,revival,counter->counter,4
+Barking and Dagenham,revival,counter->non_food,6
+Barking and Dagenham,revival,counter->service,1
+Barking and Dagenham,revival,service->counter,2
+Barking and Dagenham,revival,service->non_food,1
+Barking and Dagenham,revival,went_dark,43
+Barnet,cost_of_living,counter->counter,47
+Barnet,cost_of_living,counter->non_food,52
+Barnet,cost_of_living,counter->service,16
+Barnet,cost_of_living,service->counter,21
+Barnet,cost_of_living,service->non_food,57
+Barnet,cost_of_living,service->service,89
+Barnet,cost_of_living,went_dark,624
+Barnet,covid,counter->counter,10
+Barnet,covid,counter->non_food,4
+Barnet,covid,counter->service,11
+Barnet,covid,service->counter,6
+Barnet,covid,service->non_food,4
+Barnet,covid,service->service,18
+Barnet,covid,went_dark,121
+Barnet,pre_covid,counter->counter,31
+Barnet,pre_covid,counter->non_food,8
+Barnet,pre_covid,counter->service,19
+Barnet,pre_covid,service->counter,18
+Barnet,pre_covid,service->non_food,18
+Barnet,pre_covid,service->service,51
+Barnet,pre_covid,went_dark,256
+Barnet,revival,counter->counter,9
+Barnet,revival,counter->non_food,9
+Barnet,revival,counter->service,6
+Barnet,revival,service->counter,6
+Barnet,revival,service->non_food,5
+Barnet,revival,service->service,16
+Barnet,revival,went_dark,87
+Bexley,cost_of_living,counter->counter,48
+Bexley,cost_of_living,counter->non_food,18
+Bexley,cost_of_living,counter->service,6
+Bexley,cost_of_living,service->counter,5
+Bexley,cost_of_living,service->non_food,22
+Bexley,cost_of_living,service->service,41
+Bexley,cost_of_living,went_dark,267
+Bexley,covid,counter->counter,5
+Bexley,covid,service->counter,3
+Bexley,covid,service->non_food,4
+Bexley,covid,service->service,10
+Bexley,covid,went_dark,52
+Bexley,pre_covid,counter->counter,26
+Bexley,pre_covid,counter->non_food,5
+Bexley,pre_covid,counter->service,6
+Bexley,pre_covid,service->counter,1
+Bexley,pre_covid,service->non_food,5
+Bexley,pre_covid,service->service,25
+Bexley,pre_covid,went_dark,81
+Bexley,revival,counter->counter,3
+Bexley,revival,counter->non_food,1
+Bexley,revival,counter->service,2
+Bexley,revival,service->counter,1
+Bexley,revival,service->non_food,3
+Bexley,revival,service->service,1
+Bexley,revival,went_dark,42
+Brent,cost_of_living,counter->counter,84
+Brent,cost_of_living,counter->non_food,78
+Brent,cost_of_living,counter->service,21
+Brent,cost_of_living,service->counter,26
+Brent,cost_of_living,service->non_food,69
+Brent,cost_of_living,service->service,87
+Brent,cost_of_living,went_dark,604
+Brent,covid,counter->counter,8
+Brent,covid,counter->non_food,3
+Brent,covid,counter->service,4
+Brent,covid,service->non_food,8
+Brent,covid,service->service,9
+Brent,covid,went_dark,111
+Brent,pre_covid,counter->counter,23
+Brent,pre_covid,counter->non_food,9
+Brent,pre_covid,counter->service,9
+Brent,pre_covid,service->counter,9
+Brent,pre_covid,service->non_food,17
+Brent,pre_covid,service->service,35
+Brent,pre_covid,went_dark,203
+Brent,revival,counter->counter,14
+Brent,revival,counter->non_food,10
+Brent,revival,counter->service,4
+Brent,revival,service->counter,2
+Brent,revival,service->non_food,9
+Brent,revival,service->service,7
+Brent,revival,went_dark,86
+Bromley,cost_of_living,counter->counter,50
+Bromley,cost_of_living,counter->non_food,20
+Bromley,cost_of_living,counter->service,12
+Bromley,cost_of_living,service->counter,17
+Bromley,cost_of_living,service->non_food,34
+Bromley,cost_of_living,service->service,54
+Bromley,cost_of_living,went_dark,294
+Bromley,covid,counter->counter,5
+Bromley,covid,counter->non_food,1
+Bromley,covid,service->counter,2
+Bromley,covid,service->non_food,3
+Bromley,covid,service->service,14
+Bromley,covid,went_dark,83
+Bromley,pre_covid,counter->counter,12
+Bromley,pre_covid,counter->non_food,5
+Bromley,pre_covid,counter->service,8
+Bromley,pre_covid,service->counter,6
+Bromley,pre_covid,service->non_food,9
+Bromley,pre_covid,service->service,29
+Bromley,pre_covid,went_dark,142
+Bromley,revival,counter->counter,7
+Bromley,revival,counter->service,1
+Bromley,revival,service->counter,2
+Bromley,revival,service->non_food,5
+Bromley,revival,service->service,12
+Bromley,revival,went_dark,43
+Broxbourne,cost_of_living,counter->counter,14
+Broxbourne,cost_of_living,counter->non_food,8
+Broxbourne,cost_of_living,counter->service,2
+Broxbourne,cost_of_living,service->counter,3
+Broxbourne,cost_of_living,service->non_food,3
+Broxbourne,cost_of_living,service->service,10
+Broxbourne,cost_of_living,went_dark,59
+Broxbourne,covid,counter->counter,3
+Broxbourne,covid,counter->service,3
+Broxbourne,covid,went_dark,10
+Broxbourne,pre_covid,counter->counter,6
+Broxbourne,pre_covid,counter->service,1
+Broxbourne,pre_covid,service->counter,3
+Broxbourne,pre_covid,service->non_food,1
+Broxbourne,pre_covid,service->service,4
+Broxbourne,pre_covid,went_dark,17
+Broxbourne,revival,counter->counter,2
+Broxbourne,revival,service->non_food,1
+Broxbourne,revival,service->service,1
+Broxbourne,revival,went_dark,7
+Buckinghamshire,cost_of_living,service->service,1
+Buckinghamshire,cost_of_living,went_dark,9
+Buckinghamshire,covid,went_dark,1
+Buckinghamshire,pre_covid,counter->non_food,1
+Buckinghamshire,pre_covid,went_dark,2
+Buckinghamshire,revival,went_dark,2
+Camden,cost_of_living,counter->counter,24
+Camden,cost_of_living,counter->non_food,37
+Camden,cost_of_living,counter->service,19
+Camden,cost_of_living,service->counter,13
+Camden,cost_of_living,service->non_food,49
+Camden,cost_of_living,service->service,72
+Camden,cost_of_living,went_dark,420
+Camden,covid,counter->counter,1
+Camden,covid,counter->non_food,4
+Camden,covid,service->counter,3
+Camden,covid,service->non_food,9
+Camden,covid,service->service,10
+Camden,covid,went_dark,99
+Camden,pre_covid,counter->counter,12
+Camden,pre_covid,counter->non_food,10
+Camden,pre_covid,counter->service,9
+Camden,pre_covid,service->counter,5
+Camden,pre_covid,service->non_food,16
+Camden,pre_covid,service->service,50
+Camden,pre_covid,went_dark,214
+Camden,revival,counter->counter,2
+Camden,revival,counter->non_food,4
+Camden,revival,counter->service,1
+Camden,revival,service->counter,1
+Camden,revival,service->non_food,13
+Camden,revival,service->service,6
+Camden,revival,went_dark,66
+City of London,cost_of_living,counter->counter,2
+City of London,cost_of_living,counter->non_food,3
+City of London,cost_of_living,counter->service,2
+City of London,cost_of_living,service->counter,2
+City of London,cost_of_living,service->non_food,12
+City of London,cost_of_living,service->service,16
+City of London,cost_of_living,went_dark,89
+City of London,covid,counter->counter,1
+City of London,covid,counter->non_food,2
+City of London,covid,counter->service,1
+City of London,covid,service->counter,1
+City of London,covid,service->non_food,6
+City of London,covid,service->service,3
+City of London,covid,went_dark,32
+City of London,pre_covid,counter->non_food,1
+City of London,pre_covid,counter->service,2
+City of London,pre_covid,service->counter,1
+City of London,pre_covid,service->non_food,5
+City of London,pre_covid,service->service,15
+City of London,pre_covid,went_dark,63
+City of London,revival,counter->non_food,1
+City of London,revival,service->non_food,5
+City of London,revival,service->service,3
+City of London,revival,went_dark,14
+Croydon,cost_of_living,counter->counter,135
+Croydon,cost_of_living,counter->non_food,60
+Croydon,cost_of_living,counter->service,41
+Croydon,cost_of_living,service->counter,30
+Croydon,cost_of_living,service->non_food,50
+Croydon,cost_of_living,service->service,74
+Croydon,cost_of_living,went_dark,553
+Croydon,covid,counter->counter,15
+Croydon,covid,counter->non_food,5
+Croydon,covid,counter->service,3
+Croydon,covid,service->counter,7
+Croydon,covid,service->non_food,8
+Croydon,covid,service->service,9
+Croydon,covid,went_dark,112
+Croydon,pre_covid,counter->counter,45
+Croydon,pre_covid,counter->non_food,7
+Croydon,pre_covid,counter->service,19
+Croydon,pre_covid,service->counter,10
+Croydon,pre_covid,service->non_food,7
+Croydon,pre_covid,service->service,39
+Croydon,pre_covid,went_dark,174
+Croydon,revival,counter->counter,24
+Croydon,revival,counter->non_food,3
+Croydon,revival,counter->service,2
+Croydon,revival,service->counter,3
+Croydon,revival,service->non_food,7
+Croydon,revival,service->service,4
+Croydon,revival,went_dark,81
+Dartford,cost_of_living,counter->counter,10
+Dartford,cost_of_living,counter->non_food,9
+Dartford,cost_of_living,service->counter,2
+Dartford,cost_of_living,service->non_food,5
+Dartford,cost_of_living,service->service,1
+Dartford,cost_of_living,went_dark,63
+Dartford,covid,counter->counter,1
+Dartford,covid,went_dark,8
+Dartford,pre_covid,counter->counter,6
+Dartford,pre_covid,counter->non_food,2
+Dartford,pre_covid,counter->service,1
+Dartford,pre_covid,service->non_food,2
+Dartford,pre_covid,service->service,2
+Dartford,pre_covid,went_dark,30
+Dartford,revival,counter->counter,2
+Dartford,revival,service->service,2
+Dartford,revival,went_dark,5
+Ealing,cost_of_living,counter->counter,46
+Ealing,cost_of_living,counter->non_food,51
+Ealing,cost_of_living,counter->service,21
+Ealing,cost_of_living,service->counter,20
+Ealing,cost_of_living,service->non_food,66
+Ealing,cost_of_living,service->service,103
+Ealing,cost_of_living,went_dark,584
+Ealing,covid,counter->counter,5
+Ealing,covid,counter->non_food,3
+Ealing,covid,service->counter,4
+Ealing,covid,service->non_food,7
+Ealing,covid,service->service,16
+Ealing,covid,went_dark,114
+Ealing,pre_covid,counter->counter,22
+Ealing,pre_covid,counter->non_food,15
+Ealing,pre_covid,counter->service,9
+Ealing,pre_covid,service->counter,10
+Ealing,pre_covid,service->non_food,15
+Ealing,pre_covid,service->service,54
+Ealing,pre_covid,went_dark,203
+Ealing,revival,counter->counter,7
+Ealing,revival,counter->non_food,5
+Ealing,revival,counter->service,2
+Ealing,revival,service->counter,4
+Ealing,revival,service->non_food,8
+Ealing,revival,service->service,11
+Ealing,revival,went_dark,85
+Elmbridge,cost_of_living,counter->counter,5
+Elmbridge,cost_of_living,counter->non_food,1
+Elmbridge,cost_of_living,counter->service,1
+Elmbridge,cost_of_living,service->counter,1
+Elmbridge,cost_of_living,service->service,5
+Elmbridge,cost_of_living,went_dark,27
+Elmbridge,covid,counter->counter,2
+Elmbridge,covid,counter->service,1
+Elmbridge,covid,service->service,2
+Elmbridge,covid,went_dark,5
+Elmbridge,pre_covid,counter->counter,1
+Elmbridge,pre_covid,counter->service,1
+Elmbridge,pre_covid,service->service,4
+Elmbridge,pre_covid,went_dark,12
+Elmbridge,revival,went_dark,4
+Enfield,cost_of_living,counter->counter,58
+Enfield,cost_of_living,counter->non_food,36
+Enfield,cost_of_living,counter->service,16
+Enfield,cost_of_living,service->counter,21
+Enfield,cost_of_living,service->non_food,32
+Enfield,cost_of_living,service->service,68
+Enfield,cost_of_living,went_dark,460
+Enfield,covid,counter->counter,13
+Enfield,covid,counter->non_food,6
+Enfield,covid,counter->service,2
+Enfield,covid,service->counter,2
+Enfield,covid,service->non_food,11
+Enfield,covid,service->service,12
+Enfield,covid,went_dark,85
+Enfield,pre_covid,counter->counter,35
+Enfield,pre_covid,counter->non_food,12
+Enfield,pre_covid,counter->service,11
+Enfield,pre_covid,service->counter,6
+Enfield,pre_covid,service->non_food,16
+Enfield,pre_covid,service->service,35
+Enfield,pre_covid,went_dark,183
+Enfield,revival,counter->counter,6
+Enfield,revival,counter->non_food,5
+Enfield,revival,counter->service,3
+Enfield,revival,service->counter,1
+Enfield,revival,service->non_food,7
+Enfield,revival,service->service,8
+Enfield,revival,went_dark,54
+Epping Forest,cost_of_living,counter->counter,3
+Epping Forest,cost_of_living,counter->non_food,8
+Epping Forest,cost_of_living,counter->service,2
+Epping Forest,cost_of_living,service->counter,7
+Epping Forest,cost_of_living,service->non_food,10
+Epping Forest,cost_of_living,service->service,15
+Epping Forest,cost_of_living,went_dark,51
+Epping Forest,covid,counter->counter,5
+Epping Forest,covid,counter->non_food,3
+Epping Forest,covid,counter->service,2
+Epping Forest,covid,service->counter,3
+Epping Forest,covid,service->non_food,5
+Epping Forest,covid,service->service,4
+Epping Forest,covid,went_dark,9
+Epping Forest,pre_covid,counter->counter,4
+Epping Forest,pre_covid,counter->non_food,2
+Epping Forest,pre_covid,counter->service,2
+Epping Forest,pre_covid,service->counter,5
+Epping Forest,pre_covid,service->service,9
+Epping Forest,pre_covid,went_dark,23
+Epping Forest,revival,counter->counter,1
+Epping Forest,revival,counter->non_food,1
+Epping Forest,revival,counter->service,2
+Epping Forest,revival,service->counter,1
+Epping Forest,revival,service->non_food,2
+Epping Forest,revival,service->service,2
+Epping Forest,revival,went_dark,9
+Epsom and Ewell,cost_of_living,counter->counter,16
+Epsom and Ewell,cost_of_living,counter->non_food,9
+Epsom and Ewell,cost_of_living,counter->service,4
+Epsom and Ewell,cost_of_living,service->counter,1
+Epsom and Ewell,cost_of_living,service->non_food,6
+Epsom and Ewell,cost_of_living,service->service,10
+Epsom and Ewell,cost_of_living,went_dark,67
+Epsom and Ewell,covid,counter->counter,1
+Epsom and Ewell,covid,service->service,3
+Epsom and Ewell,covid,went_dark,5
+Epsom and Ewell,pre_covid,counter->counter,7
+Epsom and Ewell,pre_covid,counter->service,2
+Epsom and Ewell,pre_covid,service->service,5
+Epsom and Ewell,pre_covid,went_dark,26
+Epsom and Ewell,revival,counter->counter,4
+Epsom and Ewell,revival,counter->non_food,1
+Epsom and Ewell,revival,counter->service,1
+Epsom and Ewell,revival,service->counter,1
+Epsom and Ewell,revival,went_dark,7
+Greenwich,cost_of_living,counter->counter,51
+Greenwich,cost_of_living,counter->non_food,48
+Greenwich,cost_of_living,counter->service,9
+Greenwich,cost_of_living,service->counter,12
+Greenwich,cost_of_living,service->non_food,29
+Greenwich,cost_of_living,service->service,41
+Greenwich,cost_of_living,went_dark,371
+Greenwich,covid,counter->counter,9
+Greenwich,covid,counter->non_food,8
+Greenwich,covid,service->counter,2
+Greenwich,covid,service->non_food,4
+Greenwich,covid,service->service,5
+Greenwich,covid,went_dark,68
+Greenwich,pre_covid,counter->counter,13
+Greenwich,pre_covid,counter->non_food,6
+Greenwich,pre_covid,counter->service,4
+Greenwich,pre_covid,service->counter,2
+Greenwich,pre_covid,service->non_food,8
+Greenwich,pre_covid,service->service,9
+Greenwich,pre_covid,went_dark,118
+Greenwich,revival,counter->counter,7
+Greenwich,revival,counter->non_food,5
+Greenwich,revival,counter->service,1
+Greenwich,revival,service->counter,2
+Greenwich,revival,service->non_food,4
+Greenwich,revival,service->service,4
+Greenwich,revival,went_dark,37
+Hackney,cost_of_living,counter->counter,58
+Hackney,cost_of_living,counter->non_food,44
+Hackney,cost_of_living,counter->service,20
+Hackney,cost_of_living,service->counter,19
+Hackney,cost_of_living,service->non_food,44
+Hackney,cost_of_living,service->service,115
+Hackney,cost_of_living,went_dark,474
+Hackney,covid,counter->counter,5
+Hackney,covid,counter->non_food,5
+Hackney,covid,counter->service,2
+Hackney,covid,service->counter,4
+Hackney,covid,service->non_food,9
+Hackney,covid,service->service,22
+Hackney,covid,went_dark,91
+Hackney,pre_covid,counter->counter,27
+Hackney,pre_covid,counter->non_food,6
+Hackney,pre_covid,counter->service,12
+Hackney,pre_covid,service->counter,13
+Hackney,pre_covid,service->non_food,10
+Hackney,pre_covid,service->service,51
+Hackney,pre_covid,went_dark,230
+Hackney,revival,counter->counter,9
+Hackney,revival,counter->non_food,10
+Hackney,revival,counter->service,3
+Hackney,revival,service->counter,1
+Hackney,revival,service->non_food,9
+Hackney,revival,service->service,13
+Hackney,revival,went_dark,64
+Hammersmith and Fulham,cost_of_living,counter->counter,22
+Hammersmith and Fulham,cost_of_living,counter->non_food,27
+Hammersmith and Fulham,cost_of_living,counter->service,25
+Hammersmith and Fulham,cost_of_living,service->counter,17
+Hammersmith and Fulham,cost_of_living,service->non_food,27
+Hammersmith and Fulham,cost_of_living,service->service,71
+Hammersmith and Fulham,cost_of_living,went_dark,321
+Hammersmith and Fulham,covid,counter->counter,6
+Hammersmith and Fulham,covid,counter->non_food,4
+Hammersmith and Fulham,covid,service->counter,2
+Hammersmith and Fulham,covid,service->non_food,5
+Hammersmith and Fulham,covid,service->service,8
+Hammersmith and Fulham,covid,went_dark,53
+Hammersmith and Fulham,pre_covid,counter->counter,18
+Hammersmith and Fulham,pre_covid,counter->non_food,7
+Hammersmith and Fulham,pre_covid,counter->service,8
+Hammersmith and Fulham,pre_covid,service->counter,2
+Hammersmith and Fulham,pre_covid,service->non_food,12
+Hammersmith and Fulham,pre_covid,service->service,42
+Hammersmith and Fulham,pre_covid,went_dark,129
+Hammersmith and Fulham,revival,counter->counter,2
+Hammersmith and Fulham,revival,counter->non_food,6
+Hammersmith and Fulham,revival,counter->service,2
+Hammersmith and Fulham,revival,service->counter,1
+Hammersmith and Fulham,revival,service->non_food,2
+Hammersmith and Fulham,revival,service->service,4
+Hammersmith and Fulham,revival,went_dark,42
+Haringey,cost_of_living,counter->counter,107
+Haringey,cost_of_living,counter->non_food,41
+Haringey,cost_of_living,counter->service,18
+Haringey,cost_of_living,service->counter,25
+Haringey,cost_of_living,service->non_food,51
+Haringey,cost_of_living,service->service,98
+Haringey,cost_of_living,went_dark,431
+Haringey,covid,counter->counter,15
+Haringey,covid,counter->non_food,3
+Haringey,covid,counter->service,6
+Haringey,covid,service->counter,4
+Haringey,covid,service->non_food,1
+Haringey,covid,service->service,9
+Haringey,covid,went_dark,73
+Haringey,pre_covid,counter->counter,26
+Haringey,pre_covid,counter->non_food,7
+Haringey,pre_covid,counter->service,16
+Haringey,pre_covid,service->counter,13
+Haringey,pre_covid,service->non_food,13
+Haringey,pre_covid,service->service,46
+Haringey,pre_covid,went_dark,184
+Haringey,revival,counter->counter,11
+Haringey,revival,counter->non_food,8
+Haringey,revival,counter->service,4
+Haringey,revival,service->counter,2
+Haringey,revival,service->non_food,3
+Haringey,revival,service->service,8
+Haringey,revival,went_dark,57
+Harrow,cost_of_living,counter->counter,34
+Harrow,cost_of_living,counter->non_food,42
+Harrow,cost_of_living,counter->service,12
+Harrow,cost_of_living,service->counter,13
+Harrow,cost_of_living,service->non_food,37
+Harrow,cost_of_living,service->service,39
+Harrow,cost_of_living,went_dark,408
+Harrow,covid,counter->counter,4
+Harrow,covid,counter->non_food,3
+Harrow,covid,counter->service,3
+Harrow,covid,service->counter,2
+Harrow,covid,service->non_food,6
+Harrow,covid,service->service,6
+Harrow,covid,went_dark,60
+Harrow,pre_covid,counter->counter,16
+Harrow,pre_covid,counter->non_food,6
+Harrow,pre_covid,counter->service,7
+Harrow,pre_covid,service->counter,4
+Harrow,pre_covid,service->non_food,7
+Harrow,pre_covid,service->service,14
+Harrow,pre_covid,went_dark,142
+Harrow,revival,counter->counter,4
+Harrow,revival,counter->non_food,3
+Harrow,revival,counter->service,1
+Harrow,revival,service->non_food,8
+Harrow,revival,service->service,7
+Harrow,revival,went_dark,48
+Havering,cost_of_living,counter->counter,82
+Havering,cost_of_living,counter->non_food,33
+Havering,cost_of_living,counter->service,19
+Havering,cost_of_living,service->counter,10
+Havering,cost_of_living,service->non_food,26
+Havering,cost_of_living,service->service,76
+Havering,cost_of_living,went_dark,294
+Havering,covid,counter->counter,12
+Havering,covid,counter->service,4
+Havering,covid,service->counter,2
+Havering,covid,service->non_food,1
+Havering,covid,service->service,7
+Havering,covid,went_dark,46
+Havering,pre_covid,counter->counter,19
+Havering,pre_covid,counter->non_food,3
+Havering,pre_covid,counter->service,2
+Havering,pre_covid,service->counter,3
+Havering,pre_covid,service->non_food,2
+Havering,pre_covid,service->service,27
+Havering,pre_covid,went_dark,90
+Havering,revival,counter->counter,5
+Havering,revival,counter->non_food,5
+Havering,revival,counter->service,1
+Havering,revival,service->counter,1
+Havering,revival,service->non_food,4
+Havering,revival,service->service,7
+Havering,revival,went_dark,33
+Hertsmere,cost_of_living,counter->counter,12
+Hertsmere,cost_of_living,counter->non_food,6
+Hertsmere,cost_of_living,counter->service,2
+Hertsmere,cost_of_living,service->counter,1
+Hertsmere,cost_of_living,service->non_food,7
+Hertsmere,cost_of_living,service->service,11
+Hertsmere,cost_of_living,went_dark,99
+Hertsmere,covid,counter->counter,1
+Hertsmere,covid,counter->service,2
+Hertsmere,covid,service->counter,2
+Hertsmere,covid,service->service,4
+Hertsmere,covid,went_dark,23
+Hertsmere,pre_covid,counter->counter,4
+Hertsmere,pre_covid,counter->non_food,1
+Hertsmere,pre_covid,service->counter,2
+Hertsmere,pre_covid,service->non_food,1
+Hertsmere,pre_covid,service->service,9
+Hertsmere,pre_covid,went_dark,34
+Hertsmere,revival,counter->non_food,2
+Hertsmere,revival,service->counter,1
+Hertsmere,revival,service->non_food,4
+Hertsmere,revival,service->service,3
+Hertsmere,revival,went_dark,12
+Hillingdon,cost_of_living,counter->counter,79
+Hillingdon,cost_of_living,counter->non_food,44
+Hillingdon,cost_of_living,counter->service,12
+Hillingdon,cost_of_living,service->counter,21
+Hillingdon,cost_of_living,service->non_food,35
+Hillingdon,cost_of_living,service->service,33
+Hillingdon,cost_of_living,went_dark,383
+Hillingdon,covid,counter->counter,8
+Hillingdon,covid,counter->non_food,4
+Hillingdon,covid,counter->service,1
+Hillingdon,covid,service->non_food,6
+Hillingdon,covid,service->service,7
+Hillingdon,covid,went_dark,62
+Hillingdon,pre_covid,counter->counter,26
+Hillingdon,pre_covid,counter->non_food,12
+Hillingdon,pre_covid,counter->service,4
+Hillingdon,pre_covid,service->counter,3
+Hillingdon,pre_covid,service->non_food,10
+Hillingdon,pre_covid,service->service,14
+Hillingdon,pre_covid,went_dark,110
+Hillingdon,revival,counter->counter,6
+Hillingdon,revival,counter->non_food,10
+Hillingdon,revival,service->counter,3
+Hillingdon,revival,service->service,3
+Hillingdon,revival,went_dark,62
+Hounslow,cost_of_living,counter->counter,28
+Hounslow,cost_of_living,counter->non_food,55
+Hounslow,cost_of_living,counter->service,17
+Hounslow,cost_of_living,service->counter,12
+Hounslow,cost_of_living,service->non_food,62
+Hounslow,cost_of_living,service->service,52
+Hounslow,cost_of_living,went_dark,433
+Hounslow,covid,counter->counter,4
+Hounslow,covid,counter->non_food,1
+Hounslow,covid,counter->service,2
+Hounslow,covid,service->counter,4
+Hounslow,covid,service->non_food,4
+Hounslow,covid,service->service,10
+Hounslow,covid,went_dark,63
+Hounslow,pre_covid,counter->counter,16
+Hounslow,pre_covid,counter->non_food,6
+Hounslow,pre_covid,counter->service,5
+Hounslow,pre_covid,service->counter,5
+Hounslow,pre_covid,service->non_food,14
+Hounslow,pre_covid,service->service,28
+Hounslow,pre_covid,went_dark,112
+Hounslow,revival,counter->counter,3
+Hounslow,revival,counter->non_food,5
+Hounslow,revival,counter->service,2
+Hounslow,revival,service->counter,2
+Hounslow,revival,service->non_food,7
+Hounslow,revival,service->service,3
+Hounslow,revival,went_dark,56
+Islington,cost_of_living,counter->counter,58
+Islington,cost_of_living,counter->non_food,26
+Islington,cost_of_living,counter->service,25
+Islington,cost_of_living,service->counter,21
+Islington,cost_of_living,service->non_food,62
+Islington,cost_of_living,service->service,129
+Islington,cost_of_living,went_dark,468
+Islington,covid,counter->counter,11
+Islington,covid,counter->non_food,2
+Islington,covid,counter->service,4
+Islington,covid,service->counter,9
+Islington,covid,service->non_food,6
+Islington,covid,service->service,38
+Islington,covid,went_dark,76
+Islington,pre_covid,counter->counter,36
+Islington,pre_covid,counter->non_food,7
+Islington,pre_covid,counter->service,14
+Islington,pre_covid,service->counter,12
+Islington,pre_covid,service->non_food,16
+Islington,pre_covid,service->service,58
+Islington,pre_covid,went_dark,170
+Islington,revival,counter->counter,4
+Islington,revival,counter->non_food,4
+Islington,revival,counter->service,6
+Islington,revival,service->counter,8
+Islington,revival,service->service,15
+Islington,revival,went_dark,58
+Kensington and Chelsea,cost_of_living,counter->counter,3
+Kensington and Chelsea,cost_of_living,counter->non_food,15
+Kensington and Chelsea,cost_of_living,counter->service,5
+Kensington and Chelsea,cost_of_living,service->counter,3
+Kensington and Chelsea,cost_of_living,service->non_food,34
+Kensington and Chelsea,cost_of_living,service->service,17
+Kensington and Chelsea,cost_of_living,went_dark,228
+Kensington and Chelsea,covid,counter->counter,3
+Kensington and Chelsea,covid,service->non_food,5
+Kensington and Chelsea,covid,service->service,11
+Kensington and Chelsea,covid,went_dark,49
+Kensington and Chelsea,pre_covid,counter->counter,2
+Kensington and Chelsea,pre_covid,counter->non_food,2
+Kensington and Chelsea,pre_covid,service->counter,1
+Kensington and Chelsea,pre_covid,service->non_food,7
+Kensington and Chelsea,pre_covid,service->service,14
+Kensington and Chelsea,pre_covid,went_dark,89
+Kensington and Chelsea,revival,counter->non_food,2
+Kensington and Chelsea,revival,counter->service,1
+Kensington and Chelsea,revival,service->non_food,6
+Kensington and Chelsea,revival,service->service,1
+Kensington and Chelsea,revival,went_dark,41
+Kingston upon Thames,cost_of_living,counter->counter,24
+Kingston upon Thames,cost_of_living,counter->non_food,20
+Kingston upon Thames,cost_of_living,counter->service,5
+Kingston upon Thames,cost_of_living,service->counter,9
+Kingston upon Thames,cost_of_living,service->non_food,21
+Kingston upon Thames,cost_of_living,service->service,29
+Kingston upon Thames,cost_of_living,went_dark,175
+Kingston upon Thames,covid,counter->counter,3
+Kingston upon Thames,covid,counter->service,2
+Kingston upon Thames,covid,service->counter,4
+Kingston upon Thames,covid,service->non_food,4
+Kingston upon Thames,covid,service->service,4
+Kingston upon Thames,covid,went_dark,40
+Kingston upon Thames,pre_covid,counter->counter,13
+Kingston upon Thames,pre_covid,counter->non_food,2
+Kingston upon Thames,pre_covid,counter->service,6
+Kingston upon Thames,pre_covid,service->counter,7
+Kingston upon Thames,pre_covid,service->non_food,3
+Kingston upon Thames,pre_covid,service->service,20
+Kingston upon Thames,pre_covid,went_dark,76
+Kingston upon Thames,revival,counter->counter,5
+Kingston upon Thames,revival,counter->non_food,3
+Kingston upon Thames,revival,service->non_food,2
+Kingston upon Thames,revival,service->service,6
+Kingston upon Thames,revival,went_dark,24
+Lambeth,cost_of_living,counter->counter,54
+Lambeth,cost_of_living,counter->non_food,61
+Lambeth,cost_of_living,counter->service,23
+Lambeth,cost_of_living,service->counter,13
+Lambeth,cost_of_living,service->non_food,42
+Lambeth,cost_of_living,service->service,50
+Lambeth,cost_of_living,went_dark,418
+Lambeth,covid,counter->counter,12
+Lambeth,covid,counter->non_food,3
+Lambeth,covid,counter->service,4
+Lambeth,covid,service->counter,2
+Lambeth,covid,service->non_food,5
+Lambeth,covid,service->service,5
+Lambeth,covid,went_dark,102
+Lambeth,pre_covid,counter->counter,33
+Lambeth,pre_covid,counter->non_food,4
+Lambeth,pre_covid,counter->service,6
+Lambeth,pre_covid,service->counter,5
+Lambeth,pre_covid,service->non_food,7
+Lambeth,pre_covid,service->service,25
+Lambeth,pre_covid,went_dark,187
+Lambeth,revival,counter->counter,9
+Lambeth,revival,counter->non_food,2
+Lambeth,revival,counter->service,2
+Lambeth,revival,service->counter,2
+Lambeth,revival,service->non_food,7
+Lambeth,revival,service->service,2
+Lambeth,revival,went_dark,84
+Lewisham,cost_of_living,counter->counter,84
+Lewisham,cost_of_living,counter->non_food,50
+Lewisham,cost_of_living,counter->service,17
+Lewisham,cost_of_living,service->counter,15
+Lewisham,cost_of_living,service->non_food,21
+Lewisham,cost_of_living,service->service,73
+Lewisham,cost_of_living,went_dark,454
+Lewisham,covid,counter->counter,12
+Lewisham,covid,counter->non_food,9
+Lewisham,covid,counter->service,5
+Lewisham,covid,service->counter,2
+Lewisham,covid,service->non_food,8
+Lewisham,covid,service->service,8
+Lewisham,covid,went_dark,79
+Lewisham,pre_covid,counter->counter,27
+Lewisham,pre_covid,counter->non_food,9
+Lewisham,pre_covid,counter->service,7
+Lewisham,pre_covid,service->counter,3
+Lewisham,pre_covid,service->non_food,4
+Lewisham,pre_covid,service->service,16
+Lewisham,pre_covid,went_dark,159
+Lewisham,revival,counter->counter,11
+Lewisham,revival,counter->non_food,7
+Lewisham,revival,service->non_food,2
+Lewisham,revival,service->service,10
+Lewisham,revival,went_dark,61
+Merton,cost_of_living,counter->counter,42
+Merton,cost_of_living,counter->non_food,23
+Merton,cost_of_living,counter->service,18
+Merton,cost_of_living,service->counter,16
+Merton,cost_of_living,service->non_food,25
+Merton,cost_of_living,service->service,16
+Merton,cost_of_living,went_dark,251
+Merton,covid,counter->counter,4
+Merton,covid,counter->non_food,2
+Merton,covid,counter->service,2
+Merton,covid,service->counter,4
+Merton,covid,service->non_food,8
+Merton,covid,service->service,4
+Merton,covid,went_dark,47
+Merton,pre_covid,counter->counter,21
+Merton,pre_covid,counter->non_food,8
+Merton,pre_covid,counter->service,5
+Merton,pre_covid,service->counter,8
+Merton,pre_covid,service->non_food,4
+Merton,pre_covid,service->service,7
+Merton,pre_covid,went_dark,116
+Merton,revival,counter->counter,6
+Merton,revival,counter->non_food,4
+Merton,revival,service->counter,1
+Merton,revival,service->non_food,2
+Merton,revival,service->service,2
+Merton,revival,went_dark,36
+Mole Valley,cost_of_living,counter->counter,3
+Mole Valley,cost_of_living,counter->service,1
+Mole Valley,cost_of_living,service->counter,2
+Mole Valley,cost_of_living,service->non_food,3
+Mole Valley,cost_of_living,service->service,4
+Mole Valley,cost_of_living,went_dark,20
+Mole Valley,covid,counter->service,1
+Mole Valley,covid,went_dark,2
+Mole Valley,pre_covid,service->counter,1
+Mole Valley,pre_covid,service->service,3
+Mole Valley,pre_covid,went_dark,7
+Mole Valley,revival,went_dark,2
+Newham,cost_of_living,counter->counter,104
+Newham,cost_of_living,counter->non_food,123
+Newham,cost_of_living,counter->service,59
+Newham,cost_of_living,service->counter,37
+Newham,cost_of_living,service->non_food,92
+Newham,cost_of_living,service->service,119
+Newham,cost_of_living,went_dark,743
+Newham,covid,counter->counter,13
+Newham,covid,counter->non_food,7
+Newham,covid,counter->service,8
+Newham,covid,service->counter,7
+Newham,covid,service->non_food,9
+Newham,covid,service->service,16
+Newham,covid,went_dark,110
+Newham,pre_covid,counter->counter,32
+Newham,pre_covid,counter->non_food,16
+Newham,pre_covid,counter->service,16
+Newham,pre_covid,service->counter,12
+Newham,pre_covid,service->non_food,26
+Newham,pre_covid,service->service,40
+Newham,pre_covid,went_dark,238
+Newham,revival,counter->counter,8
+Newham,revival,counter->non_food,19
+Newham,revival,counter->service,6
+Newham,revival,service->counter,3
+Newham,revival,service->non_food,11
+Newham,revival,service->service,15
+Newham,revival,went_dark,107
+Redbridge,cost_of_living,counter->counter,67
+Redbridge,cost_of_living,counter->non_food,91
+Redbridge,cost_of_living,counter->service,32
+Redbridge,cost_of_living,service->counter,26
+Redbridge,cost_of_living,service->non_food,79
+Redbridge,cost_of_living,service->service,101
+Redbridge,cost_of_living,went_dark,573
+Redbridge,covid,counter->counter,9
+Redbridge,covid,counter->non_food,2
+Redbridge,covid,counter->service,2
+Redbridge,covid,service->counter,3
+Redbridge,covid,service->non_food,7
+Redbridge,covid,service->service,12
+Redbridge,covid,went_dark,88
+Redbridge,pre_covid,counter->counter,22
+Redbridge,pre_covid,counter->non_food,12
+Redbridge,pre_covid,counter->service,13
+Redbridge,pre_covid,service->counter,9
+Redbridge,pre_covid,service->non_food,24
+Redbridge,pre_covid,service->service,44
+Redbridge,pre_covid,went_dark,183
+Redbridge,revival,counter->counter,6
+Redbridge,revival,counter->non_food,11
+Redbridge,revival,service->counter,3
+Redbridge,revival,service->non_food,7
+Redbridge,revival,service->service,11
+Redbridge,revival,went_dark,71
+Reigate and Banstead,cost_of_living,counter->counter,4
+Reigate and Banstead,cost_of_living,counter->non_food,4
+Reigate and Banstead,cost_of_living,service->counter,1
+Reigate and Banstead,cost_of_living,service->non_food,3
+Reigate and Banstead,cost_of_living,service->service,5
+Reigate and Banstead,cost_of_living,went_dark,15
+Reigate and Banstead,covid,went_dark,2
+Reigate and Banstead,pre_covid,service->non_food,1
+Reigate and Banstead,pre_covid,service->service,1
+Reigate and Banstead,pre_covid,went_dark,10
+Reigate and Banstead,revival,counter->non_food,1
+Reigate and Banstead,revival,service->service,1
+Reigate and Banstead,revival,went_dark,4
+Richmond upon Thames,cost_of_living,counter->counter,30
+Richmond upon Thames,cost_of_living,counter->non_food,11
+Richmond upon Thames,cost_of_living,counter->service,7
+Richmond upon Thames,cost_of_living,service->counter,8
+Richmond upon Thames,cost_of_living,service->non_food,11
+Richmond upon Thames,cost_of_living,service->service,38
+Richmond upon Thames,cost_of_living,went_dark,182
+Richmond upon Thames,covid,counter->counter,3
+Richmond upon Thames,covid,counter->non_food,3
+Richmond upon Thames,covid,counter->service,1
+Richmond upon Thames,covid,service->counter,2
+Richmond upon Thames,covid,service->service,6
+Richmond upon Thames,covid,went_dark,26
+Richmond upon Thames,pre_covid,counter->counter,6
+Richmond upon Thames,pre_covid,counter->non_food,3
+Richmond upon Thames,pre_covid,counter->service,1
+Richmond upon Thames,pre_covid,service->counter,3
+Richmond upon Thames,pre_covid,service->non_food,4
+Richmond upon Thames,pre_covid,service->service,9
+Richmond upon Thames,pre_covid,went_dark,73
+Richmond upon Thames,revival,counter->counter,2
+Richmond upon Thames,revival,counter->non_food,2
+Richmond upon Thames,revival,counter->service,1
+Richmond upon Thames,revival,service->counter,1
+Richmond upon Thames,revival,service->service,3
+Richmond upon Thames,revival,went_dark,29
+Sevenoaks,cost_of_living,counter->counter,4
+Sevenoaks,cost_of_living,counter->non_food,1
+Sevenoaks,cost_of_living,service->counter,1
+Sevenoaks,cost_of_living,service->non_food,2
+Sevenoaks,cost_of_living,service->service,4
+Sevenoaks,cost_of_living,went_dark,13
+Sevenoaks,covid,service->service,1
+Sevenoaks,covid,went_dark,1
+Sevenoaks,pre_covid,counter->counter,1
+Sevenoaks,revival,went_dark,1
+Southwark,cost_of_living,counter->counter,49
+Southwark,cost_of_living,counter->non_food,65
+Southwark,cost_of_living,counter->service,16
+Southwark,cost_of_living,service->counter,15
+Southwark,cost_of_living,service->non_food,42
+Southwark,cost_of_living,service->service,58
+Southwark,cost_of_living,went_dark,489
+Southwark,covid,counter->counter,11
+Southwark,covid,counter->non_food,5
+Southwark,covid,counter->service,4
+Southwark,covid,service->counter,1
+Southwark,covid,service->non_food,5
+Southwark,covid,service->service,9
+Southwark,covid,went_dark,98
+Southwark,pre_covid,counter->counter,17
+Southwark,pre_covid,counter->non_food,8
+Southwark,pre_covid,counter->service,5
+Southwark,pre_covid,service->counter,9
+Southwark,pre_covid,service->non_food,7
+Southwark,pre_covid,service->service,28
+Southwark,pre_covid,went_dark,184
+Southwark,revival,counter->counter,4
+Southwark,revival,counter->non_food,7
+Southwark,revival,counter->service,5
+Southwark,revival,service->counter,1
+Southwark,revival,service->non_food,7
+Southwark,revival,service->service,7
+Southwark,revival,went_dark,71
+Spelthorne,cost_of_living,counter->counter,9
+Spelthorne,cost_of_living,counter->non_food,7
+Spelthorne,cost_of_living,service->non_food,5
+Spelthorne,cost_of_living,service->service,3
+Spelthorne,cost_of_living,went_dark,42
+Spelthorne,covid,went_dark,7
+Spelthorne,pre_covid,counter->counter,7
+Spelthorne,pre_covid,service->counter,1
+Spelthorne,pre_covid,service->non_food,1
+Spelthorne,pre_covid,service->service,2
+Spelthorne,pre_covid,went_dark,12
+Spelthorne,revival,counter->counter,2
+Spelthorne,revival,went_dark,5
+Sutton,cost_of_living,counter->counter,34
+Sutton,cost_of_living,counter->non_food,9
+Sutton,cost_of_living,counter->service,7
+Sutton,cost_of_living,service->counter,4
+Sutton,cost_of_living,service->non_food,20
+Sutton,cost_of_living,service->service,22
+Sutton,cost_of_living,went_dark,233
+Sutton,covid,counter->counter,9
+Sutton,covid,counter->service,2
+Sutton,covid,service->non_food,1
+Sutton,covid,service->service,3
+Sutton,covid,went_dark,47
+Sutton,pre_covid,counter->counter,18
+Sutton,pre_covid,counter->non_food,4
+Sutton,pre_covid,counter->service,1
+Sutton,pre_covid,service->counter,3
+Sutton,pre_covid,service->non_food,1
+Sutton,pre_covid,service->service,11
+Sutton,pre_covid,went_dark,82
+Sutton,revival,counter->counter,4
+Sutton,revival,counter->service,1
+Sutton,revival,service->counter,2
+Sutton,revival,service->non_food,2
+Sutton,revival,service->service,3
+Sutton,revival,went_dark,19
+Tandridge,cost_of_living,counter->counter,9
+Tandridge,cost_of_living,counter->non_food,2
+Tandridge,cost_of_living,counter->service,3
+Tandridge,cost_of_living,service->non_food,1
+Tandridge,cost_of_living,service->service,6
+Tandridge,cost_of_living,went_dark,27
+Tandridge,covid,counter->counter,3
+Tandridge,covid,service->non_food,2
+Tandridge,covid,went_dark,2
+Tandridge,pre_covid,counter->counter,6
+Tandridge,pre_covid,counter->non_food,1
+Tandridge,pre_covid,counter->service,1
+Tandridge,pre_covid,service->non_food,1
+Tandridge,pre_covid,service->service,2
+Tandridge,pre_covid,went_dark,8
+Tandridge,revival,counter->counter,1
+Tandridge,revival,service->non_food,1
+Tandridge,revival,service->service,1
+Tandridge,revival,went_dark,3
+Three Rivers,cost_of_living,counter->counter,6
+Three Rivers,cost_of_living,counter->non_food,2
+Three Rivers,cost_of_living,counter->service,4
+Three Rivers,cost_of_living,service->non_food,3
+Three Rivers,cost_of_living,service->service,5
+Three Rivers,cost_of_living,went_dark,36
+Three Rivers,covid,counter->counter,1
+Three Rivers,covid,counter->service,1
+Three Rivers,covid,service->non_food,1
+Three Rivers,covid,service->service,1
+Three Rivers,covid,went_dark,4
+Three Rivers,pre_covid,counter->counter,2
+Three Rivers,pre_covid,counter->non_food,1
+Three Rivers,pre_covid,service->non_food,6
+Three Rivers,pre_covid,service->service,1
+Three Rivers,pre_covid,went_dark,13
+Three Rivers,revival,went_dark,5
+Thurrock,cost_of_living,counter->counter,7
+Thurrock,cost_of_living,counter->non_food,5
+Thurrock,cost_of_living,service->service,3
+Thurrock,cost_of_living,went_dark,31
+Thurrock,covid,counter->counter,1
+Thurrock,covid,service->non_food,2
+Thurrock,covid,went_dark,4
+Thurrock,pre_covid,went_dark,3
+Thurrock,revival,went_dark,2
+Tower Hamlets,cost_of_living,counter->counter,116
+Tower Hamlets,cost_of_living,counter->non_food,105
+Tower Hamlets,cost_of_living,counter->service,60
+Tower Hamlets,cost_of_living,service->counter,63
+Tower Hamlets,cost_of_living,service->non_food,102
+Tower Hamlets,cost_of_living,service->service,153
+Tower Hamlets,cost_of_living,went_dark,800
+Tower Hamlets,covid,counter->counter,9
+Tower Hamlets,covid,counter->non_food,12
+Tower Hamlets,covid,counter->service,11
+Tower Hamlets,covid,service->counter,7
+Tower Hamlets,covid,service->non_food,13
+Tower Hamlets,covid,service->service,23
+Tower Hamlets,covid,went_dark,140
+Tower Hamlets,pre_covid,counter->counter,38
+Tower Hamlets,pre_covid,counter->non_food,29
+Tower Hamlets,pre_covid,counter->service,19
+Tower Hamlets,pre_covid,service->counter,21
+Tower Hamlets,pre_covid,service->non_food,38
+Tower Hamlets,pre_covid,service->service,70
+Tower Hamlets,pre_covid,went_dark,258
+Tower Hamlets,revival,counter->counter,12
+Tower Hamlets,revival,counter->non_food,13
+Tower Hamlets,revival,counter->service,9
+Tower Hamlets,revival,service->counter,3
+Tower Hamlets,revival,service->non_food,15
+Tower Hamlets,revival,service->service,22
+Tower Hamlets,revival,went_dark,93
+Waltham Forest,cost_of_living,counter->counter,71
+Waltham Forest,cost_of_living,counter->non_food,50
+Waltham Forest,cost_of_living,counter->service,44
+Waltham Forest,cost_of_living,service->counter,36
+Waltham Forest,cost_of_living,service->non_food,53
+Waltham Forest,cost_of_living,service->service,104
+Waltham Forest,cost_of_living,went_dark,500
+Waltham Forest,covid,counter->counter,5
+Waltham Forest,covid,counter->non_food,2
+Waltham Forest,covid,counter->service,1
+Waltham Forest,covid,service->counter,9
+Waltham Forest,covid,service->non_food,6
+Waltham Forest,covid,service->service,12
+Waltham Forest,covid,went_dark,68
+Waltham Forest,pre_covid,counter->counter,32
+Waltham Forest,pre_covid,counter->non_food,3
+Waltham Forest,pre_covid,counter->service,16
+Waltham Forest,pre_covid,service->counter,8
+Waltham Forest,pre_covid,service->non_food,3
+Waltham Forest,pre_covid,service->service,44
+Waltham Forest,pre_covid,went_dark,164
+Waltham Forest,revival,counter->counter,10
+Waltham Forest,revival,counter->non_food,3
+Waltham Forest,revival,counter->service,4
+Waltham Forest,revival,service->counter,4
+Waltham Forest,revival,service->non_food,6
+Waltham Forest,revival,service->service,5
+Waltham Forest,revival,went_dark,76
+Wandsworth,cost_of_living,counter->counter,51
+Wandsworth,cost_of_living,counter->non_food,53
+Wandsworth,cost_of_living,counter->service,10
+Wandsworth,cost_of_living,service->counter,14
+Wandsworth,cost_of_living,service->non_food,36
+Wandsworth,cost_of_living,service->service,57
+Wandsworth,cost_of_living,went_dark,398
+Wandsworth,covid,counter->counter,6
+Wandsworth,covid,counter->non_food,3
+Wandsworth,covid,counter->service,2
+Wandsworth,covid,service->counter,4
+Wandsworth,covid,service->non_food,5
+Wandsworth,covid,service->service,12
+Wandsworth,covid,went_dark,91
+Wandsworth,pre_covid,counter->counter,19
+Wandsworth,pre_covid,counter->non_food,5
+Wandsworth,pre_covid,counter->service,5
+Wandsworth,pre_covid,service->counter,5
+Wandsworth,pre_covid,service->non_food,13
+Wandsworth,pre_covid,service->service,26
+Wandsworth,pre_covid,went_dark,183
+Wandsworth,revival,counter->counter,8
+Wandsworth,revival,counter->non_food,8
+Wandsworth,revival,service->counter,2
+Wandsworth,revival,service->non_food,3
+Wandsworth,revival,service->service,7
+Wandsworth,revival,went_dark,63
+Watford,cost_of_living,counter->counter,1
+Watford,cost_of_living,went_dark,1
+Welwyn Hatfield,cost_of_living,counter->non_food,1
+Welwyn Hatfield,cost_of_living,went_dark,7
+Welwyn Hatfield,covid,went_dark,1
+Welwyn Hatfield,pre_covid,service->service,1
+Welwyn Hatfield,pre_covid,went_dark,1
+Westminster,cost_of_living,counter->counter,30
+Westminster,cost_of_living,counter->non_food,48
+Westminster,cost_of_living,counter->service,20
+Westminster,cost_of_living,service->counter,18
+Westminster,cost_of_living,service->non_food,110
+Westminster,cost_of_living,service->service,110
+Westminster,cost_of_living,went_dark,570
+Westminster,covid,counter->counter,8
+Westminster,covid,counter->non_food,10
+Westminster,covid,counter->service,11
+Westminster,covid,service->counter,3
+Westminster,covid,service->non_food,29
+Westminster,covid,service->service,22
+Westminster,covid,went_dark,156
+Westminster,pre_covid,counter->counter,32
+Westminster,pre_covid,counter->non_food,7
+Westminster,pre_covid,counter->service,17
+Westminster,pre_covid,service->counter,21
+Westminster,pre_covid,service->non_food,42
+Westminster,pre_covid,service->service,94
+Westminster,pre_covid,went_dark,332
+Westminster,revival,counter->counter,3
+Westminster,revival,counter->non_food,1
+Westminster,revival,counter->service,2
+Westminster,revival,service->non_food,15
+Westminster,revival,service->service,17
+Westminster,revival,went_dark,110
+Windsor and Maidenhead,cost_of_living,counter->non_food,2
+Windsor and Maidenhead,cost_of_living,service->service,1
+Windsor and Maidenhead,cost_of_living,went_dark,3
+Windsor and Maidenhead,covid,service->service,1
+Windsor and Maidenhead,covid,went_dark,1
+Windsor and Maidenhead,pre_covid,service->service,1
+Windsor and Maidenhead,pre_covid,went_dark,2

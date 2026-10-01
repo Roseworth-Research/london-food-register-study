@@ -1,0 +1,2864 @@
+borough,year,format,opened,closed,net
+Barking and Dagenham,1988,counter,1,0,1
+Barking and Dagenham,1998,counter,1,0,1
+Barking and Dagenham,2000,counter,1,0,1
+Barking and Dagenham,2001,service,1,0,1
+Barking and Dagenham,2002,service,2,0,2
+Barking and Dagenham,2003,counter,1,0,1
+Barking and Dagenham,2004,counter,3,0,3
+Barking and Dagenham,2004,service,1,0,1
+Barking and Dagenham,2005,service,2,0,2
+Barking and Dagenham,2006,counter,2,0,2
+Barking and Dagenham,2006,service,1,0,1
+Barking and Dagenham,2007,counter,4,0,4
+Barking and Dagenham,2008,counter,3,0,3
+Barking and Dagenham,2008,service,3,0,3
+Barking and Dagenham,2009,counter,3,0,3
+Barking and Dagenham,2009,service,8,0,8
+Barking and Dagenham,2010,counter,11,0,11
+Barking and Dagenham,2010,service,6,0,6
+Barking and Dagenham,2011,counter,11,0,11
+Barking and Dagenham,2011,service,11,0,11
+Barking and Dagenham,2012,counter,14,2,12
+Barking and Dagenham,2012,service,21,0,21
+Barking and Dagenham,2013,counter,20,4,16
+Barking and Dagenham,2013,service,13,5,8
+Barking and Dagenham,2014,counter,27,9,18
+Barking and Dagenham,2014,service,20,6,14
+Barking and Dagenham,2015,counter,16,9,7
+Barking and Dagenham,2015,service,20,8,12
+Barking and Dagenham,2016,counter,40,23,17
+Barking and Dagenham,2016,service,44,13,31
+Barking and Dagenham,2017,counter,42,15,27
+Barking and Dagenham,2017,service,48,21,27
+Barking and Dagenham,2018,counter,52,35,17
+Barking and Dagenham,2018,service,43,46,-3
+Barking and Dagenham,2019,counter,52,31,21
+Barking and Dagenham,2019,service,51,38,13
+Barking and Dagenham,2020,counter,93,41,52
+Barking and Dagenham,2020,service,61,25,36
+Barking and Dagenham,2021,counter,65,36,29
+Barking and Dagenham,2021,service,70,23,47
+Barking and Dagenham,2022,counter,87,59,28
+Barking and Dagenham,2022,service,67,35,32
+Barking and Dagenham,2023,counter,92,64,28
+Barking and Dagenham,2023,service,82,53,29
+Barking and Dagenham,2024,counter,126,68,58
+Barking and Dagenham,2024,service,91,52,39
+Barking and Dagenham,2025,counter,132,79,53
+Barking and Dagenham,2025,service,112,70,42
+Barking and Dagenham,2026,counter,74,64,10
+Barking and Dagenham,2026,service,62,42,20
+Barnet,1945,service,1,0,1
+Barnet,1951,service,1,0,1
+Barnet,1955,service,1,0,1
+Barnet,1965,service,1,0,1
+Barnet,1966,service,2,0,2
+Barnet,1967,service,1,0,1
+Barnet,1970,service,1,0,1
+Barnet,1971,service,2,0,2
+Barnet,1972,service,2,0,2
+Barnet,1977,counter,1,0,1
+Barnet,1978,service,2,0,2
+Barnet,1979,counter,1,0,1
+Barnet,1979,service,1,0,1
+Barnet,1980,service,3,0,3
+Barnet,1983,service,2,0,2
+Barnet,1984,counter,1,0,1
+Barnet,1984,service,1,0,1
+Barnet,1985,service,3,0,3
+Barnet,1986,service,1,0,1
+Barnet,1987,counter,1,0,1
+Barnet,1987,service,3,0,3
+Barnet,1988,counter,1,0,1
+Barnet,1988,service,1,0,1
+Barnet,1989,service,1,0,1
+Barnet,1991,service,6,0,6
+Barnet,1992,service,6,0,6
+Barnet,1993,counter,3,0,3
+Barnet,1993,service,4,0,4
+Barnet,1994,service,4,0,4
+Barnet,1995,counter,2,0,2
+Barnet,1995,service,8,0,8
+Barnet,1996,counter,3,0,3
+Barnet,1996,service,8,0,8
+Barnet,1997,counter,1,0,1
+Barnet,1997,service,7,0,7
+Barnet,1998,counter,2,0,2
+Barnet,1998,service,11,0,11
+Barnet,1999,counter,1,0,1
+Barnet,1999,service,16,0,16
+Barnet,2000,counter,3,0,3
+Barnet,2000,service,20,0,20
+Barnet,2001,counter,2,0,2
+Barnet,2001,service,23,0,23
+Barnet,2002,counter,9,0,9
+Barnet,2002,service,34,0,34
+Barnet,2003,counter,5,0,5
+Barnet,2003,service,36,0,36
+Barnet,2004,counter,10,0,10
+Barnet,2004,service,32,0,32
+Barnet,2005,counter,10,0,10
+Barnet,2005,service,43,0,43
+Barnet,2006,counter,9,0,9
+Barnet,2006,service,41,0,41
+Barnet,2007,counter,10,0,10
+Barnet,2007,service,53,0,53
+Barnet,2008,counter,14,0,14
+Barnet,2008,service,63,0,63
+Barnet,2009,counter,30,0,30
+Barnet,2009,service,68,0,68
+Barnet,2010,counter,39,0,39
+Barnet,2010,service,126,0,126
+Barnet,2011,counter,46,0,46
+Barnet,2011,service,193,0,193
+Barnet,2012,counter,68,1,67
+Barnet,2012,service,173,5,168
+Barnet,2013,counter,70,18,52
+Barnet,2013,service,171,52,119
+Barnet,2014,counter,83,39,44
+Barnet,2014,service,160,129,31
+Barnet,2015,counter,108,41,67
+Barnet,2015,service,193,138,55
+Barnet,2016,counter,108,65,43
+Barnet,2016,service,216,160,56
+Barnet,2017,counter,136,85,51
+Barnet,2017,service,251,179,72
+Barnet,2018,counter,139,109,30
+Barnet,2018,service,295,241,54
+Barnet,2019,counter,164,127,37
+Barnet,2019,service,335,238,97
+Barnet,2020,counter,177,79,98
+Barnet,2020,service,250,182,68
+Barnet,2021,counter,176,121,55
+Barnet,2021,service,241,208,33
+Barnet,2022,counter,152,120,32
+Barnet,2022,service,190,169,21
+Barnet,2023,counter,183,135,48
+Barnet,2023,service,266,201,65
+Barnet,2024,counter,184,174,10
+Barnet,2024,service,265,223,42
+Barnet,2025,counter,194,178,16
+Barnet,2025,service,247,269,-22
+Barnet,2026,counter,109,110,-1
+Barnet,2026,service,136,180,-44
+Bexley,1980,counter,1,0,1
+Bexley,1985,service,2,0,2
+Bexley,1989,counter,1,0,1
+Bexley,1990,service,1,0,1
+Bexley,1998,service,2,0,2
+Bexley,2000,counter,1,0,1
+Bexley,2000,service,4,0,4
+Bexley,2001,counter,1,0,1
+Bexley,2002,counter,1,0,1
+Bexley,2002,service,2,0,2
+Bexley,2003,counter,2,0,2
+Bexley,2003,service,3,0,3
+Bexley,2004,counter,1,0,1
+Bexley,2004,service,4,0,4
+Bexley,2005,counter,1,0,1
+Bexley,2005,service,5,0,5
+Bexley,2006,service,4,0,4
+Bexley,2007,counter,3,0,3
+Bexley,2007,service,4,0,4
+Bexley,2008,counter,1,0,1
+Bexley,2008,service,11,0,11
+Bexley,2009,counter,9,0,9
+Bexley,2009,service,8,0,8
+Bexley,2010,counter,8,0,8
+Bexley,2010,service,11,0,11
+Bexley,2011,counter,10,0,10
+Bexley,2011,service,17,0,17
+Bexley,2012,counter,15,1,14
+Bexley,2012,service,21,0,21
+Bexley,2013,counter,13,6,7
+Bexley,2013,service,28,8,20
+Bexley,2014,counter,21,6,15
+Bexley,2014,service,29,13,16
+Bexley,2015,counter,27,4,23
+Bexley,2015,service,31,15,16
+Bexley,2016,counter,30,16,14
+Bexley,2016,service,44,22,22
+Bexley,2017,counter,50,17,33
+Bexley,2017,service,58,24,34
+Bexley,2018,counter,45,35,10
+Bexley,2018,service,44,40,4
+Bexley,2019,counter,45,44,1
+Bexley,2019,service,46,35,11
+Bexley,2020,counter,77,26,51
+Bexley,2020,service,58,33,25
+Bexley,2021,counter,67,36,31
+Bexley,2021,service,57,44,13
+Bexley,2022,counter,76,49,27
+Bexley,2022,service,60,32,28
+Bexley,2023,counter,73,49,24
+Bexley,2023,service,75,43,32
+Bexley,2024,counter,86,50,36
+Bexley,2024,service,96,64,32
+Bexley,2025,counter,92,64,28
+Bexley,2025,service,92,55,37
+Bexley,2026,counter,50,55,-5
+Bexley,2026,service,59,39,20
+Brent,1967,counter,1,0,1
+Brent,1976,service,1,0,1
+Brent,1977,service,1,0,1
+Brent,1979,service,1,0,1
+Brent,1981,service,1,0,1
+Brent,1983,service,1,0,1
+Brent,1984,service,1,0,1
+Brent,1985,service,1,0,1
+Brent,1986,service,1,0,1
+Brent,1988,service,1,0,1
+Brent,1989,service,2,0,2
+Brent,1990,service,1,0,1
+Brent,1991,service,2,0,2
+Brent,1992,service,3,0,3
+Brent,1994,service,1,0,1
+Brent,1995,service,2,0,2
+Brent,1996,service,2,0,2
+Brent,1997,service,2,0,2
+Brent,1998,counter,1,0,1
+Brent,1998,service,3,0,3
+Brent,1999,service,8,0,8
+Brent,2000,service,8,0,8
+Brent,2001,counter,2,0,2
+Brent,2001,service,4,0,4
+Brent,2002,service,8,0,8
+Brent,2003,counter,2,0,2
+Brent,2003,service,8,0,8
+Brent,2004,counter,7,0,7
+Brent,2004,service,14,0,14
+Brent,2005,counter,3,0,3
+Brent,2005,service,11,0,11
+Brent,2006,counter,7,0,7
+Brent,2006,service,10,0,10
+Brent,2007,counter,7,0,7
+Brent,2007,service,19,0,19
+Brent,2008,counter,9,0,9
+Brent,2008,service,20,0,20
+Brent,2009,counter,12,0,12
+Brent,2009,service,30,0,30
+Brent,2010,counter,19,0,19
+Brent,2010,service,51,0,51
+Brent,2011,counter,31,0,31
+Brent,2011,service,55,0,55
+Brent,2012,counter,39,3,36
+Brent,2012,service,65,2,63
+Brent,2013,counter,37,13,24
+Brent,2013,service,50,29,21
+Brent,2014,counter,49,25,24
+Brent,2014,service,77,57,20
+Brent,2015,counter,49,36,13
+Brent,2015,service,65,47,18
+Brent,2016,counter,75,30,45
+Brent,2016,service,111,78,33
+Brent,2017,counter,97,37,60
+Brent,2017,service,133,44,89
+Brent,2018,counter,107,71,36
+Brent,2018,service,146,94,52
+Brent,2019,counter,134,61,73
+Brent,2019,service,155,122,33
+Brent,2020,counter,143,59,84
+Brent,2020,service,165,66,99
+Brent,2021,counter,157,90,67
+Brent,2021,service,153,108,45
+Brent,2022,counter,173,121,52
+Brent,2022,service,170,84,86
+Brent,2023,counter,161,148,13
+Brent,2023,service,188,130,58
+Brent,2024,counter,186,107,79
+Brent,2024,service,217,146,71
+Brent,2025,counter,203,149,54
+Brent,2025,service,224,143,81
+Brent,2026,counter,101,120,-19
+Brent,2026,service,153,125,28
+Bromley,1931,service,1,0,1
+Bromley,1947,service,1,0,1
+Bromley,1967,service,1,0,1
+Bromley,1979,counter,1,0,1
+Bromley,1981,service,1,0,1
+Bromley,1983,service,1,0,1
+Bromley,1992,service,2,0,2
+Bromley,1994,service,1,0,1
+Bromley,1995,counter,1,0,1
+Bromley,1995,service,2,0,2
+Bromley,1996,service,1,0,1
+Bromley,1997,service,4,0,4
+Bromley,1998,service,2,0,2
+Bromley,1999,service,4,0,4
+Bromley,2000,counter,1,0,1
+Bromley,2000,service,3,0,3
+Bromley,2001,service,4,0,4
+Bromley,2002,counter,2,0,2
+Bromley,2002,service,5,0,5
+Bromley,2003,counter,1,0,1
+Bromley,2003,service,8,0,8
+Bromley,2004,counter,2,0,2
+Bromley,2004,service,10,0,10
+Bromley,2005,counter,3,0,3
+Bromley,2005,service,6,0,6
+Bromley,2006,service,9,0,9
+Bromley,2007,counter,5,0,5
+Bromley,2007,service,9,0,9
+Bromley,2008,counter,2,0,2
+Bromley,2008,service,20,0,20
+Bromley,2009,counter,6,0,6
+Bromley,2009,service,20,0,20
+Bromley,2010,counter,13,0,13
+Bromley,2010,service,26,0,26
+Bromley,2011,counter,12,0,12
+Bromley,2011,service,39,0,39
+Bromley,2012,counter,14,0,14
+Bromley,2012,service,48,3,45
+Bromley,2013,counter,18,5,13
+Bromley,2013,service,53,17,36
+Bromley,2014,counter,20,7,13
+Bromley,2014,service,54,25,29
+Bromley,2015,counter,23,5,18
+Bromley,2015,service,57,33,24
+Bromley,2016,counter,38,20,18
+Bromley,2016,service,66,42,24
+Bromley,2017,counter,64,15,49
+Bromley,2017,service,94,44,50
+Bromley,2018,counter,62,37,25
+Bromley,2018,service,99,62,37
+Bromley,2019,counter,60,53,7
+Bromley,2019,service,106,78,28
+Bromley,2020,counter,68,36,32
+Bromley,2020,service,99,52,47
+Bromley,2021,counter,81,40,41
+Bromley,2021,service,86,77,9
+Bromley,2022,counter,64,52,12
+Bromley,2022,service,85,61,24
+Bromley,2023,counter,85,68,17
+Bromley,2023,service,110,86,24
+Bromley,2024,counter,91,58,33
+Bromley,2024,service,92,92,0
+Bromley,2025,counter,98,66,32
+Bromley,2025,service,105,75,30
+Bromley,2026,counter,46,38,8
+Bromley,2026,service,67,60,7
+Broxbourne,1956,service,1,0,1
+Broxbourne,1999,service,2,0,2
+Broxbourne,2000,service,1,0,1
+Broxbourne,2002,service,1,0,1
+Broxbourne,2003,service,2,0,2
+Broxbourne,2004,counter,1,0,1
+Broxbourne,2004,service,1,0,1
+Broxbourne,2005,counter,2,0,2
+Broxbourne,2005,service,1,0,1
+Broxbourne,2006,counter,4,0,4
+Broxbourne,2006,service,1,0,1
+Broxbourne,2008,counter,1,0,1
+Broxbourne,2008,service,7,0,7
+Broxbourne,2009,counter,2,0,2
+Broxbourne,2009,service,7,0,7
+Broxbourne,2010,counter,1,0,1
+Broxbourne,2010,service,5,0,5
+Broxbourne,2011,counter,3,0,3
+Broxbourne,2011,service,5,0,5
+Broxbourne,2012,counter,4,0,4
+Broxbourne,2012,service,7,0,7
+Broxbourne,2013,counter,8,1,7
+Broxbourne,2013,service,7,5,2
+Broxbourne,2014,counter,2,3,-1
+Broxbourne,2014,service,7,8,-1
+Broxbourne,2015,counter,10,2,8
+Broxbourne,2015,service,4,7,-3
+Broxbourne,2016,counter,7,7,0
+Broxbourne,2016,service,13,1,12
+Broxbourne,2017,counter,9,6,3
+Broxbourne,2017,service,14,8,6
+Broxbourne,2018,counter,11,6,5
+Broxbourne,2018,service,13,6,7
+Broxbourne,2019,counter,17,4,13
+Broxbourne,2019,service,15,14,1
+Broxbourne,2020,counter,13,9,4
+Broxbourne,2020,service,23,8,15
+Broxbourne,2021,counter,16,10,6
+Broxbourne,2021,service,11,6,5
+Broxbourne,2022,counter,19,6,13
+Broxbourne,2022,service,23,7,16
+Broxbourne,2023,counter,27,9,18
+Broxbourne,2023,service,22,7,15
+Broxbourne,2024,counter,23,16,7
+Broxbourne,2024,service,33,11,22
+Broxbourne,2025,counter,19,20,-1
+Broxbourne,2025,service,46,15,31
+Broxbourne,2026,counter,13,15,-2
+Broxbourne,2026,service,31,16,15
+Buckinghamshire,1978,service,1,0,1
+Buckinghamshire,1986,service,1,0,1
+Buckinghamshire,1993,service,3,0,3
+Buckinghamshire,1994,service,1,0,1
+Buckinghamshire,1996,service,1,0,1
+Buckinghamshire,2003,counter,1,0,1
+Buckinghamshire,2009,counter,1,0,1
+Buckinghamshire,2013,counter,0,1,-1
+Buckinghamshire,2013,service,1,0,1
+Buckinghamshire,2014,service,1,0,1
+Buckinghamshire,2015,counter,1,0,1
+Buckinghamshire,2016,counter,0,1,-1
+Buckinghamshire,2016,service,1,0,1
+Buckinghamshire,2017,service,4,1,3
+Buckinghamshire,2018,service,2,0,2
+Buckinghamshire,2019,counter,0,1,-1
+Buckinghamshire,2019,service,4,2,2
+Buckinghamshire,2020,counter,1,0,1
+Buckinghamshire,2020,service,4,1,3
+Buckinghamshire,2021,counter,4,0,4
+Buckinghamshire,2021,service,3,2,1
+Buckinghamshire,2022,service,2,2,0
+Buckinghamshire,2023,counter,3,0,3
+Buckinghamshire,2023,service,0,2,-2
+Buckinghamshire,2024,counter,1,3,-2
+Buckinghamshire,2024,service,2,1,1
+Buckinghamshire,2025,counter,2,4,-2
+Buckinghamshire,2025,service,1,0,1
+Buckinghamshire,2026,counter,1,0,1
+Buckinghamshire,2026,service,5,1,4
+Camden,1960,service,1,0,1
+Camden,1961,service,1,0,1
+Camden,1966,service,1,0,1
+Camden,1969,service,2,0,2
+Camden,1975,service,1,0,1
+Camden,1976,service,1,0,1
+Camden,1977,counter,1,0,1
+Camden,1977,service,2,0,2
+Camden,1978,service,2,0,2
+Camden,1981,service,2,0,2
+Camden,1982,service,1,0,1
+Camden,1983,service,1,0,1
+Camden,1984,service,3,0,3
+Camden,1985,service,1,0,1
+Camden,1986,service,2,0,2
+Camden,1987,service,2,0,2
+Camden,1988,service,3,0,3
+Camden,1989,service,1,0,1
+Camden,1990,service,1,0,1
+Camden,1991,service,2,0,2
+Camden,1992,counter,1,0,1
+Camden,1992,service,3,0,3
+Camden,1993,service,5,0,5
+Camden,1994,service,3,0,3
+Camden,1995,counter,1,0,1
+Camden,1995,service,7,0,7
+Camden,1996,service,8,0,8
+Camden,1997,counter,2,0,2
+Camden,1997,service,9,0,9
+Camden,1998,service,8,0,8
+Camden,1999,counter,2,0,2
+Camden,1999,service,11,0,11
+Camden,2000,counter,1,0,1
+Camden,2000,service,8,0,8
+Camden,2001,counter,2,0,2
+Camden,2001,service,4,0,4
+Camden,2002,counter,1,0,1
+Camden,2002,service,14,0,14
+Camden,2003,counter,3,0,3
+Camden,2003,service,19,0,19
+Camden,2004,counter,3,0,3
+Camden,2004,service,13,0,13
+Camden,2005,counter,5,0,5
+Camden,2005,service,14,0,14
+Camden,2006,counter,3,0,3
+Camden,2006,service,30,0,30
+Camden,2007,counter,6,0,6
+Camden,2007,service,39,0,39
+Camden,2008,counter,10,0,10
+Camden,2008,service,30,0,30
+Camden,2009,counter,22,0,22
+Camden,2009,service,57,0,57
+Camden,2010,counter,23,0,23
+Camden,2010,service,67,0,67
+Camden,2011,counter,31,0,31
+Camden,2011,service,100,0,100
+Camden,2012,counter,36,1,35
+Camden,2012,service,116,2,114
+Camden,2013,counter,43,12,31
+Camden,2013,service,139,31,108
+Camden,2014,counter,40,26,14
+Camden,2014,service,134,67,67
+Camden,2015,counter,37,37,0
+Camden,2015,service,129,86,43
+Camden,2016,counter,71,44,27
+Camden,2016,service,184,111,73
+Camden,2017,counter,79,42,37
+Camden,2017,service,199,132,67
+Camden,2018,counter,90,60,30
+Camden,2018,service,237,182,55
+Camden,2019,counter,118,79,39
+Camden,2019,service,230,184,46
+Camden,2020,counter,196,46,150
+Camden,2020,service,264,134,130
+Camden,2021,counter,157,110,47
+Camden,2021,service,247,171,76
+Camden,2022,counter,168,124,44
+Camden,2022,service,317,198,119
+Camden,2023,counter,175,138,37
+Camden,2023,service,366,211,155
+Camden,2024,counter,200,130,70
+Camden,2024,service,360,235,125
+Camden,2025,counter,269,122,147
+Camden,2025,service,497,240,257
+Camden,2026,counter,174,94,80
+Camden,2026,service,331,182,149
+City of London,1937,service,1,0,1
+City of London,1939,service,1,0,1
+City of London,1946,service,1,0,1
+City of London,1967,service,1,0,1
+City of London,1972,service,1,0,1
+City of London,1973,service,1,0,1
+City of London,1975,service,1,0,1
+City of London,1976,service,1,0,1
+City of London,1977,service,1,0,1
+City of London,1978,service,1,0,1
+City of London,1979,service,2,0,2
+City of London,1980,service,1,0,1
+City of London,1983,service,1,0,1
+City of London,1984,service,2,0,2
+City of London,1985,service,3,0,3
+City of London,1986,service,1,0,1
+City of London,1988,service,1,0,1
+City of London,1990,service,2,0,2
+City of London,1991,service,4,0,4
+City of London,1992,service,3,0,3
+City of London,1993,service,4,0,4
+City of London,1994,service,4,0,4
+City of London,1995,service,1,0,1
+City of London,1996,service,3,0,3
+City of London,1997,service,5,0,5
+City of London,1998,service,6,0,6
+City of London,1999,counter,1,0,1
+City of London,1999,service,9,0,9
+City of London,2000,service,9,0,9
+City of London,2001,counter,1,0,1
+City of London,2001,service,7,0,7
+City of London,2002,counter,1,0,1
+City of London,2002,service,7,0,7
+City of London,2003,counter,1,0,1
+City of London,2003,service,8,0,8
+City of London,2004,service,11,0,11
+City of London,2005,service,7,0,7
+City of London,2006,counter,1,0,1
+City of London,2006,service,11,0,11
+City of London,2007,counter,3,0,3
+City of London,2007,service,14,0,14
+City of London,2008,counter,5,0,5
+City of London,2008,service,16,0,16
+City of London,2009,counter,2,0,2
+City of London,2009,service,22,0,22
+City of London,2010,counter,1,0,1
+City of London,2010,service,32,0,32
+City of London,2011,counter,4,0,4
+City of London,2011,service,30,0,30
+City of London,2012,counter,7,1,6
+City of London,2012,service,20,3,17
+City of London,2013,counter,13,0,13
+City of London,2013,service,37,7,30
+City of London,2014,counter,12,4,8
+City of London,2014,service,52,7,45
+City of London,2015,counter,11,3,8
+City of London,2015,service,49,14,35
+City of London,2016,counter,19,3,16
+City of London,2016,service,40,15,25
+City of London,2017,counter,9,7,2
+City of London,2017,service,51,35,16
+City of London,2018,counter,11,11,0
+City of London,2018,service,48,39,9
+City of London,2019,counter,18,11,7
+City of London,2019,service,58,42,16
+City of London,2020,counter,15,10,5
+City of London,2020,service,57,33,24
+City of London,2021,counter,33,19,14
+City of London,2021,service,48,37,11
+City of London,2022,counter,39,15,24
+City of London,2022,service,76,54,22
+City of London,2023,counter,19,33,-14
+City of London,2023,service,73,67,6
+City of London,2024,counter,22,19,3
+City of London,2024,service,50,59,-9
+City of London,2025,counter,18,23,-5
+City of London,2025,service,63,70,-7
+City of London,2026,counter,5,17,-12
+City of London,2026,service,23,47,-24
+Croydon,1966,counter,1,0,1
+Croydon,1984,service,1,0,1
+Croydon,1987,service,1,0,1
+Croydon,1990,service,1,0,1
+Croydon,1991,service,1,0,1
+Croydon,1992,service,1,0,1
+Croydon,1993,service,1,0,1
+Croydon,1994,service,1,0,1
+Croydon,1996,service,3,0,3
+Croydon,1997,counter,1,0,1
+Croydon,1997,service,1,0,1
+Croydon,1998,counter,1,0,1
+Croydon,1998,service,3,0,3
+Croydon,1999,counter,1,0,1
+Croydon,1999,service,4,0,4
+Croydon,2000,counter,1,0,1
+Croydon,2000,service,4,0,4
+Croydon,2001,service,7,0,7
+Croydon,2002,counter,3,0,3
+Croydon,2002,service,6,0,6
+Croydon,2003,counter,4,0,4
+Croydon,2003,service,6,0,6
+Croydon,2004,counter,3,0,3
+Croydon,2004,service,15,0,15
+Croydon,2005,counter,3,0,3
+Croydon,2005,service,8,0,8
+Croydon,2006,counter,4,0,4
+Croydon,2006,service,24,0,24
+Croydon,2007,counter,11,0,11
+Croydon,2007,service,13,0,13
+Croydon,2008,counter,13,0,13
+Croydon,2008,service,20,0,20
+Croydon,2009,counter,8,0,8
+Croydon,2009,service,30,0,30
+Croydon,2010,counter,25,0,25
+Croydon,2010,service,51,0,51
+Croydon,2011,counter,35,0,35
+Croydon,2011,service,42,0,42
+Croydon,2012,counter,44,3,41
+Croydon,2012,service,67,1,66
+Croydon,2013,counter,50,18,32
+Croydon,2013,service,80,21,59
+Croydon,2014,counter,48,23,25
+Croydon,2014,service,74,40,34
+Croydon,2015,counter,73,29,44
+Croydon,2015,service,63,39,24
+Croydon,2016,counter,75,28,47
+Croydon,2016,service,106,62,44
+Croydon,2017,counter,101,44,57
+Croydon,2017,service,118,67,51
+Croydon,2018,counter,138,63,75
+Croydon,2018,service,164,95,69
+Croydon,2019,counter,142,105,37
+Croydon,2019,service,164,86,78
+Croydon,2020,counter,176,68,108
+Croydon,2020,service,154,77,77
+Croydon,2021,counter,155,107,48
+Croydon,2021,service,127,110,17
+Croydon,2022,counter,163,117,46
+Croydon,2022,service,174,86,88
+Croydon,2023,counter,194,146,48
+Croydon,2023,service,177,133,44
+Croydon,2024,counter,177,120,57
+Croydon,2024,service,174,141,33
+Croydon,2025,counter,226,150,76
+Croydon,2025,service,200,139,61
+Croydon,2026,counter,127,110,17
+Croydon,2026,service,145,92,53
+Dartford,1977,service,1,0,1
+Dartford,1994,service,1,0,1
+Dartford,2000,counter,1,0,1
+Dartford,2001,service,2,0,2
+Dartford,2003,counter,1,0,1
+Dartford,2004,counter,1,0,1
+Dartford,2004,service,1,0,1
+Dartford,2006,counter,1,0,1
+Dartford,2006,service,3,0,3
+Dartford,2007,counter,1,0,1
+Dartford,2007,service,2,0,2
+Dartford,2008,counter,1,0,1
+Dartford,2008,service,3,0,3
+Dartford,2009,service,9,0,9
+Dartford,2010,service,3,0,3
+Dartford,2011,counter,3,0,3
+Dartford,2011,service,4,0,4
+Dartford,2012,counter,7,0,7
+Dartford,2012,service,5,0,5
+Dartford,2013,counter,8,2,6
+Dartford,2013,service,8,4,4
+Dartford,2014,counter,7,0,7
+Dartford,2014,service,10,3,7
+Dartford,2015,counter,7,2,5
+Dartford,2015,service,6,1,5
+Dartford,2016,counter,11,7,4
+Dartford,2016,service,16,4,12
+Dartford,2017,counter,8,4,4
+Dartford,2017,service,16,7,9
+Dartford,2018,counter,9,11,-2
+Dartford,2018,service,16,12,4
+Dartford,2019,counter,20,18,2
+Dartford,2019,service,23,16,7
+Dartford,2020,counter,15,4,11
+Dartford,2020,service,23,6,17
+Dartford,2021,counter,20,8,12
+Dartford,2021,service,18,8,10
+Dartford,2022,counter,22,8,14
+Dartford,2022,service,21,9,12
+Dartford,2023,counter,33,19,14
+Dartford,2023,service,22,10,12
+Dartford,2024,counter,22,16,6
+Dartford,2024,service,38,17,21
+Dartford,2025,counter,29,16,13
+Dartford,2025,service,34,20,14
+Dartford,2026,counter,12,14,-2
+Dartford,2026,service,16,8,8
+Ealing,1957,service,1,0,1
+Ealing,1961,service,1,0,1
+Ealing,1965,service,1,0,1
+Ealing,1973,service,1,0,1
+Ealing,1985,service,1,0,1
+Ealing,1989,service,1,0,1
+Ealing,1991,counter,1,0,1
+Ealing,1992,service,1,0,1
+Ealing,1995,counter,1,0,1
+Ealing,1995,service,1,0,1
+Ealing,1996,service,1,0,1
+Ealing,1997,service,4,0,4
+Ealing,1998,counter,1,0,1
+Ealing,1998,service,1,0,1
+Ealing,1999,counter,1,0,1
+Ealing,1999,service,2,0,2
+Ealing,2000,counter,1,0,1
+Ealing,2000,service,3,0,3
+Ealing,2001,counter,3,0,3
+Ealing,2001,service,1,0,1
+Ealing,2002,counter,1,0,1
+Ealing,2002,service,6,0,6
+Ealing,2003,counter,5,0,5
+Ealing,2003,service,1,0,1
+Ealing,2004,service,10,0,10
+Ealing,2005,counter,4,0,4
+Ealing,2005,service,13,0,13
+Ealing,2006,counter,4,0,4
+Ealing,2006,service,5,0,5
+Ealing,2007,counter,6,0,6
+Ealing,2007,service,10,0,10
+Ealing,2008,counter,6,0,6
+Ealing,2008,service,10,0,10
+Ealing,2009,counter,12,0,12
+Ealing,2009,service,30,0,30
+Ealing,2010,counter,18,0,18
+Ealing,2010,service,29,0,29
+Ealing,2011,counter,25,0,25
+Ealing,2011,service,41,0,41
+Ealing,2012,counter,28,0,28
+Ealing,2012,service,48,3,45
+Ealing,2013,counter,33,12,21
+Ealing,2013,service,59,22,37
+Ealing,2014,counter,46,19,27
+Ealing,2014,service,57,32,25
+Ealing,2015,counter,40,23,17
+Ealing,2015,service,66,41,25
+Ealing,2016,counter,69,31,38
+Ealing,2016,service,111,57,54
+Ealing,2017,counter,81,35,46
+Ealing,2017,service,120,36,84
+Ealing,2018,counter,89,56,33
+Ealing,2018,service,157,83,74
+Ealing,2019,counter,107,86,21
+Ealing,2019,service,190,110,80
+Ealing,2020,counter,145,50,95
+Ealing,2020,service,180,92,88
+Ealing,2021,counter,120,71,49
+Ealing,2021,service,127,110,17
+Ealing,2022,counter,116,75,41
+Ealing,2022,service,143,113,30
+Ealing,2023,counter,141,103,38
+Ealing,2023,service,186,128,58
+Ealing,2024,counter,150,98,52
+Ealing,2024,service,222,108,114
+Ealing,2025,counter,187,102,85
+Ealing,2025,service,224,157,67
+Ealing,2026,counter,85,82,3
+Ealing,2026,service,120,122,-2
+Elmbridge,1970,service,1,0,1
+Elmbridge,1996,service,1,0,1
+Elmbridge,2003,counter,1,0,1
+Elmbridge,2004,service,1,0,1
+Elmbridge,2006,service,4,0,4
+Elmbridge,2007,counter,2,0,2
+Elmbridge,2007,service,1,0,1
+Elmbridge,2008,counter,1,0,1
+Elmbridge,2008,service,4,0,4
+Elmbridge,2009,counter,1,0,1
+Elmbridge,2009,service,3,0,3
+Elmbridge,2010,counter,1,0,1
+Elmbridge,2010,service,3,0,3
+Elmbridge,2011,counter,1,0,1
+Elmbridge,2011,service,3,0,3
+Elmbridge,2012,counter,3,0,3
+Elmbridge,2012,service,5,0,5
+Elmbridge,2013,counter,0,4,-4
+Elmbridge,2013,service,3,4,-1
+Elmbridge,2014,counter,1,2,-1
+Elmbridge,2014,service,3,4,-1
+Elmbridge,2015,counter,1,0,1
+Elmbridge,2015,service,3,4,-1
+Elmbridge,2016,counter,4,1,3
+Elmbridge,2016,service,7,4,3
+Elmbridge,2017,counter,2,2,0
+Elmbridge,2017,service,3,0,3
+Elmbridge,2018,counter,3,2,1
+Elmbridge,2018,service,8,7,1
+Elmbridge,2019,counter,7,3,4
+Elmbridge,2019,service,8,5,3
+Elmbridge,2020,counter,8,1,7
+Elmbridge,2020,service,6,4,2
+Elmbridge,2021,counter,5,5,0
+Elmbridge,2021,service,11,3,8
+Elmbridge,2022,counter,7,3,4
+Elmbridge,2022,service,10,2,8
+Elmbridge,2023,counter,7,2,5
+Elmbridge,2023,service,6,8,-2
+Elmbridge,2024,counter,8,6,2
+Elmbridge,2024,service,5,8,-3
+Elmbridge,2025,counter,3,4,-1
+Elmbridge,2025,service,11,3,8
+Elmbridge,2026,counter,2,6,-4
+Elmbridge,2026,service,6,4,2
+Enfield,1945,service,1,0,1
+Enfield,1964,service,1,0,1
+Enfield,1968,service,1,0,1
+Enfield,1976,service,1,0,1
+Enfield,1978,service,1,0,1
+Enfield,1981,service,1,0,1
+Enfield,1989,counter,1,0,1
+Enfield,1990,service,1,0,1
+Enfield,1993,service,2,0,2
+Enfield,1994,service,2,0,2
+Enfield,1995,service,2,0,2
+Enfield,1996,counter,1,0,1
+Enfield,1996,service,2,0,2
+Enfield,1997,counter,1,0,1
+Enfield,1997,service,6,0,6
+Enfield,1998,counter,5,0,5
+Enfield,1998,service,10,0,10
+Enfield,1999,counter,2,0,2
+Enfield,1999,service,6,0,6
+Enfield,2000,counter,2,0,2
+Enfield,2000,service,8,0,8
+Enfield,2001,counter,4,0,4
+Enfield,2001,service,7,0,7
+Enfield,2002,counter,8,0,8
+Enfield,2002,service,12,0,12
+Enfield,2003,counter,4,0,4
+Enfield,2003,service,18,0,18
+Enfield,2004,counter,9,0,9
+Enfield,2004,service,18,0,18
+Enfield,2005,counter,14,0,14
+Enfield,2005,service,32,0,32
+Enfield,2006,counter,3,0,3
+Enfield,2006,service,23,0,23
+Enfield,2007,counter,11,0,11
+Enfield,2007,service,25,0,25
+Enfield,2008,counter,7,0,7
+Enfield,2008,service,39,0,39
+Enfield,2009,counter,27,0,27
+Enfield,2009,service,59,0,59
+Enfield,2010,counter,32,0,32
+Enfield,2010,service,104,0,104
+Enfield,2011,counter,49,0,49
+Enfield,2011,service,106,0,106
+Enfield,2012,counter,60,1,59
+Enfield,2012,service,122,5,117
+Enfield,2013,counter,69,24,45
+Enfield,2013,service,138,36,102
+Enfield,2014,counter,76,37,39
+Enfield,2014,service,141,86,55
+Enfield,2015,counter,99,43,56
+Enfield,2015,service,122,73,49
+Enfield,2016,counter,122,75,47
+Enfield,2016,service,173,123,50
+Enfield,2017,counter,162,76,86
+Enfield,2017,service,187,131,56
+Enfield,2018,counter,195,120,75
+Enfield,2018,service,223,176,47
+Enfield,2019,counter,176,181,-5
+Enfield,2019,service,242,193,49
+Enfield,2020,counter,159,118,41
+Enfield,2020,service,190,154,36
+Enfield,2021,counter,149,107,42
+Enfield,2021,service,153,162,-9
+Enfield,2022,counter,163,130,33
+Enfield,2022,service,177,121,56
+Enfield,2023,counter,197,148,49
+Enfield,2023,service,250,159,91
+Enfield,2024,counter,206,141,65
+Enfield,2024,service,245,202,43
+Enfield,2025,counter,209,161,48
+Enfield,2025,service,269,168,101
+Enfield,2026,counter,129,109,20
+Enfield,2026,service,151,139,12
+Epping Forest,1986,counter,1,0,1
+Epping Forest,1995,service,1,0,1
+Epping Forest,1999,counter,1,0,1
+Epping Forest,2000,counter,1,0,1
+Epping Forest,2001,service,1,0,1
+Epping Forest,2005,service,2,0,2
+Epping Forest,2006,counter,2,0,2
+Epping Forest,2006,service,1,0,1
+Epping Forest,2007,counter,1,0,1
+Epping Forest,2008,counter,1,0,1
+Epping Forest,2008,service,1,0,1
+Epping Forest,2009,counter,2,0,2
+Epping Forest,2009,service,3,0,3
+Epping Forest,2010,service,5,0,5
+Epping Forest,2011,counter,4,0,4
+Epping Forest,2011,service,8,0,8
+Epping Forest,2012,counter,7,1,6
+Epping Forest,2012,service,7,0,7
+Epping Forest,2013,counter,2,1,1
+Epping Forest,2013,service,13,3,10
+Epping Forest,2014,counter,4,0,4
+Epping Forest,2014,service,5,3,2
+Epping Forest,2015,counter,5,3,2
+Epping Forest,2015,service,18,6,12
+Epping Forest,2016,counter,12,3,9
+Epping Forest,2016,service,22,10,12
+Epping Forest,2017,counter,9,1,8
+Epping Forest,2017,service,17,11,6
+Epping Forest,2018,counter,22,6,16
+Epping Forest,2018,service,22,13,9
+Epping Forest,2019,counter,15,8,7
+Epping Forest,2019,service,27,16,11
+Epping Forest,2020,counter,20,11,9
+Epping Forest,2020,service,28,14,14
+Epping Forest,2021,counter,21,13,8
+Epping Forest,2021,service,16,14,2
+Epping Forest,2022,counter,18,10,8
+Epping Forest,2022,service,27,13,14
+Epping Forest,2023,counter,28,16,12
+Epping Forest,2023,service,26,11,15
+Epping Forest,2024,counter,36,16,20
+Epping Forest,2024,service,38,18,20
+Epping Forest,2025,counter,42,16,26
+Epping Forest,2025,service,42,25,17
+Epping Forest,2026,counter,20,10,10
+Epping Forest,2026,service,16,24,-8
+Epsom and Ewell,1998,service,1,0,1
+Epsom and Ewell,1999,service,1,0,1
+Epsom and Ewell,2000,service,2,0,2
+Epsom and Ewell,2001,service,1,0,1
+Epsom and Ewell,2002,counter,1,0,1
+Epsom and Ewell,2003,service,2,0,2
+Epsom and Ewell,2004,counter,1,0,1
+Epsom and Ewell,2006,service,1,0,1
+Epsom and Ewell,2007,service,2,0,2
+Epsom and Ewell,2008,service,4,0,4
+Epsom and Ewell,2009,service,3,0,3
+Epsom and Ewell,2010,counter,6,0,6
+Epsom and Ewell,2010,service,5,0,5
+Epsom and Ewell,2011,counter,3,0,3
+Epsom and Ewell,2011,service,7,0,7
+Epsom and Ewell,2012,counter,8,0,8
+Epsom and Ewell,2012,service,6,0,6
+Epsom and Ewell,2013,counter,3,3,0
+Epsom and Ewell,2013,service,9,4,5
+Epsom and Ewell,2014,counter,1,1,0
+Epsom and Ewell,2014,service,8,4,4
+Epsom and Ewell,2015,counter,4,4,0
+Epsom and Ewell,2015,service,12,1,11
+Epsom and Ewell,2016,counter,7,4,3
+Epsom and Ewell,2016,service,6,13,-7
+Epsom and Ewell,2017,counter,8,6,2
+Epsom and Ewell,2017,service,18,4,14
+Epsom and Ewell,2018,counter,13,8,5
+Epsom and Ewell,2018,service,15,6,9
+Epsom and Ewell,2019,counter,11,9,2
+Epsom and Ewell,2019,service,23,15,8
+Epsom and Ewell,2020,counter,18,3,15
+Epsom and Ewell,2020,service,12,7,5
+Epsom and Ewell,2021,counter,17,4,13
+Epsom and Ewell,2021,service,18,6,12
+Epsom and Ewell,2022,counter,24,12,12
+Epsom and Ewell,2022,service,17,8,9
+Epsom and Ewell,2023,counter,20,19,1
+Epsom and Ewell,2023,service,30,16,14
+Epsom and Ewell,2024,counter,22,17,5
+Epsom and Ewell,2024,service,15,11,4
+Epsom and Ewell,2025,counter,15,18,-3
+Epsom and Ewell,2025,service,20,18,2
+Epsom and Ewell,2026,counter,16,9,7
+Epsom and Ewell,2026,service,11,12,-1
+Greenwich,1913,service,1,0,1
+Greenwich,1923,service,1,0,1
+Greenwich,1943,service,1,0,1
+Greenwich,1969,service,1,0,1
+Greenwich,1986,service,1,0,1
+Greenwich,1988,service,1,0,1
+Greenwich,1995,service,1,0,1
+Greenwich,1999,service,2,0,2
+Greenwich,2000,service,3,0,3
+Greenwich,2001,counter,1,0,1
+Greenwich,2001,service,1,0,1
+Greenwich,2002,counter,1,0,1
+Greenwich,2003,service,4,0,4
+Greenwich,2004,counter,2,0,2
+Greenwich,2004,service,3,0,3
+Greenwich,2005,service,2,0,2
+Greenwich,2006,counter,3,0,3
+Greenwich,2006,service,7,0,7
+Greenwich,2007,counter,1,0,1
+Greenwich,2007,service,2,0,2
+Greenwich,2008,counter,4,0,4
+Greenwich,2008,service,6,0,6
+Greenwich,2009,counter,11,0,11
+Greenwich,2009,service,14,0,14
+Greenwich,2010,counter,12,0,12
+Greenwich,2010,service,13,0,13
+Greenwich,2011,counter,13,0,13
+Greenwich,2011,service,19,0,19
+Greenwich,2012,counter,11,1,10
+Greenwich,2012,service,25,2,23
+Greenwich,2013,counter,23,5,18
+Greenwich,2013,service,30,9,21
+Greenwich,2014,counter,18,9,9
+Greenwich,2014,service,32,13,19
+Greenwich,2015,counter,28,11,17
+Greenwich,2015,service,45,22,23
+Greenwich,2016,counter,35,13,22
+Greenwich,2016,service,48,28,20
+Greenwich,2017,counter,45,23,22
+Greenwich,2017,service,63,30,33
+Greenwich,2018,counter,59,31,28
+Greenwich,2018,service,61,47,14
+Greenwich,2019,counter,58,42,16
+Greenwich,2019,service,85,39,46
+Greenwich,2020,counter,97,40,57
+Greenwich,2020,service,76,36,40
+Greenwich,2021,counter,90,49,41
+Greenwich,2021,service,68,37,31
+Greenwich,2022,counter,106,61,45
+Greenwich,2022,service,99,39,60
+Greenwich,2023,counter,93,89,4
+Greenwich,2023,service,96,70,26
+Greenwich,2024,counter,101,77,24
+Greenwich,2024,service,105,57,48
+Greenwich,2025,counter,93,61,32
+Greenwich,2025,service,109,78,31
+Greenwich,2026,counter,56,54,2
+Greenwich,2026,service,78,57,21
+Hackney,1967,counter,1,0,1
+Hackney,1972,service,2,0,2
+Hackney,1983,service,1,0,1
+Hackney,1988,service,1,0,1
+Hackney,1994,service,1,0,1
+Hackney,1995,service,1,0,1
+Hackney,1996,service,2,0,2
+Hackney,1997,service,1,0,1
+Hackney,1998,counter,1,0,1
+Hackney,1998,service,1,0,1
+Hackney,1999,service,2,0,2
+Hackney,2000,counter,1,0,1
+Hackney,2000,service,4,0,4
+Hackney,2001,service,4,0,4
+Hackney,2002,counter,1,0,1
+Hackney,2002,service,7,0,7
+Hackney,2003,counter,1,0,1
+Hackney,2003,service,6,0,6
+Hackney,2004,counter,2,0,2
+Hackney,2004,service,12,0,12
+Hackney,2005,counter,1,0,1
+Hackney,2005,service,5,0,5
+Hackney,2006,counter,5,0,5
+Hackney,2006,service,11,0,11
+Hackney,2007,counter,3,0,3
+Hackney,2007,service,17,0,17
+Hackney,2008,counter,4,0,4
+Hackney,2008,service,13,0,13
+Hackney,2009,counter,5,0,5
+Hackney,2009,service,25,0,25
+Hackney,2010,counter,19,0,19
+Hackney,2010,service,49,0,49
+Hackney,2011,counter,23,0,23
+Hackney,2011,service,60,0,60
+Hackney,2012,counter,34,1,33
+Hackney,2012,service,85,3,82
+Hackney,2013,counter,35,14,21
+Hackney,2013,service,88,22,66
+Hackney,2014,counter,47,13,34
+Hackney,2014,service,115,33,82
+Hackney,2015,counter,46,24,22
+Hackney,2015,service,86,59,27
+Hackney,2016,counter,63,39,24
+Hackney,2016,service,122,84,38
+Hackney,2017,counter,109,42,67
+Hackney,2017,service,189,100,89
+Hackney,2018,counter,144,84,60
+Hackney,2018,service,274,149,125
+Hackney,2019,counter,135,119,16
+Hackney,2019,service,246,189,57
+Hackney,2020,counter,266,79,187
+Hackney,2020,service,276,131,145
+Hackney,2021,counter,290,190,100
+Hackney,2021,service,267,213,54
+Hackney,2022,counter,282,227,55
+Hackney,2022,service,277,221,56
+Hackney,2023,counter,286,240,46
+Hackney,2023,service,343,227,116
+Hackney,2024,counter,256,230,26
+Hackney,2024,service,407,262,145
+Hackney,2025,counter,275,221,54
+Hackney,2025,service,402,264,138
+Hackney,2026,counter,161,152,9
+Hackney,2026,service,247,191,56
+Hammersmith and Fulham,1954,service,1,0,1
+Hammersmith and Fulham,1979,service,1,0,1
+Hammersmith and Fulham,1981,service,1,0,1
+Hammersmith and Fulham,1983,service,1,0,1
+Hammersmith and Fulham,1987,service,1,0,1
+Hammersmith and Fulham,1990,service,2,0,2
+Hammersmith and Fulham,1991,service,1,0,1
+Hammersmith and Fulham,1993,service,1,0,1
+Hammersmith and Fulham,1995,service,2,0,2
+Hammersmith and Fulham,1996,service,2,0,2
+Hammersmith and Fulham,1997,counter,1,0,1
+Hammersmith and Fulham,1998,service,5,0,5
+Hammersmith and Fulham,1999,service,1,0,1
+Hammersmith and Fulham,2000,service,2,0,2
+Hammersmith and Fulham,2001,counter,3,0,3
+Hammersmith and Fulham,2001,service,4,0,4
+Hammersmith and Fulham,2002,counter,2,0,2
+Hammersmith and Fulham,2002,service,6,0,6
+Hammersmith and Fulham,2003,service,5,0,5
+Hammersmith and Fulham,2004,counter,2,0,2
+Hammersmith and Fulham,2004,service,9,0,9
+Hammersmith and Fulham,2005,counter,1,0,1
+Hammersmith and Fulham,2005,service,7,0,7
+Hammersmith and Fulham,2006,counter,3,0,3
+Hammersmith and Fulham,2006,service,7,0,7
+Hammersmith and Fulham,2007,counter,1,0,1
+Hammersmith and Fulham,2007,service,14,0,14
+Hammersmith and Fulham,2008,counter,2,0,2
+Hammersmith and Fulham,2008,service,11,0,11
+Hammersmith and Fulham,2009,counter,1,0,1
+Hammersmith and Fulham,2009,service,21,0,21
+Hammersmith and Fulham,2010,counter,10,0,10
+Hammersmith and Fulham,2010,service,29,0,29
+Hammersmith and Fulham,2011,counter,13,0,13
+Hammersmith and Fulham,2011,service,45,0,45
+Hammersmith and Fulham,2012,counter,18,1,17
+Hammersmith and Fulham,2012,service,41,1,40
+Hammersmith and Fulham,2013,counter,8,5,3
+Hammersmith and Fulham,2013,service,45,34,11
+Hammersmith and Fulham,2014,counter,19,10,9
+Hammersmith and Fulham,2014,service,54,33,21
+Hammersmith and Fulham,2015,counter,22,9,13
+Hammersmith and Fulham,2015,service,48,35,13
+Hammersmith and Fulham,2016,counter,36,13,23
+Hammersmith and Fulham,2016,service,60,50,10
+Hammersmith and Fulham,2017,counter,49,18,31
+Hammersmith and Fulham,2017,service,84,39,45
+Hammersmith and Fulham,2018,counter,58,44,14
+Hammersmith and Fulham,2018,service,95,64,31
+Hammersmith and Fulham,2019,counter,55,48,7
+Hammersmith and Fulham,2019,service,99,91,8
+Hammersmith and Fulham,2020,counter,85,24,61
+Hammersmith and Fulham,2020,service,86,48,38
+Hammersmith and Fulham,2021,counter,73,47,26
+Hammersmith and Fulham,2021,service,84,43,41
+Hammersmith and Fulham,2022,counter,78,56,22
+Hammersmith and Fulham,2022,service,123,47,76
+Hammersmith and Fulham,2023,counter,69,67,2
+Hammersmith and Fulham,2023,service,131,70,61
+Hammersmith and Fulham,2024,counter,82,45,37
+Hammersmith and Fulham,2024,service,115,81,34
+Hammersmith and Fulham,2025,counter,63,50,13
+Hammersmith and Fulham,2025,service,122,94,28
+Hammersmith and Fulham,2026,counter,34,42,-8
+Hammersmith and Fulham,2026,service,63,66,-3
+Haringey,1964,service,2,0,2
+Haringey,1995,service,1,0,1
+Haringey,1996,counter,1,0,1
+Haringey,1998,counter,4,0,4
+Haringey,1999,service,4,0,4
+Haringey,2000,service,2,0,2
+Haringey,2001,service,3,0,3
+Haringey,2002,counter,2,0,2
+Haringey,2003,counter,3,0,3
+Haringey,2003,service,5,0,5
+Haringey,2004,counter,3,0,3
+Haringey,2004,service,6,0,6
+Haringey,2005,counter,9,0,9
+Haringey,2005,service,6,0,6
+Haringey,2006,counter,5,0,5
+Haringey,2006,service,6,0,6
+Haringey,2007,counter,3,0,3
+Haringey,2007,service,11,0,11
+Haringey,2008,counter,5,0,5
+Haringey,2008,service,14,0,14
+Haringey,2009,counter,11,0,11
+Haringey,2009,service,20,0,20
+Haringey,2010,counter,14,0,14
+Haringey,2010,service,33,0,33
+Haringey,2011,counter,25,0,25
+Haringey,2011,service,51,0,51
+Haringey,2012,counter,42,0,42
+Haringey,2012,service,57,7,50
+Haringey,2013,counter,30,9,21
+Haringey,2013,service,61,18,43
+Haringey,2014,counter,47,18,29
+Haringey,2014,service,93,34,59
+Haringey,2015,counter,58,21,37
+Haringey,2015,service,89,38,51
+Haringey,2016,counter,69,36,33
+Haringey,2016,service,108,60,48
+Haringey,2017,counter,103,38,65
+Haringey,2017,service,136,73,63
+Haringey,2018,counter,117,74,43
+Haringey,2018,service,161,91,70
+Haringey,2019,counter,112,76,36
+Haringey,2019,service,152,121,31
+Haringey,2020,counter,145,53,92
+Haringey,2020,service,179,95,84
+Haringey,2021,counter,156,82,74
+Haringey,2021,service,165,70,95
+Haringey,2022,counter,186,101,85
+Haringey,2022,service,200,100,100
+Haringey,2023,counter,290,135,155
+Haringey,2023,service,221,151,70
+Haringey,2024,counter,290,195,95
+Haringey,2024,service,263,175,88
+Haringey,2025,counter,299,234,65
+Haringey,2025,service,274,195,79
+Haringey,2026,counter,203,201,2
+Haringey,2026,service,136,125,11
+Harrow,1973,service,2,0,2
+Harrow,1978,service,1,0,1
+Harrow,1984,service,1,0,1
+Harrow,1985,counter,1,0,1
+Harrow,1985,service,2,0,2
+Harrow,1986,service,1,0,1
+Harrow,1988,service,1,0,1
+Harrow,1990,service,1,0,1
+Harrow,1993,counter,2,0,2
+Harrow,1993,service,3,0,3
+Harrow,1994,service,3,0,3
+Harrow,1995,service,3,0,3
+Harrow,1996,service,3,0,3
+Harrow,1997,service,4,0,4
+Harrow,1998,counter,2,0,2
+Harrow,1998,service,4,0,4
+Harrow,1999,counter,1,0,1
+Harrow,1999,service,5,0,5
+Harrow,2000,counter,3,0,3
+Harrow,2000,service,5,0,5
+Harrow,2001,counter,1,0,1
+Harrow,2001,service,7,0,7
+Harrow,2002,counter,2,0,2
+Harrow,2002,service,13,0,13
+Harrow,2003,counter,4,0,4
+Harrow,2003,service,15,0,15
+Harrow,2004,counter,4,0,4
+Harrow,2004,service,12,0,12
+Harrow,2005,counter,7,0,7
+Harrow,2005,service,17,0,17
+Harrow,2006,counter,4,0,4
+Harrow,2006,service,15,0,15
+Harrow,2007,counter,7,0,7
+Harrow,2007,service,15,0,15
+Harrow,2008,counter,10,0,10
+Harrow,2008,service,17,0,17
+Harrow,2009,counter,16,0,16
+Harrow,2009,service,36,0,36
+Harrow,2010,counter,21,0,21
+Harrow,2010,service,50,0,50
+Harrow,2011,counter,19,0,19
+Harrow,2011,service,43,0,43
+Harrow,2012,counter,35,0,35
+Harrow,2012,service,68,3,65
+Harrow,2013,counter,32,8,24
+Harrow,2013,service,77,26,51
+Harrow,2014,counter,40,24,16
+Harrow,2014,service,60,34,26
+Harrow,2015,counter,39,19,20
+Harrow,2015,service,70,32,38
+Harrow,2016,counter,59,29,30
+Harrow,2016,service,83,60,23
+Harrow,2017,counter,83,21,62
+Harrow,2017,service,102,68,34
+Harrow,2018,counter,98,52,46
+Harrow,2018,service,151,77,74
+Harrow,2019,counter,90,67,23
+Harrow,2019,service,131,89,42
+Harrow,2020,counter,141,47,94
+Harrow,2020,service,127,63,64
+Harrow,2021,counter,112,51,61
+Harrow,2021,service,127,71,56
+Harrow,2022,counter,139,83,56
+Harrow,2022,service,134,79,55
+Harrow,2023,counter,139,105,34
+Harrow,2023,service,202,107,95
+Harrow,2024,counter,189,109,80
+Harrow,2024,service,184,122,62
+Harrow,2025,counter,231,115,116
+Harrow,2025,service,225,122,103
+Harrow,2026,counter,124,98,26
+Harrow,2026,service,153,91,62
+Havering,1975,counter,1,0,1
+Havering,1977,counter,1,0,1
+Havering,1978,service,1,0,1
+Havering,1987,service,1,0,1
+Havering,1992,service,1,0,1
+Havering,1994,service,1,0,1
+Havering,1996,service,1,0,1
+Havering,1998,counter,1,0,1
+Havering,1998,service,1,0,1
+Havering,1999,counter,1,0,1
+Havering,1999,service,1,0,1
+Havering,2000,service,1,0,1
+Havering,2001,service,1,0,1
+Havering,2002,counter,1,0,1
+Havering,2002,service,2,0,2
+Havering,2003,counter,4,0,4
+Havering,2003,service,2,0,2
+Havering,2004,counter,1,0,1
+Havering,2004,service,4,0,4
+Havering,2005,service,4,0,4
+Havering,2006,counter,3,0,3
+Havering,2006,service,4,0,4
+Havering,2007,counter,2,0,2
+Havering,2007,service,2,0,2
+Havering,2008,counter,3,0,3
+Havering,2008,service,5,0,5
+Havering,2009,counter,4,0,4
+Havering,2009,service,4,0,4
+Havering,2010,counter,12,0,12
+Havering,2010,service,24,0,24
+Havering,2011,counter,14,0,14
+Havering,2011,service,15,0,15
+Havering,2012,counter,18,0,18
+Havering,2012,service,23,0,23
+Havering,2013,counter,22,8,14
+Havering,2013,service,32,9,23
+Havering,2014,counter,13,11,2
+Havering,2014,service,30,15,15
+Havering,2015,counter,27,11,16
+Havering,2015,service,40,15,25
+Havering,2016,counter,29,17,12
+Havering,2016,service,31,35,-4
+Havering,2017,counter,54,28,26
+Havering,2017,service,49,28,21
+Havering,2018,counter,52,27,25
+Havering,2018,service,74,35,39
+Havering,2019,counter,72,43,29
+Havering,2019,service,75,51,24
+Havering,2020,counter,80,26,54
+Havering,2020,service,67,35,32
+Havering,2021,counter,74,48,26
+Havering,2021,service,78,34,44
+Havering,2022,counter,89,49,40
+Havering,2022,service,81,41,40
+Havering,2023,counter,100,62,38
+Havering,2023,service,96,74,22
+Havering,2024,counter,97,89,8
+Havering,2024,service,100,63,37
+Havering,2025,counter,98,70,28
+Havering,2025,service,132,62,70
+Havering,2026,counter,62,66,-4
+Havering,2026,service,77,56,21
+Hertsmere,1968,service,1,0,1
+Hertsmere,1981,counter,1,0,1
+Hertsmere,1984,service,1,0,1
+Hertsmere,1988,service,1,0,1
+Hertsmere,1989,service,1,0,1
+Hertsmere,1993,counter,1,0,1
+Hertsmere,1994,counter,1,0,1
+Hertsmere,1997,service,2,0,2
+Hertsmere,1999,counter,1,0,1
+Hertsmere,1999,service,3,0,3
+Hertsmere,2001,service,3,0,3
+Hertsmere,2002,service,5,0,5
+Hertsmere,2003,service,5,0,5
+Hertsmere,2004,service,5,0,5
+Hertsmere,2005,counter,2,0,2
+Hertsmere,2005,service,4,0,4
+Hertsmere,2006,counter,1,0,1
+Hertsmere,2006,service,4,0,4
+Hertsmere,2007,counter,1,0,1
+Hertsmere,2007,service,10,0,10
+Hertsmere,2008,counter,6,0,6
+Hertsmere,2008,service,8,0,8
+Hertsmere,2009,counter,1,0,1
+Hertsmere,2009,service,9,0,9
+Hertsmere,2010,counter,6,0,6
+Hertsmere,2010,service,17,0,17
+Hertsmere,2011,counter,1,0,1
+Hertsmere,2011,service,24,0,24
+Hertsmere,2012,counter,6,0,6
+Hertsmere,2012,service,25,0,25
+Hertsmere,2013,counter,8,1,7
+Hertsmere,2013,service,20,3,17
+Hertsmere,2014,counter,12,4,8
+Hertsmere,2014,service,30,7,23
+Hertsmere,2015,counter,9,1,8
+Hertsmere,2015,service,26,10,16
+Hertsmere,2016,counter,5,5,0
+Hertsmere,2016,service,31,19,12
+Hertsmere,2017,counter,14,5,9
+Hertsmere,2017,service,28,18,10
+Hertsmere,2018,counter,35,6,29
+Hertsmere,2018,service,46,20,26
+Hertsmere,2019,counter,36,16,20
+Hertsmere,2019,service,50,33,17
+Hertsmere,2020,counter,25,10,15
+Hertsmere,2020,service,37,26,11
+Hertsmere,2021,counter,23,18,5
+Hertsmere,2021,service,42,35,7
+Hertsmere,2022,counter,36,20,16
+Hertsmere,2022,service,24,25,-1
+Hertsmere,2023,counter,26,19,7
+Hertsmere,2023,service,42,30,12
+Hertsmere,2024,counter,22,26,-4
+Hertsmere,2024,service,42,23,19
+Hertsmere,2025,counter,22,26,-4
+Hertsmere,2025,service,39,43,-4
+Hertsmere,2026,counter,9,14,-5
+Hertsmere,2026,service,24,30,-6
+Hillingdon,1970,service,1,0,1
+Hillingdon,1981,service,1,0,1
+Hillingdon,1983,service,1,0,1
+Hillingdon,1984,service,1,0,1
+Hillingdon,1985,service,2,0,2
+Hillingdon,1986,service,2,0,2
+Hillingdon,1987,service,1,0,1
+Hillingdon,1988,service,1,0,1
+Hillingdon,1989,service,3,0,3
+Hillingdon,1990,service,1,0,1
+Hillingdon,1991,service,1,0,1
+Hillingdon,1992,service,1,0,1
+Hillingdon,1994,service,2,0,2
+Hillingdon,1995,counter,1,0,1
+Hillingdon,1996,service,2,0,2
+Hillingdon,1997,service,4,0,4
+Hillingdon,1998,counter,1,0,1
+Hillingdon,1998,service,1,0,1
+Hillingdon,1999,service,2,0,2
+Hillingdon,2000,service,6,0,6
+Hillingdon,2001,counter,1,0,1
+Hillingdon,2001,service,5,0,5
+Hillingdon,2002,service,4,0,4
+Hillingdon,2003,counter,3,0,3
+Hillingdon,2003,service,4,0,4
+Hillingdon,2004,counter,2,0,2
+Hillingdon,2004,service,3,0,3
+Hillingdon,2005,counter,3,0,3
+Hillingdon,2005,service,3,0,3
+Hillingdon,2006,counter,3,0,3
+Hillingdon,2006,service,12,0,12
+Hillingdon,2007,counter,2,0,2
+Hillingdon,2007,service,8,0,8
+Hillingdon,2008,counter,8,0,8
+Hillingdon,2008,service,19,0,19
+Hillingdon,2009,counter,4,0,4
+Hillingdon,2009,service,16,0,16
+Hillingdon,2010,counter,15,0,15
+Hillingdon,2010,service,26,0,26
+Hillingdon,2011,counter,26,0,26
+Hillingdon,2011,service,37,0,37
+Hillingdon,2012,counter,27,2,25
+Hillingdon,2012,service,35,2,33
+Hillingdon,2013,counter,29,7,22
+Hillingdon,2013,service,47,15,32
+Hillingdon,2014,counter,28,16,12
+Hillingdon,2014,service,38,21,17
+Hillingdon,2015,counter,29,12,17
+Hillingdon,2015,service,34,32,2
+Hillingdon,2016,counter,48,26,22
+Hillingdon,2016,service,73,41,32
+Hillingdon,2017,counter,59,19,40
+Hillingdon,2017,service,77,32,45
+Hillingdon,2018,counter,80,55,25
+Hillingdon,2018,service,85,61,24
+Hillingdon,2019,counter,93,41,52
+Hillingdon,2019,service,96,52,44
+Hillingdon,2020,counter,114,33,81
+Hillingdon,2020,service,106,49,57
+Hillingdon,2021,counter,109,67,42
+Hillingdon,2021,service,100,68,32
+Hillingdon,2022,counter,136,86,50
+Hillingdon,2022,service,100,75,25
+Hillingdon,2023,counter,154,98,56
+Hillingdon,2023,service,128,79,49
+Hillingdon,2024,counter,141,108,33
+Hillingdon,2024,service,127,95,32
+Hillingdon,2025,counter,163,103,60
+Hillingdon,2025,service,168,97,71
+Hillingdon,2026,counter,87,68,19
+Hillingdon,2026,service,95,73,22
+Hounslow,1939,counter,1,0,1
+Hounslow,1976,counter,1,0,1
+Hounslow,1992,service,1,0,1
+Hounslow,1993,service,1,0,1
+Hounslow,1994,service,1,0,1
+Hounslow,1996,service,3,0,3
+Hounslow,1997,service,1,0,1
+Hounslow,1998,service,2,0,2
+Hounslow,1999,counter,1,0,1
+Hounslow,1999,service,4,0,4
+Hounslow,2000,counter,2,0,2
+Hounslow,2002,counter,2,0,2
+Hounslow,2002,service,3,0,3
+Hounslow,2003,service,4,0,4
+Hounslow,2004,counter,2,0,2
+Hounslow,2004,service,4,0,4
+Hounslow,2005,counter,1,0,1
+Hounslow,2005,service,4,0,4
+Hounslow,2006,counter,2,0,2
+Hounslow,2006,service,7,0,7
+Hounslow,2007,service,13,0,13
+Hounslow,2008,counter,4,0,4
+Hounslow,2008,service,4,0,4
+Hounslow,2009,counter,4,0,4
+Hounslow,2009,service,11,0,11
+Hounslow,2010,counter,9,0,9
+Hounslow,2010,service,14,0,14
+Hounslow,2011,counter,20,0,20
+Hounslow,2011,service,29,0,29
+Hounslow,2012,counter,23,1,22
+Hounslow,2012,service,32,6,26
+Hounslow,2013,counter,31,4,27
+Hounslow,2013,service,27,13,14
+Hounslow,2014,counter,29,15,14
+Hounslow,2014,service,34,20,14
+Hounslow,2015,counter,21,12,9
+Hounslow,2015,service,36,12,24
+Hounslow,2016,counter,34,28,6
+Hounslow,2016,service,59,22,37
+Hounslow,2017,counter,35,20,15
+Hounslow,2017,service,66,35,31
+Hounslow,2018,counter,46,34,12
+Hounslow,2018,service,100,48,52
+Hounslow,2019,counter,50,39,11
+Hounslow,2019,service,95,65,30
+Hounslow,2020,counter,110,20,90
+Hounslow,2020,service,102,41,61
+Hounslow,2021,counter,81,49,32
+Hounslow,2021,service,101,62,39
+Hounslow,2022,counter,79,72,7
+Hounslow,2022,service,118,60,58
+Hounslow,2023,counter,98,63,35
+Hounslow,2023,service,159,94,65
+Hounslow,2024,counter,114,67,47
+Hounslow,2024,service,156,93,63
+Hounslow,2025,counter,141,77,64
+Hounslow,2025,service,172,106,66
+Hounslow,2026,counter,71,54,17
+Hounslow,2026,service,97,77,20
+Islington,1905,service,1,0,1
+Islington,1959,service,1,0,1
+Islington,1973,service,1,0,1
+Islington,1976,service,1,0,1
+Islington,1978,service,1,0,1
+Islington,1979,service,1,0,1
+Islington,1980,service,2,0,2
+Islington,1981,service,1,0,1
+Islington,1982,service,1,0,1
+Islington,1983,service,1,0,1
+Islington,1986,service,3,0,3
+Islington,1987,service,3,0,3
+Islington,1991,counter,1,0,1
+Islington,1991,service,1,0,1
+Islington,1993,service,1,0,1
+Islington,1994,service,5,0,5
+Islington,1995,service,4,0,4
+Islington,1996,service,2,0,2
+Islington,1997,counter,1,0,1
+Islington,1997,service,4,0,4
+Islington,1998,counter,1,0,1
+Islington,1998,service,5,0,5
+Islington,1999,service,4,0,4
+Islington,2000,counter,2,0,2
+Islington,2000,service,4,0,4
+Islington,2001,counter,2,0,2
+Islington,2001,service,6,0,6
+Islington,2002,counter,3,0,3
+Islington,2002,service,13,0,13
+Islington,2003,counter,8,0,8
+Islington,2003,service,14,0,14
+Islington,2004,service,15,0,15
+Islington,2005,counter,6,0,6
+Islington,2005,service,14,0,14
+Islington,2006,counter,4,0,4
+Islington,2006,service,24,0,24
+Islington,2007,counter,3,0,3
+Islington,2007,service,23,0,23
+Islington,2008,counter,2,0,2
+Islington,2008,service,28,0,28
+Islington,2009,counter,14,0,14
+Islington,2009,service,38,0,38
+Islington,2010,counter,17,0,17
+Islington,2010,service,53,0,53
+Islington,2011,counter,43,0,43
+Islington,2011,service,73,0,73
+Islington,2012,counter,38,2,36
+Islington,2012,service,65,2,63
+Islington,2013,counter,40,21,19
+Islington,2013,service,87,29,58
+Islington,2014,counter,36,15,21
+Islington,2014,service,75,57,18
+Islington,2015,counter,53,31,22
+Islington,2015,service,104,58,46
+Islington,2016,counter,72,29,43
+Islington,2016,service,137,66,71
+Islington,2017,counter,108,40,68
+Islington,2017,service,217,83,134
+Islington,2018,counter,114,75,39
+Islington,2018,service,227,134,93
+Islington,2019,counter,151,89,62
+Islington,2019,service,242,168,74
+Islington,2020,counter,165,83,82
+Islington,2020,service,208,137,71
+Islington,2021,counter,170,115,55
+Islington,2021,service,245,179,66
+Islington,2022,counter,172,121,51
+Islington,2022,service,289,152,137
+Islington,2023,counter,181,153,28
+Islington,2023,service,322,211,111
+Islington,2024,counter,229,157,72
+Islington,2024,service,341,269,72
+Islington,2025,counter,244,149,95
+Islington,2025,service,365,255,110
+Islington,2026,counter,152,120,32
+Islington,2026,service,208,184,24
+Kensington and Chelsea,1963,service,1,0,1
+Kensington and Chelsea,1967,service,1,0,1
+Kensington and Chelsea,1971,service,1,0,1
+Kensington and Chelsea,1976,counter,1,0,1
+Kensington and Chelsea,1976,service,1,0,1
+Kensington and Chelsea,1978,counter,2,0,2
+Kensington and Chelsea,1982,service,1,0,1
+Kensington and Chelsea,1983,service,1,0,1
+Kensington and Chelsea,1985,service,1,0,1
+Kensington and Chelsea,1986,service,2,0,2
+Kensington and Chelsea,1988,counter,1,0,1
+Kensington and Chelsea,1989,service,1,0,1
+Kensington and Chelsea,1990,service,1,0,1
+Kensington and Chelsea,1992,service,4,0,4
+Kensington and Chelsea,1993,service,1,0,1
+Kensington and Chelsea,1994,counter,1,0,1
+Kensington and Chelsea,1994,service,1,0,1
+Kensington and Chelsea,1995,service,3,0,3
+Kensington and Chelsea,1996,counter,1,0,1
+Kensington and Chelsea,1997,service,2,0,2
+Kensington and Chelsea,1998,counter,1,0,1
+Kensington and Chelsea,1998,service,2,0,2
+Kensington and Chelsea,1999,counter,1,0,1
+Kensington and Chelsea,1999,service,3,0,3
+Kensington and Chelsea,2000,service,2,0,2
+Kensington and Chelsea,2001,service,5,0,5
+Kensington and Chelsea,2002,service,7,0,7
+Kensington and Chelsea,2003,counter,1,0,1
+Kensington and Chelsea,2003,service,4,0,4
+Kensington and Chelsea,2004,counter,2,0,2
+Kensington and Chelsea,2004,service,4,0,4
+Kensington and Chelsea,2005,counter,3,0,3
+Kensington and Chelsea,2005,service,6,0,6
+Kensington and Chelsea,2006,counter,1,0,1
+Kensington and Chelsea,2006,service,7,0,7
+Kensington and Chelsea,2007,service,5,0,5
+Kensington and Chelsea,2008,counter,2,0,2
+Kensington and Chelsea,2008,service,7,0,7
+Kensington and Chelsea,2009,counter,3,0,3
+Kensington and Chelsea,2009,service,19,0,19
+Kensington and Chelsea,2010,counter,5,0,5
+Kensington and Chelsea,2010,service,21,0,21
+Kensington and Chelsea,2011,counter,4,0,4
+Kensington and Chelsea,2011,service,26,0,26
+Kensington and Chelsea,2012,counter,7,0,7
+Kensington and Chelsea,2012,service,40,2,38
+Kensington and Chelsea,2013,counter,12,0,12
+Kensington and Chelsea,2013,service,26,7,19
+Kensington and Chelsea,2014,counter,13,3,10
+Kensington and Chelsea,2014,service,32,22,10
+Kensington and Chelsea,2015,counter,13,3,10
+Kensington and Chelsea,2015,service,30,15,15
+Kensington and Chelsea,2016,counter,19,15,4
+Kensington and Chelsea,2016,service,53,29,24
+Kensington and Chelsea,2017,counter,16,4,12
+Kensington and Chelsea,2017,service,65,24,41
+Kensington and Chelsea,2018,counter,26,13,13
+Kensington and Chelsea,2018,service,52,32,20
+Kensington and Chelsea,2019,counter,29,18,11
+Kensington and Chelsea,2019,service,72,55,17
+Kensington and Chelsea,2020,counter,38,9,29
+Kensington and Chelsea,2020,service,71,39,32
+Kensington and Chelsea,2021,counter,28,30,-2
+Kensington and Chelsea,2021,service,72,48,24
+Kensington and Chelsea,2022,counter,38,26,12
+Kensington and Chelsea,2022,service,92,44,48
+Kensington and Chelsea,2023,counter,24,38,-14
+Kensington and Chelsea,2023,service,67,55,12
+Kensington and Chelsea,2024,counter,32,26,6
+Kensington and Chelsea,2024,service,79,49,30
+Kensington and Chelsea,2025,counter,34,25,9
+Kensington and Chelsea,2025,service,82,51,31
+Kensington and Chelsea,2026,counter,18,19,-1
+Kensington and Chelsea,2026,service,49,34,15
+Kingston upon Thames,1960,counter,1,0,1
+Kingston upon Thames,1975,service,1,0,1
+Kingston upon Thames,1992,service,1,0,1
+Kingston upon Thames,1994,service,1,0,1
+Kingston upon Thames,1995,service,1,0,1
+Kingston upon Thames,1996,counter,2,0,2
+Kingston upon Thames,1996,service,1,0,1
+Kingston upon Thames,1998,service,3,0,3
+Kingston upon Thames,1999,service,1,0,1
+Kingston upon Thames,2000,counter,1,0,1
+Kingston upon Thames,2000,service,1,0,1
+Kingston upon Thames,2001,service,3,0,3
+Kingston upon Thames,2002,counter,2,0,2
+Kingston upon Thames,2002,service,3,0,3
+Kingston upon Thames,2003,counter,2,0,2
+Kingston upon Thames,2003,service,5,0,5
+Kingston upon Thames,2004,service,3,0,3
+Kingston upon Thames,2005,counter,4,0,4
+Kingston upon Thames,2005,service,8,0,8
+Kingston upon Thames,2006,counter,4,0,4
+Kingston upon Thames,2006,service,4,0,4
+Kingston upon Thames,2007,counter,4,0,4
+Kingston upon Thames,2007,service,9,0,9
+Kingston upon Thames,2008,counter,8,0,8
+Kingston upon Thames,2008,service,7,0,7
+Kingston upon Thames,2009,counter,5,0,5
+Kingston upon Thames,2009,service,9,0,9
+Kingston upon Thames,2010,counter,5,0,5
+Kingston upon Thames,2010,service,19,0,19
+Kingston upon Thames,2011,counter,19,0,19
+Kingston upon Thames,2011,service,25,0,25
+Kingston upon Thames,2012,counter,16,2,14
+Kingston upon Thames,2012,service,20,4,16
+Kingston upon Thames,2013,counter,20,10,10
+Kingston upon Thames,2013,service,19,11,8
+Kingston upon Thames,2014,counter,12,20,-8
+Kingston upon Thames,2014,service,23,13,10
+Kingston upon Thames,2015,counter,27,15,12
+Kingston upon Thames,2015,service,36,12,24
+Kingston upon Thames,2016,counter,28,16,12
+Kingston upon Thames,2016,service,42,25,17
+Kingston upon Thames,2017,counter,29,19,10
+Kingston upon Thames,2017,service,54,23,31
+Kingston upon Thames,2018,counter,37,32,5
+Kingston upon Thames,2018,service,46,52,-6
+Kingston upon Thames,2019,counter,56,30,26
+Kingston upon Thames,2019,service,57,39,18
+Kingston upon Thames,2020,counter,50,26,24
+Kingston upon Thames,2020,service,60,31,29
+Kingston upon Thames,2021,counter,49,30,19
+Kingston upon Thames,2021,service,66,33,33
+Kingston upon Thames,2022,counter,46,34,12
+Kingston upon Thames,2022,service,81,30,51
+Kingston upon Thames,2023,counter,53,36,17
+Kingston upon Thames,2023,service,70,57,13
+Kingston upon Thames,2024,counter,69,43,26
+Kingston upon Thames,2024,service,79,33,46
+Kingston upon Thames,2025,counter,54,34,20
+Kingston upon Thames,2025,service,62,32,30
+Kingston upon Thames,2026,counter,34,28,6
+Kingston upon Thames,2026,service,38,26,12
+Lambeth,1975,service,1,0,1
+Lambeth,1979,service,1,0,1
+Lambeth,1982,service,1,0,1
+Lambeth,1986,counter,1,0,1
+Lambeth,1989,service,1,0,1
+Lambeth,1993,service,1,0,1
+Lambeth,1994,service,2,0,2
+Lambeth,1996,service,3,0,3
+Lambeth,1997,counter,1,0,1
+Lambeth,1997,service,5,0,5
+Lambeth,1998,service,6,0,6
+Lambeth,2000,counter,1,0,1
+Lambeth,2000,service,1,0,1
+Lambeth,2001,service,5,0,5
+Lambeth,2002,service,5,0,5
+Lambeth,2003,service,7,0,7
+Lambeth,2004,counter,2,0,2
+Lambeth,2004,service,6,0,6
+Lambeth,2005,counter,1,0,1
+Lambeth,2005,service,8,0,8
+Lambeth,2006,counter,1,0,1
+Lambeth,2006,service,11,0,11
+Lambeth,2007,counter,2,0,2
+Lambeth,2007,service,13,0,13
+Lambeth,2008,counter,4,0,4
+Lambeth,2008,service,12,0,12
+Lambeth,2009,counter,7,0,7
+Lambeth,2009,service,17,0,17
+Lambeth,2010,counter,11,0,11
+Lambeth,2010,service,22,0,22
+Lambeth,2011,counter,16,0,16
+Lambeth,2011,service,43,0,43
+Lambeth,2012,counter,14,1,13
+Lambeth,2012,service,34,2,32
+Lambeth,2013,counter,31,9,22
+Lambeth,2013,service,49,19,30
+Lambeth,2014,counter,27,11,16
+Lambeth,2014,service,63,24,39
+Lambeth,2015,counter,28,14,14
+Lambeth,2015,service,57,25,32
+Lambeth,2016,counter,46,20,26
+Lambeth,2016,service,76,39,37
+Lambeth,2017,counter,65,26,39
+Lambeth,2017,service,98,26,72
+Lambeth,2018,counter,71,51,20
+Lambeth,2018,service,111,63,48
+Lambeth,2019,counter,93,52,41
+Lambeth,2019,service,144,93,51
+Lambeth,2020,counter,117,43,74
+Lambeth,2020,service,134,46,88
+Lambeth,2021,counter,96,74,22
+Lambeth,2021,service,95,89,6
+Lambeth,2022,counter,97,81,16
+Lambeth,2022,service,121,62,59
+Lambeth,2023,counter,89,86,3
+Lambeth,2023,service,172,82,90
+Lambeth,2024,counter,105,81,24
+Lambeth,2024,service,125,101,24
+Lambeth,2025,counter,93,71,22
+Lambeth,2025,service,174,87,87
+Lambeth,2026,counter,60,56,4
+Lambeth,2026,service,88,81,7
+Lewisham,1992,service,1,0,1
+Lewisham,1994,service,1,0,1
+Lewisham,1995,service,1,0,1
+Lewisham,1996,counter,1,0,1
+Lewisham,1999,service,1,0,1
+Lewisham,2000,service,3,0,3
+Lewisham,2001,counter,1,0,1
+Lewisham,2001,service,1,0,1
+Lewisham,2002,counter,4,0,4
+Lewisham,2003,counter,3,0,3
+Lewisham,2003,service,1,0,1
+Lewisham,2004,counter,1,0,1
+Lewisham,2004,service,4,0,4
+Lewisham,2005,counter,2,0,2
+Lewisham,2005,service,9,0,9
+Lewisham,2006,counter,4,0,4
+Lewisham,2006,service,4,0,4
+Lewisham,2007,counter,3,0,3
+Lewisham,2007,service,8,0,8
+Lewisham,2008,counter,7,0,7
+Lewisham,2008,service,11,0,11
+Lewisham,2009,counter,8,0,8
+Lewisham,2009,service,9,0,9
+Lewisham,2010,counter,13,0,13
+Lewisham,2010,service,12,0,12
+Lewisham,2011,counter,15,0,15
+Lewisham,2011,service,35,0,35
+Lewisham,2012,counter,28,1,27
+Lewisham,2012,service,27,0,27
+Lewisham,2013,counter,36,7,29
+Lewisham,2013,service,42,15,27
+Lewisham,2014,counter,32,14,18
+Lewisham,2014,service,29,13,16
+Lewisham,2015,counter,40,33,7
+Lewisham,2015,service,36,27,9
+Lewisham,2016,counter,45,33,12
+Lewisham,2016,service,51,43,8
+Lewisham,2017,counter,72,35,37
+Lewisham,2017,service,57,31,26
+Lewisham,2018,counter,63,52,11
+Lewisham,2018,service,75,47,28
+Lewisham,2019,counter,101,65,36
+Lewisham,2019,service,87,51,36
+Lewisham,2020,counter,126,34,92
+Lewisham,2020,service,91,34,57
+Lewisham,2021,counter,108,77,31
+Lewisham,2021,service,68,47,21
+Lewisham,2022,counter,101,96,5
+Lewisham,2022,service,97,54,43
+Lewisham,2023,counter,123,79,44
+Lewisham,2023,service,103,79,24
+Lewisham,2024,counter,130,98,32
+Lewisham,2024,service,117,79,38
+Lewisham,2025,counter,121,115,6
+Lewisham,2025,service,121,81,40
+Lewisham,2026,counter,72,68,4
+Lewisham,2026,service,52,54,-2
+Merton,1969,service,1,0,1
+Merton,1985,service,1,0,1
+Merton,1988,service,1,0,1
+Merton,1990,service,1,0,1
+Merton,1991,service,1,0,1
+Merton,1993,counter,1,0,1
+Merton,1993,service,2,0,2
+Merton,1995,service,2,0,2
+Merton,1996,counter,1,0,1
+Merton,1996,service,1,0,1
+Merton,1998,counter,1,0,1
+Merton,1999,service,1,0,1
+Merton,2000,counter,1,0,1
+Merton,2000,service,3,0,3
+Merton,2001,service,2,0,2
+Merton,2002,service,4,0,4
+Merton,2003,counter,3,0,3
+Merton,2003,service,3,0,3
+Merton,2004,counter,6,0,6
+Merton,2004,service,4,0,4
+Merton,2005,counter,7,0,7
+Merton,2005,service,7,0,7
+Merton,2006,counter,6,0,6
+Merton,2006,service,11,0,11
+Merton,2007,counter,4,0,4
+Merton,2007,service,11,0,11
+Merton,2008,counter,5,0,5
+Merton,2008,service,8,0,8
+Merton,2009,counter,5,0,5
+Merton,2009,service,14,0,14
+Merton,2010,counter,13,0,13
+Merton,2010,service,16,0,16
+Merton,2011,counter,23,0,23
+Merton,2011,service,31,0,31
+Merton,2012,counter,34,0,34
+Merton,2012,service,36,4,32
+Merton,2013,counter,25,11,14
+Merton,2013,service,33,14,19
+Merton,2014,counter,37,7,30
+Merton,2014,service,26,17,9
+Merton,2015,counter,48,26,22
+Merton,2015,service,36,23,13
+Merton,2016,counter,50,27,23
+Merton,2016,service,64,27,37
+Merton,2017,counter,60,20,40
+Merton,2017,service,54,28,26
+Merton,2018,counter,57,43,14
+Merton,2018,service,62,48,14
+Merton,2019,counter,81,63,18
+Merton,2019,service,75,58,17
+Merton,2020,counter,97,41,56
+Merton,2020,service,79,37,42
+Merton,2021,counter,89,57,32
+Merton,2021,service,68,38,30
+Merton,2022,counter,94,51,43
+Merton,2022,service,84,45,39
+Merton,2023,counter,86,70,16
+Merton,2023,service,92,56,36
+Merton,2024,counter,85,71,14
+Merton,2024,service,91,68,23
+Merton,2025,counter,90,60,30
+Merton,2025,service,130,59,71
+Merton,2026,counter,69,47,22
+Merton,2026,service,67,57,10
+Mole Valley,1966,service,1,0,1
+Mole Valley,2000,service,1,0,1
+Mole Valley,2001,counter,1,0,1
+Mole Valley,2003,service,1,0,1
+Mole Valley,2004,service,1,0,1
+Mole Valley,2008,service,1,0,1
+Mole Valley,2009,service,2,0,2
+Mole Valley,2010,counter,1,0,1
+Mole Valley,2011,service,2,0,2
+Mole Valley,2012,counter,3,0,3
+Mole Valley,2012,service,3,0,3
+Mole Valley,2013,counter,1,1,0
+Mole Valley,2013,service,0,1,-1
+Mole Valley,2014,counter,1,1,0
+Mole Valley,2014,service,4,2,2
+Mole Valley,2015,counter,1,0,1
+Mole Valley,2015,service,0,1,-1
+Mole Valley,2016,counter,2,1,1
+Mole Valley,2016,service,3,0,3
+Mole Valley,2017,counter,3,2,1
+Mole Valley,2017,service,5,0,5
+Mole Valley,2018,counter,2,1,1
+Mole Valley,2018,service,5,2,3
+Mole Valley,2019,counter,2,1,1
+Mole Valley,2019,service,2,6,-4
+Mole Valley,2020,counter,2,0,2
+Mole Valley,2020,service,3,2,1
+Mole Valley,2021,counter,2,3,-1
+Mole Valley,2021,service,4,1,3
+Mole Valley,2022,counter,4,1,3
+Mole Valley,2022,service,4,0,4
+Mole Valley,2023,counter,2,1,1
+Mole Valley,2023,service,10,5,5
+Mole Valley,2024,counter,6,1,5
+Mole Valley,2024,service,6,4,2
+Mole Valley,2025,counter,4,8,-4
+Mole Valley,2025,service,5,6,-1
+Mole Valley,2026,counter,5,3,2
+Mole Valley,2026,service,3,5,-2
+Newham,1976,counter,2,0,2
+Newham,1992,service,1,0,1
+Newham,1996,counter,1,0,1
+Newham,1997,service,4,0,4
+Newham,1998,counter,1,0,1
+Newham,1998,service,1,0,1
+Newham,1999,service,1,0,1
+Newham,2000,counter,1,0,1
+Newham,2001,counter,1,0,1
+Newham,2001,service,1,0,1
+Newham,2002,counter,3,0,3
+Newham,2002,service,3,0,3
+Newham,2003,counter,1,0,1
+Newham,2003,service,5,0,5
+Newham,2004,counter,5,0,5
+Newham,2004,service,11,0,11
+Newham,2005,counter,4,0,4
+Newham,2005,service,2,0,2
+Newham,2006,counter,4,0,4
+Newham,2006,service,9,0,9
+Newham,2007,counter,4,0,4
+Newham,2007,service,7,0,7
+Newham,2008,counter,5,0,5
+Newham,2008,service,13,0,13
+Newham,2009,counter,8,0,8
+Newham,2009,service,25,0,25
+Newham,2010,counter,20,0,20
+Newham,2010,service,20,0,20
+Newham,2011,counter,18,0,18
+Newham,2011,service,43,0,43
+Newham,2012,counter,36,0,36
+Newham,2012,service,36,0,36
+Newham,2013,counter,39,13,26
+Newham,2013,service,58,17,41
+Newham,2014,counter,54,17,37
+Newham,2014,service,59,27,32
+Newham,2015,counter,70,20,50
+Newham,2015,service,51,34,17
+Newham,2016,counter,76,46,30
+Newham,2016,service,84,51,33
+Newham,2017,counter,96,47,49
+Newham,2017,service,139,42,97
+Newham,2018,counter,124,80,44
+Newham,2018,service,163,86,77
+Newham,2019,counter,142,93,49
+Newham,2019,service,172,124,48
+Newham,2020,counter,244,59,185
+Newham,2020,service,185,73,112
+Newham,2021,counter,195,136,59
+Newham,2021,service,189,86,103
+Newham,2022,counter,216,168,48
+Newham,2022,service,207,111,96
+Newham,2023,counter,250,168,82
+Newham,2023,service,245,121,124
+Newham,2024,counter,242,162,80
+Newham,2024,service,256,147,109
+Newham,2025,counter,279,208,71
+Newham,2025,service,326,198,128
+Newham,2026,counter,148,138,10
+Newham,2026,service,165,184,-19
+Redbridge,1978,service,1,0,1
+Redbridge,1985,service,1,0,1
+Redbridge,1986,service,1,0,1
+Redbridge,1995,service,1,0,1
+Redbridge,1996,service,1,0,1
+Redbridge,1997,service,2,0,2
+Redbridge,1998,counter,2,0,2
+Redbridge,1998,service,2,0,2
+Redbridge,1999,service,2,0,2
+Redbridge,2000,counter,2,0,2
+Redbridge,2000,service,6,0,6
+Redbridge,2001,counter,1,0,1
+Redbridge,2001,service,4,0,4
+Redbridge,2002,counter,4,0,4
+Redbridge,2002,service,8,0,8
+Redbridge,2003,counter,3,0,3
+Redbridge,2003,service,8,0,8
+Redbridge,2004,counter,2,0,2
+Redbridge,2004,service,8,0,8
+Redbridge,2005,counter,7,0,7
+Redbridge,2005,service,18,0,18
+Redbridge,2006,counter,6,0,6
+Redbridge,2006,service,22,0,22
+Redbridge,2007,counter,10,0,10
+Redbridge,2007,service,13,0,13
+Redbridge,2008,counter,13,0,13
+Redbridge,2008,service,16,0,16
+Redbridge,2009,counter,21,0,21
+Redbridge,2009,service,39,0,39
+Redbridge,2010,counter,34,0,34
+Redbridge,2010,service,66,0,66
+Redbridge,2011,counter,54,0,54
+Redbridge,2011,service,92,0,92
+Redbridge,2012,counter,62,3,59
+Redbridge,2012,service,88,5,83
+Redbridge,2013,counter,50,21,29
+Redbridge,2013,service,96,39,57
+Redbridge,2014,counter,53,35,18
+Redbridge,2014,service,108,57,51
+Redbridge,2015,counter,73,35,38
+Redbridge,2015,service,101,63,38
+Redbridge,2016,counter,67,69,-2
+Redbridge,2016,service,114,95,19
+Redbridge,2017,counter,91,39,52
+Redbridge,2017,service,162,68,94
+Redbridge,2018,counter,111,87,24
+Redbridge,2018,service,170,129,41
+Redbridge,2019,counter,112,88,24
+Redbridge,2019,service,202,150,52
+Redbridge,2020,counter,187,54,133
+Redbridge,2020,service,180,110,70
+Redbridge,2021,counter,160,92,68
+Redbridge,2021,service,187,115,72
+Redbridge,2022,counter,165,116,49
+Redbridge,2022,service,178,100,78
+Redbridge,2023,counter,232,153,79
+Redbridge,2023,service,189,139,50
+Redbridge,2024,counter,218,154,64
+Redbridge,2024,service,263,152,111
+Redbridge,2025,counter,197,176,21
+Redbridge,2025,service,270,200,70
+Redbridge,2026,counter,111,113,-2
+Redbridge,2026,service,178,159,19
+Reigate and Banstead,1999,counter,1,0,1
+Reigate and Banstead,2003,service,1,0,1
+Reigate and Banstead,2004,counter,1,0,1
+Reigate and Banstead,2005,service,1,0,1
+Reigate and Banstead,2007,service,1,0,1
+Reigate and Banstead,2009,service,2,0,2
+Reigate and Banstead,2011,counter,2,0,2
+Reigate and Banstead,2011,service,1,0,1
+Reigate and Banstead,2012,service,3,0,3
+Reigate and Banstead,2013,counter,1,2,-1
+Reigate and Banstead,2013,service,4,0,4
+Reigate and Banstead,2014,counter,2,0,2
+Reigate and Banstead,2014,service,2,0,2
+Reigate and Banstead,2015,service,1,0,1
+Reigate and Banstead,2016,counter,3,0,3
+Reigate and Banstead,2016,service,4,2,2
+Reigate and Banstead,2017,counter,0,2,-2
+Reigate and Banstead,2017,service,5,2,3
+Reigate and Banstead,2018,counter,4,3,1
+Reigate and Banstead,2018,service,2,2,0
+Reigate and Banstead,2019,counter,5,2,3
+Reigate and Banstead,2019,service,3,3,0
+Reigate and Banstead,2020,counter,4,0,4
+Reigate and Banstead,2020,service,5,2,3
+Reigate and Banstead,2021,counter,5,3,2
+Reigate and Banstead,2021,service,8,4,4
+Reigate and Banstead,2022,counter,4,2,2
+Reigate and Banstead,2022,service,3,5,-2
+Reigate and Banstead,2023,counter,3,2,1
+Reigate and Banstead,2023,service,10,2,8
+Reigate and Banstead,2024,counter,6,5,1
+Reigate and Banstead,2024,service,8,4,4
+Reigate and Banstead,2025,counter,5,4,1
+Reigate and Banstead,2025,service,10,4,6
+Reigate and Banstead,2026,counter,4,3,1
+Reigate and Banstead,2026,service,3,4,-1
+Richmond upon Thames,1966,service,1,0,1
+Richmond upon Thames,1977,service,1,0,1
+Richmond upon Thames,1978,service,1,0,1
+Richmond upon Thames,1984,service,1,0,1
+Richmond upon Thames,1986,service,1,0,1
+Richmond upon Thames,1988,service,2,0,2
+Richmond upon Thames,1990,counter,1,0,1
+Richmond upon Thames,1990,service,1,0,1
+Richmond upon Thames,1994,service,1,0,1
+Richmond upon Thames,1995,service,2,0,2
+Richmond upon Thames,1997,counter,1,0,1
+Richmond upon Thames,1997,service,1,0,1
+Richmond upon Thames,1998,counter,1,0,1
+Richmond upon Thames,1999,service,2,0,2
+Richmond upon Thames,2000,counter,1,0,1
+Richmond upon Thames,2000,service,2,0,2
+Richmond upon Thames,2001,counter,1,0,1
+Richmond upon Thames,2001,service,3,0,3
+Richmond upon Thames,2002,service,1,0,1
+Richmond upon Thames,2003,service,5,0,5
+Richmond upon Thames,2004,service,7,0,7
+Richmond upon Thames,2005,counter,1,0,1
+Richmond upon Thames,2005,service,1,0,1
+Richmond upon Thames,2006,counter,2,0,2
+Richmond upon Thames,2006,service,9,0,9
+Richmond upon Thames,2007,counter,1,0,1
+Richmond upon Thames,2007,service,9,0,9
+Richmond upon Thames,2008,counter,3,0,3
+Richmond upon Thames,2008,service,12,0,12
+Richmond upon Thames,2009,counter,1,0,1
+Richmond upon Thames,2009,service,10,0,10
+Richmond upon Thames,2010,counter,3,0,3
+Richmond upon Thames,2010,service,13,0,13
+Richmond upon Thames,2011,counter,9,0,9
+Richmond upon Thames,2011,service,30,0,30
+Richmond upon Thames,2012,counter,16,0,16
+Richmond upon Thames,2012,service,24,1,23
+Richmond upon Thames,2013,counter,10,0,10
+Richmond upon Thames,2013,service,35,6,29
+Richmond upon Thames,2014,counter,24,4,20
+Richmond upon Thames,2014,service,33,14,19
+Richmond upon Thames,2015,counter,9,4,5
+Richmond upon Thames,2015,service,34,16,18
+Richmond upon Thames,2016,counter,12,9,3
+Richmond upon Thames,2016,service,36,26,10
+Richmond upon Thames,2017,counter,21,10,11
+Richmond upon Thames,2017,service,39,26,13
+Richmond upon Thames,2018,counter,24,10,14
+Richmond upon Thames,2018,service,64,30,34
+Richmond upon Thames,2019,counter,21,26,-5
+Richmond upon Thames,2019,service,56,36,20
+Richmond upon Thames,2020,counter,35,15,20
+Richmond upon Thames,2020,service,48,27,21
+Richmond upon Thames,2021,counter,36,16,20
+Richmond upon Thames,2021,service,57,30,27
+Richmond upon Thames,2022,counter,43,27,16
+Richmond upon Thames,2022,service,66,42,24
+Richmond upon Thames,2023,counter,30,35,-5
+Richmond upon Thames,2023,service,61,40,21
+Richmond upon Thames,2024,counter,19,29,-10
+Richmond upon Thames,2024,service,82,58,24
+Richmond upon Thames,2025,counter,40,23,17
+Richmond upon Thames,2025,service,69,41,28
+Richmond upon Thames,2026,counter,21,26,-5
+Richmond upon Thames,2026,service,40,38,2
+Sevenoaks,2002,counter,1,0,1
+Sevenoaks,2002,service,1,0,1
+Sevenoaks,2004,service,1,0,1
+Sevenoaks,2008,counter,1,0,1
+Sevenoaks,2011,counter,1,0,1
+Sevenoaks,2012,service,3,0,3
+Sevenoaks,2013,counter,1,0,1
+Sevenoaks,2013,service,2,0,2
+Sevenoaks,2014,counter,1,0,1
+Sevenoaks,2014,service,1,1,0
+Sevenoaks,2015,counter,1,0,1
+Sevenoaks,2015,service,1,0,1
+Sevenoaks,2016,counter,1,1,0
+Sevenoaks,2016,service,1,2,-1
+Sevenoaks,2017,counter,1,1,0
+Sevenoaks,2017,service,0,1,-1
+Sevenoaks,2018,counter,1,1,0
+Sevenoaks,2018,service,1,1,0
+Sevenoaks,2019,counter,0,1,-1
+Sevenoaks,2019,service,2,0,2
+Sevenoaks,2020,counter,4,1,3
+Sevenoaks,2020,service,4,0,4
+Sevenoaks,2021,counter,2,0,2
+Sevenoaks,2021,service,3,3,0
+Sevenoaks,2022,counter,5,2,3
+Sevenoaks,2022,service,5,1,4
+Sevenoaks,2023,counter,4,4,0
+Sevenoaks,2023,service,4,4,0
+Sevenoaks,2024,counter,6,3,3
+Sevenoaks,2024,service,2,3,-1
+Sevenoaks,2025,counter,7,7,0
+Sevenoaks,2025,service,1,1,0
+Sevenoaks,2026,counter,2,3,-1
+Sevenoaks,2026,service,4,3,1
+Southwark,1898,service,1,0,1
+Southwark,1973,service,1,0,1
+Southwark,1977,service,1,0,1
+Southwark,1978,counter,1,0,1
+Southwark,1983,service,1,0,1
+Southwark,1986,service,1,0,1
+Southwark,1989,service,1,0,1
+Southwark,1991,service,1,0,1
+Southwark,1993,service,2,0,2
+Southwark,1994,service,1,0,1
+Southwark,1995,counter,1,0,1
+Southwark,1998,service,3,0,3
+Southwark,1999,counter,1,0,1
+Southwark,1999,service,1,0,1
+Southwark,2000,counter,3,0,3
+Southwark,2000,service,5,0,5
+Southwark,2001,counter,2,0,2
+Southwark,2001,service,5,0,5
+Southwark,2002,counter,1,0,1
+Southwark,2002,service,3,0,3
+Southwark,2003,counter,2,0,2
+Southwark,2003,service,9,0,9
+Southwark,2004,counter,3,0,3
+Southwark,2004,service,9,0,9
+Southwark,2005,counter,1,0,1
+Southwark,2005,service,8,0,8
+Southwark,2006,counter,5,0,5
+Southwark,2006,service,6,0,6
+Southwark,2007,counter,4,0,4
+Southwark,2007,service,10,0,10
+Southwark,2008,counter,3,0,3
+Southwark,2008,service,22,0,22
+Southwark,2009,counter,7,0,7
+Southwark,2009,service,19,0,19
+Southwark,2010,counter,15,0,15
+Southwark,2010,service,29,0,29
+Southwark,2011,counter,31,0,31
+Southwark,2011,service,29,0,29
+Southwark,2012,counter,22,1,21
+Southwark,2012,service,30,3,27
+Southwark,2013,counter,26,7,19
+Southwark,2013,service,47,19,28
+Southwark,2014,counter,26,20,6
+Southwark,2014,service,53,16,37
+Southwark,2015,counter,36,17,19
+Southwark,2015,service,59,29,30
+Southwark,2016,counter,39,20,19
+Southwark,2016,service,78,35,43
+Southwark,2017,counter,55,29,26
+Southwark,2017,service,94,41,53
+Southwark,2018,counter,78,47,31
+Southwark,2018,service,100,78,22
+Southwark,2019,counter,93,64,29
+Southwark,2019,service,98,67,31
+Southwark,2020,counter,131,34,97
+Southwark,2020,service,110,53,57
+Southwark,2021,counter,81,77,4
+Southwark,2021,service,109,60,49
+Southwark,2022,counter,122,79,43
+Southwark,2022,service,112,71,41
+Southwark,2023,counter,108,93,15
+Southwark,2023,service,156,76,80
+Southwark,2024,counter,102,82,20
+Southwark,2024,service,136,94,42
+Southwark,2025,counter,115,99,16
+Southwark,2025,service,135,98,37
+Southwark,2026,counter,52,57,-5
+Southwark,2026,service,68,77,-9
+Spelthorne,2000,counter,1,0,1
+Spelthorne,2003,service,1,0,1
+Spelthorne,2006,service,1,0,1
+Spelthorne,2007,service,1,0,1
+Spelthorne,2009,service,1,0,1
+Spelthorne,2010,service,2,0,2
+Spelthorne,2011,service,5,0,5
+Spelthorne,2012,counter,2,0,2
+Spelthorne,2012,service,6,0,6
+Spelthorne,2013,counter,3,0,3
+Spelthorne,2013,service,3,0,3
+Spelthorne,2014,counter,5,0,5
+Spelthorne,2014,service,3,2,1
+Spelthorne,2015,counter,4,0,4
+Spelthorne,2015,service,2,4,-2
+Spelthorne,2016,counter,7,2,5
+Spelthorne,2016,service,10,4,6
+Spelthorne,2017,counter,3,2,1
+Spelthorne,2017,service,8,2,6
+Spelthorne,2018,counter,8,4,4
+Spelthorne,2018,service,7,7,0
+Spelthorne,2019,counter,11,8,3
+Spelthorne,2019,service,9,8,1
+Spelthorne,2020,counter,5,6,-1
+Spelthorne,2020,service,8,3,5
+Spelthorne,2021,counter,11,4,7
+Spelthorne,2021,service,5,4,1
+Spelthorne,2022,counter,21,7,14
+Spelthorne,2022,service,4,7,-3
+Spelthorne,2023,counter,7,12,-5
+Spelthorne,2023,service,12,6,6
+Spelthorne,2024,counter,11,8,3
+Spelthorne,2024,service,9,6,3
+Spelthorne,2025,counter,16,11,5
+Spelthorne,2025,service,14,8,6
+Spelthorne,2026,counter,6,6,0
+Spelthorne,2026,service,6,4,2
+Sutton,1982,counter,1,0,1
+Sutton,1983,service,1,0,1
+Sutton,1987,service,1,0,1
+Sutton,1996,service,1,0,1
+Sutton,1997,service,2,0,2
+Sutton,1999,service,1,0,1
+Sutton,2000,service,3,0,3
+Sutton,2001,service,5,0,5
+Sutton,2002,counter,1,0,1
+Sutton,2002,service,1,0,1
+Sutton,2003,counter,3,0,3
+Sutton,2003,service,4,0,4
+Sutton,2004,counter,2,0,2
+Sutton,2004,service,2,0,2
+Sutton,2005,counter,2,0,2
+Sutton,2005,service,2,0,2
+Sutton,2006,service,5,0,5
+Sutton,2007,counter,2,0,2
+Sutton,2007,service,11,0,11
+Sutton,2008,counter,4,0,4
+Sutton,2008,service,11,0,11
+Sutton,2009,counter,5,0,5
+Sutton,2009,service,16,0,16
+Sutton,2010,counter,12,0,12
+Sutton,2010,service,23,0,23
+Sutton,2011,counter,22,0,22
+Sutton,2011,service,25,0,25
+Sutton,2012,counter,19,0,19
+Sutton,2012,service,30,1,29
+Sutton,2013,counter,18,5,13
+Sutton,2013,service,37,16,21
+Sutton,2014,counter,17,6,11
+Sutton,2014,service,34,14,20
+Sutton,2015,counter,26,11,15
+Sutton,2015,service,40,23,17
+Sutton,2016,counter,30,18,12
+Sutton,2016,service,39,22,17
+Sutton,2017,counter,37,16,21
+Sutton,2017,service,43,21,22
+Sutton,2018,counter,47,27,20
+Sutton,2018,service,52,51,1
+Sutton,2019,counter,63,35,28
+Sutton,2019,service,59,40,19
+Sutton,2020,counter,53,30,23
+Sutton,2020,service,55,38,17
+Sutton,2021,counter,64,35,29
+Sutton,2021,service,46,39,7
+Sutton,2022,counter,45,36,9
+Sutton,2022,service,48,31,17
+Sutton,2023,counter,73,44,29
+Sutton,2023,service,68,46,22
+Sutton,2024,counter,52,52,0
+Sutton,2024,service,49,44,5
+Sutton,2025,counter,57,55,2
+Sutton,2025,service,62,44,18
+Sutton,2026,counter,33,37,-4
+Sutton,2026,service,35,41,-6
+Tandridge,1996,service,1,0,1
+Tandridge,1997,service,1,0,1
+Tandridge,2000,service,1,0,1
+Tandridge,2003,service,1,0,1
+Tandridge,2005,counter,1,0,1
+Tandridge,2006,service,2,0,2
+Tandridge,2010,counter,2,0,2
+Tandridge,2010,service,2,0,2
+Tandridge,2011,counter,1,0,1
+Tandridge,2011,service,1,0,1
+Tandridge,2012,counter,2,0,2
+Tandridge,2013,counter,2,0,2
+Tandridge,2013,service,2,0,2
+Tandridge,2014,counter,6,0,6
+Tandridge,2014,service,2,0,2
+Tandridge,2015,counter,2,2,0
+Tandridge,2015,service,6,0,6
+Tandridge,2016,counter,4,1,3
+Tandridge,2016,service,7,2,5
+Tandridge,2017,counter,3,5,-2
+Tandridge,2017,service,5,3,2
+Tandridge,2018,counter,10,3,7
+Tandridge,2018,service,3,6,-3
+Tandridge,2019,counter,6,6,0
+Tandridge,2019,service,8,4,4
+Tandridge,2020,counter,6,3,3
+Tandridge,2020,service,6,5,1
+Tandridge,2021,counter,8,3,5
+Tandridge,2021,service,6,3,3
+Tandridge,2022,counter,8,7,1
+Tandridge,2022,service,8,4,4
+Tandridge,2023,counter,5,4,1
+Tandridge,2023,service,6,3,3
+Tandridge,2024,counter,9,5,4
+Tandridge,2024,service,7,8,-1
+Tandridge,2025,counter,6,8,-2
+Tandridge,2025,service,11,5,6
+Tandridge,2026,counter,4,5,-1
+Tandridge,2026,service,5,6,-1
+Three Rivers,1965,service,1,0,1
+Three Rivers,1984,service,1,0,1
+Three Rivers,1987,counter,1,0,1
+Three Rivers,1990,service,1,0,1
+Three Rivers,1995,service,1,0,1
+Three Rivers,1997,service,1,0,1
+Three Rivers,2000,counter,1,0,1
+Three Rivers,2000,service,1,0,1
+Three Rivers,2001,counter,1,0,1
+Three Rivers,2001,service,2,0,2
+Three Rivers,2002,service,3,0,3
+Three Rivers,2003,service,2,0,2
+Three Rivers,2004,counter,1,0,1
+Three Rivers,2004,service,2,0,2
+Three Rivers,2006,service,1,0,1
+Three Rivers,2007,service,4,0,4
+Three Rivers,2008,counter,1,0,1
+Three Rivers,2008,service,2,0,2
+Three Rivers,2009,service,8,0,8
+Three Rivers,2010,counter,3,0,3
+Three Rivers,2010,service,5,0,5
+Three Rivers,2011,counter,3,0,3
+Three Rivers,2011,service,9,0,9
+Three Rivers,2012,counter,2,0,2
+Three Rivers,2012,service,8,0,8
+Three Rivers,2013,counter,1,1,0
+Three Rivers,2013,service,8,2,6
+Three Rivers,2014,counter,1,1,0
+Three Rivers,2014,service,9,12,-3
+Three Rivers,2015,counter,1,2,-1
+Three Rivers,2015,service,11,8,3
+Three Rivers,2016,counter,5,0,5
+Three Rivers,2016,service,3,8,-5
+Three Rivers,2017,counter,7,5,2
+Three Rivers,2017,service,9,11,-2
+Three Rivers,2018,counter,5,4,1
+Three Rivers,2018,service,10,11,-1
+Three Rivers,2019,counter,8,4,4
+Three Rivers,2019,service,3,5,-2
+Three Rivers,2020,counter,8,2,6
+Three Rivers,2020,service,6,3,3
+Three Rivers,2021,counter,9,3,6
+Three Rivers,2021,service,9,2,7
+Three Rivers,2022,counter,11,5,6
+Three Rivers,2022,service,8,9,-1
+Three Rivers,2023,counter,9,9,0
+Three Rivers,2023,service,18,4,14
+Three Rivers,2024,counter,10,11,-1
+Three Rivers,2024,service,14,15,-1
+Three Rivers,2025,counter,6,7,-1
+Three Rivers,2025,service,13,9,4
+Three Rivers,2026,counter,4,4,0
+Three Rivers,2026,service,5,6,-1
+Thurrock,1995,service,1,0,1
+Thurrock,2006,service,1,0,1
+Thurrock,2010,service,2,0,2
+Thurrock,2012,service,1,0,1
+Thurrock,2013,service,0,1,-1
+Thurrock,2014,counter,1,0,1
+Thurrock,2015,counter,1,0,1
+Thurrock,2015,service,1,0,1
+Thurrock,2016,counter,2,0,2
+Thurrock,2016,service,1,1,0
+Thurrock,2017,counter,1,0,1
+Thurrock,2017,service,2,0,2
+Thurrock,2018,counter,4,0,4
+Thurrock,2019,counter,5,2,3
+Thurrock,2019,service,4,1,3
+Thurrock,2020,counter,3,3,0
+Thurrock,2020,service,3,0,3
+Thurrock,2021,counter,6,2,4
+Thurrock,2021,service,3,4,-1
+Thurrock,2022,counter,8,2,6
+Thurrock,2022,service,5,0,5
+Thurrock,2023,counter,9,4,5
+Thurrock,2023,service,12,2,10
+Thurrock,2024,counter,11,9,2
+Thurrock,2024,service,4,8,-4
+Thurrock,2025,counter,6,8,-2
+Thurrock,2025,service,5,4,1
+Thurrock,2026,counter,4,6,-2
+Thurrock,2026,service,4,3,1
+Tower Hamlets,1936,service,1,0,1
+Tower Hamlets,1950,service,1,0,1
+Tower Hamlets,1961,service,1,0,1
+Tower Hamlets,1968,counter,1,0,1
+Tower Hamlets,1968,service,1,0,1
+Tower Hamlets,1974,service,1,0,1
+Tower Hamlets,1980,service,1,0,1
+Tower Hamlets,1984,service,1,0,1
+Tower Hamlets,1986,service,1,0,1
+Tower Hamlets,1987,service,1,0,1
+Tower Hamlets,1988,counter,1,0,1
+Tower Hamlets,1991,service,1,0,1
+Tower Hamlets,1993,service,3,0,3
+Tower Hamlets,1994,service,3,0,3
+Tower Hamlets,1995,service,3,0,3
+Tower Hamlets,1998,service,6,0,6
+Tower Hamlets,1999,counter,3,0,3
+Tower Hamlets,1999,service,3,0,3
+Tower Hamlets,2000,counter,2,0,2
+Tower Hamlets,2000,service,2,0,2
+Tower Hamlets,2001,service,8,0,8
+Tower Hamlets,2002,counter,1,0,1
+Tower Hamlets,2002,service,8,0,8
+Tower Hamlets,2003,counter,5,0,5
+Tower Hamlets,2003,service,20,0,20
+Tower Hamlets,2004,counter,3,0,3
+Tower Hamlets,2004,service,16,0,16
+Tower Hamlets,2005,counter,8,0,8
+Tower Hamlets,2005,service,20,0,20
+Tower Hamlets,2006,counter,3,0,3
+Tower Hamlets,2006,service,30,0,30
+Tower Hamlets,2007,counter,1,0,1
+Tower Hamlets,2007,service,27,0,27
+Tower Hamlets,2008,counter,11,0,11
+Tower Hamlets,2008,service,35,0,35
+Tower Hamlets,2009,counter,16,0,16
+Tower Hamlets,2009,service,56,0,56
+Tower Hamlets,2010,counter,35,0,35
+Tower Hamlets,2010,service,74,0,74
+Tower Hamlets,2011,counter,54,0,54
+Tower Hamlets,2011,service,134,0,134
+Tower Hamlets,2012,counter,68,3,65
+Tower Hamlets,2012,service,131,8,123
+Tower Hamlets,2013,counter,64,29,35
+Tower Hamlets,2013,service,126,55,71
+Tower Hamlets,2014,counter,93,46,47
+Tower Hamlets,2014,service,149,90,59
+Tower Hamlets,2015,counter,86,53,33
+Tower Hamlets,2015,service,147,109,38
+Tower Hamlets,2016,counter,96,76,20
+Tower Hamlets,2016,service,171,151,20
+Tower Hamlets,2017,counter,128,64,64
+Tower Hamlets,2017,service,216,121,95
+Tower Hamlets,2018,counter,143,102,41
+Tower Hamlets,2018,service,250,173,77
+Tower Hamlets,2019,counter,164,113,51
+Tower Hamlets,2019,service,310,200,110
+Tower Hamlets,2020,counter,194,73,121
+Tower Hamlets,2020,service,296,140,156
+Tower Hamlets,2021,counter,242,118,124
+Tower Hamlets,2021,service,274,161,113
+Tower Hamlets,2022,counter,208,179,29
+Tower Hamlets,2022,service,286,159,127
+Tower Hamlets,2023,counter,199,172,27
+Tower Hamlets,2023,service,352,209,143
+Tower Hamlets,2024,counter,246,181,65
+Tower Hamlets,2024,service,377,272,105
+Tower Hamlets,2025,counter,258,193,65
+Tower Hamlets,2025,service,340,263,77
+Tower Hamlets,2026,counter,136,130,6
+Tower Hamlets,2026,service,228,201,27
+Waltham Forest,1990,service,1,0,1
+Waltham Forest,1991,service,1,0,1
+Waltham Forest,1995,service,2,0,2
+Waltham Forest,1996,service,2,0,2
+Waltham Forest,1997,service,2,0,2
+Waltham Forest,1998,service,2,0,2
+Waltham Forest,1999,service,2,0,2
+Waltham Forest,2000,counter,1,0,1
+Waltham Forest,2000,service,1,0,1
+Waltham Forest,2001,counter,1,0,1
+Waltham Forest,2001,service,2,0,2
+Waltham Forest,2002,counter,1,0,1
+Waltham Forest,2002,service,7,0,7
+Waltham Forest,2003,counter,2,0,2
+Waltham Forest,2003,service,3,0,3
+Waltham Forest,2004,counter,3,0,3
+Waltham Forest,2004,service,7,0,7
+Waltham Forest,2005,counter,3,0,3
+Waltham Forest,2005,service,10,0,10
+Waltham Forest,2006,counter,3,0,3
+Waltham Forest,2006,service,11,0,11
+Waltham Forest,2007,counter,8,0,8
+Waltham Forest,2007,service,12,0,12
+Waltham Forest,2008,counter,10,0,10
+Waltham Forest,2008,service,14,0,14
+Waltham Forest,2009,counter,8,0,8
+Waltham Forest,2009,service,26,0,26
+Waltham Forest,2010,counter,12,0,12
+Waltham Forest,2010,service,29,0,29
+Waltham Forest,2011,counter,34,0,34
+Waltham Forest,2011,service,49,0,49
+Waltham Forest,2012,counter,41,2,39
+Waltham Forest,2012,service,43,3,40
+Waltham Forest,2013,counter,48,9,39
+Waltham Forest,2013,service,66,17,49
+Waltham Forest,2014,counter,40,14,26
+Waltham Forest,2014,service,60,35,25
+Waltham Forest,2015,counter,41,31,10
+Waltham Forest,2015,service,65,39,26
+Waltham Forest,2016,counter,57,31,26
+Waltham Forest,2016,service,70,59,11
+Waltham Forest,2017,counter,75,46,29
+Waltham Forest,2017,service,80,48,32
+Waltham Forest,2018,counter,104,61,43
+Waltham Forest,2018,service,133,95,38
+Waltham Forest,2019,counter,93,75,18
+Waltham Forest,2019,service,145,93,52
+Waltham Forest,2020,counter,137,48,89
+Waltham Forest,2020,service,153,75,78
+Waltham Forest,2021,counter,125,78,47
+Waltham Forest,2021,service,114,55,59
+Waltham Forest,2022,counter,140,103,37
+Waltham Forest,2022,service,165,88,77
+Waltham Forest,2023,counter,131,113,18
+Waltham Forest,2023,service,163,122,41
+Waltham Forest,2024,counter,151,115,36
+Waltham Forest,2024,service,215,138,77
+Waltham Forest,2025,counter,139,112,27
+Waltham Forest,2025,service,213,163,50
+Waltham Forest,2026,counter,77,74,3
+Waltham Forest,2026,service,121,122,-1
+Wandsworth,1979,service,1,0,1
+Wandsworth,1980,service,1,0,1
+Wandsworth,1989,service,1,0,1
+Wandsworth,1990,service,2,0,2
+Wandsworth,1991,counter,1,0,1
+Wandsworth,1991,service,1,0,1
+Wandsworth,1992,service,1,0,1
+Wandsworth,1994,counter,1,0,1
+Wandsworth,1994,service,1,0,1
+Wandsworth,1995,service,1,0,1
+Wandsworth,1998,counter,1,0,1
+Wandsworth,1998,service,1,0,1
+Wandsworth,1999,service,5,0,5
+Wandsworth,2000,service,4,0,4
+Wandsworth,2001,counter,1,0,1
+Wandsworth,2001,service,4,0,4
+Wandsworth,2002,service,3,0,3
+Wandsworth,2003,counter,3,0,3
+Wandsworth,2003,service,4,0,4
+Wandsworth,2004,counter,4,0,4
+Wandsworth,2004,service,7,0,7
+Wandsworth,2005,counter,2,0,2
+Wandsworth,2005,service,5,0,5
+Wandsworth,2006,counter,2,0,2
+Wandsworth,2006,service,9,0,9
+Wandsworth,2007,service,9,0,9
+Wandsworth,2008,counter,3,0,3
+Wandsworth,2008,service,13,0,13
+Wandsworth,2009,counter,6,0,6
+Wandsworth,2009,service,20,0,20
+Wandsworth,2010,counter,13,0,13
+Wandsworth,2010,service,22,0,22
+Wandsworth,2011,counter,28,0,28
+Wandsworth,2011,service,37,0,37
+Wandsworth,2012,counter,20,0,20
+Wandsworth,2012,service,54,4,50
+Wandsworth,2013,counter,24,8,16
+Wandsworth,2013,service,47,18,29
+Wandsworth,2014,counter,45,19,26
+Wandsworth,2014,service,65,24,41
+Wandsworth,2015,counter,41,16,25
+Wandsworth,2015,service,47,31,16
+Wandsworth,2016,counter,42,28,14
+Wandsworth,2016,service,71,55,16
+Wandsworth,2017,counter,72,37,35
+Wandsworth,2017,service,96,45,51
+Wandsworth,2018,counter,71,54,17
+Wandsworth,2018,service,107,69,38
+Wandsworth,2019,counter,64,69,-5
+Wandsworth,2019,service,79,76,3
+Wandsworth,2020,counter,99,45,54
+Wandsworth,2020,service,110,61,49
+Wandsworth,2021,counter,89,48,41
+Wandsworth,2021,service,97,68,29
+Wandsworth,2022,counter,86,74,12
+Wandsworth,2022,service,101,61,40
+Wandsworth,2023,counter,99,69,30
+Wandsworth,2023,service,121,69,52
+Wandsworth,2024,counter,107,82,25
+Wandsworth,2024,service,132,69,63
+Wandsworth,2025,counter,93,82,11
+Wandsworth,2025,service,141,111,30
+Wandsworth,2026,counter,55,47,8
+Wandsworth,2026,service,93,58,35
+Watford,2010,counter,1,0,1
+Watford,2020,counter,1,0,1
+Watford,2022,counter,0,1,-1
+Watford,2026,counter,1,1,0
+Watford,2026,service,1,0,1
+Welwyn Hatfield,2009,service,1,0,1
+Welwyn Hatfield,2010,counter,1,0,1
+Welwyn Hatfield,2011,service,1,0,1
+Welwyn Hatfield,2012,service,1,0,1
+Welwyn Hatfield,2013,service,0,1,-1
+Welwyn Hatfield,2014,counter,1,0,1
+Welwyn Hatfield,2015,counter,0,1,-1
+Welwyn Hatfield,2016,counter,1,0,1
+Welwyn Hatfield,2016,service,1,1,0
+Welwyn Hatfield,2017,counter,0,1,-1
+Welwyn Hatfield,2017,service,0,1,-1
+Welwyn Hatfield,2018,service,3,0,3
+Welwyn Hatfield,2019,counter,1,0,1
+Welwyn Hatfield,2019,service,0,2,-2
+Welwyn Hatfield,2020,counter,2,0,2
+Welwyn Hatfield,2020,service,2,1,1
+Welwyn Hatfield,2021,counter,3,0,3
+Welwyn Hatfield,2022,counter,0,1,-1
+Welwyn Hatfield,2022,service,1,0,1
+Welwyn Hatfield,2023,counter,0,2,-2
+Welwyn Hatfield,2023,service,1,0,1
+Welwyn Hatfield,2024,counter,3,0,3
+Welwyn Hatfield,2024,service,1,1,0
+Welwyn Hatfield,2025,counter,1,3,-2
+Welwyn Hatfield,2025,service,1,1,0
+Welwyn Hatfield,2026,counter,1,2,-1
+Westminster,1915,service,1,0,1
+Westminster,1941,service,1,0,1
+Westminster,1950,service,1,0,1
+Westminster,1956,service,1,0,1
+Westminster,1959,service,2,0,2
+Westminster,1960,service,2,0,2
+Westminster,1961,service,1,0,1
+Westminster,1963,counter,1,0,1
+Westminster,1963,service,1,0,1
+Westminster,1964,service,1,0,1
+Westminster,1966,service,1,0,1
+Westminster,1969,service,1,0,1
+Westminster,1970,counter,1,0,1
+Westminster,1970,service,1,0,1
+Westminster,1973,service,2,0,2
+Westminster,1975,service,1,0,1
+Westminster,1976,service,3,0,3
+Westminster,1977,service,1,0,1
+Westminster,1978,counter,1,0,1
+Westminster,1979,service,1,0,1
+Westminster,1980,service,3,0,3
+Westminster,1982,service,5,0,5
+Westminster,1983,counter,1,0,1
+Westminster,1983,service,4,0,4
+Westminster,1984,service,3,0,3
+Westminster,1985,counter,1,0,1
+Westminster,1985,service,8,0,8
+Westminster,1986,service,3,0,3
+Westminster,1987,service,2,0,2
+Westminster,1988,service,3,0,3
+Westminster,1989,service,1,0,1
+Westminster,1990,service,4,0,4
+Westminster,1991,service,2,0,2
+Westminster,1992,service,11,0,11
+Westminster,1993,counter,2,0,2
+Westminster,1993,service,11,0,11
+Westminster,1994,service,8,0,8
+Westminster,1995,counter,3,0,3
+Westminster,1995,service,10,0,10
+Westminster,1996,counter,1,0,1
+Westminster,1996,service,12,0,12
+Westminster,1997,service,12,0,12
+Westminster,1998,counter,1,0,1
+Westminster,1998,service,15,0,15
+Westminster,1999,counter,2,0,2
+Westminster,1999,service,16,0,16
+Westminster,2000,counter,4,0,4
+Westminster,2000,service,11,0,11
+Westminster,2001,counter,2,0,2
+Westminster,2001,service,19,0,19
+Westminster,2002,counter,2,0,2
+Westminster,2002,service,24,0,24
+Westminster,2003,counter,2,0,2
+Westminster,2003,service,37,0,37
+Westminster,2004,counter,8,0,8
+Westminster,2004,service,28,0,28
+Westminster,2005,counter,7,0,7
+Westminster,2005,service,33,0,33
+Westminster,2006,counter,13,0,13
+Westminster,2006,service,49,0,49
+Westminster,2007,counter,14,0,14
+Westminster,2007,service,61,0,61
+Westminster,2008,counter,17,0,17
+Westminster,2008,service,54,0,54
+Westminster,2009,counter,25,0,25
+Westminster,2009,service,81,0,81
+Westminster,2010,counter,37,0,37
+Westminster,2010,service,138,0,138
+Westminster,2011,counter,50,0,50
+Westminster,2011,service,123,0,123
+Westminster,2012,counter,62,5,57
+Westminster,2012,service,172,12,160
+Westminster,2013,counter,63,42,21
+Westminster,2013,service,165,86,79
+Westminster,2014,counter,62,39,23
+Westminster,2014,service,169,107,62
+Westminster,2015,counter,54,43,11
+Westminster,2015,service,177,118,59
+Westminster,2016,counter,77,43,34
+Westminster,2016,service,224,137,87
+Westminster,2017,counter,115,54,61
+Westminster,2017,service,305,136,169
+Westminster,2018,counter,131,81,50
+Westminster,2018,service,302,195,107
+Westminster,2019,counter,144,98,46
+Westminster,2019,service,339,236,103
+Westminster,2020,counter,155,69,86
+Westminster,2020,service,319,162,157
+Westminster,2021,counter,122,103,19
+Westminster,2021,service,369,232,137
+Westminster,2022,counter,147,99,48
+Westminster,2022,service,309,193,116
+Westminster,2023,counter,127,115,12
+Westminster,2023,service,357,226,131
+Westminster,2024,counter,169,112,57
+Westminster,2024,service,396,233,163
+Westminster,2025,counter,176,106,70
+Westminster,2025,service,392,226,166
+Westminster,2026,counter,74,85,-11
+Westminster,2026,service,252,177,75
+Windsor and Maidenhead,2010,counter,1,0,1
+Windsor and Maidenhead,2011,counter,1,0,1
+Windsor and Maidenhead,2013,counter,0,1,-1
+Windsor and Maidenhead,2016,service,1,0,1
+Windsor and Maidenhead,2017,counter,1,1,0
+Windsor and Maidenhead,2017,service,1,0,1
+Windsor and Maidenhead,2018,counter,1,0,1
+Windsor and Maidenhead,2018,service,1,2,-1
+Windsor and Maidenhead,2019,counter,2,0,2
+Windsor and Maidenhead,2019,service,1,0,1
+Windsor and Maidenhead,2020,counter,0,1,-1
+Windsor and Maidenhead,2020,service,1,1,0
+Windsor and Maidenhead,2021,service,1,1,0
+Windsor and Maidenhead,2022,counter,1,0,1
+Windsor and Maidenhead,2022,service,0,1,-1
+Windsor and Maidenhead,2023,counter,0,1,-1
+Windsor and Maidenhead,2023,service,1,0,1
+Windsor and Maidenhead,2024,counter,0,1,-1
+Windsor and Maidenhead,2025,counter,1,0,1
+Windsor and Maidenhead,2025,service,2,1,1
+Windsor and Maidenhead,2026,service,1,2,-1

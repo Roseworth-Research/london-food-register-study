@@ -1,0 +1,101 @@
+borough,format,companies,still_trading,at_agent_address
+Barking and Dagenham,counter,973,397.0,77.0
+Barking and Dagenham,service,840,362.0,104.0
+Barnet,counter,2255,735.0,879.0
+Barnet,service,4221,1288.0,2262.0
+Bexley,counter,807,322.0,103.0
+Bexley,service,876,367.0,167.0
+Brent,counter,1812,661.0,366.0
+Brent,service,2345,921.0,553.0
+Bromley,counter,881,333.0,196.0
+Bromley,service,1401,490.0,281.0
+Broxbourne,counter,212,87.0,41.0
+Broxbourne,service,303,169.0,130.0
+Buckinghamshire,counter,15,5.0,1.0
+Buckinghamshire,service,37,23.0,17.0
+Camden,counter,1970,840.0,1174.0
+Camden,service,4229,1858.0,2301.0
+City of London,counter,271,83.0,159.0
+City of London,service,981,367.0,493.0
+Croydon,counter,2003,771.0,464.0
+Croydon,service,2231,931.0,776.0
+Dartford,counter,239,103.0,65.0
+Dartford,service,301,160.0,149.0
+Ealing,counter,1526,615.0,257.0
+Ealing,service,2185,835.0,385.0
+Elmbridge,counter,68,24.0,1.0
+Elmbridge,service,116,51.0,10.0
+Enfield,counter,2351,763.0,1210.0
+Enfield,service,3271,1135.0,1892.0
+Epping Forest,counter,274,151.0,124.0
+Epping Forest,service,346,149.0,127.0
+Epsom and Ewell,counter,198,75.0,9.0
+Epsom and Ewell,service,249,115.0,51.0
+Greenwich,counter,961,356.0,72.0
+Greenwich,service,1103,489.0,141.0
+Hackney,counter,2496,759.0,1455.0
+Hackney,service,3649,1359.0,1814.0
+Hammersmith and Fulham,counter,788,274.0,177.0
+Hammersmith and Fulham,service,1429,554.0,224.0
+Haringey,counter,2232,863.0,1109.0
+Haringey,service,2459,961.0,989.0
+Harrow,counter,1655,756.0,686.0
+Harrow,service,2173,996.0,994.0
+Havering,counter,935,339.0,109.0
+Havering,service,1060,451.0,169.0
+Hertsmere,counter,310,111.0,89.0
+Hertsmere,service,609,193.0,319.0
+Hillingdon,counter,1366,567.0,273.0
+Hillingdon,service,1479,617.0,472.0
+Hounslow,counter,1012,426.0,83.0
+Hounslow,service,1460,649.0,195.0
+Islington,counter,2032,781.0,1094.0
+Islington,service,3480,1341.0,1636.0
+Kensington and Chelsea,counter,376,131.0,53.0
+Kensington and Chelsea,service,1022,475.0,179.0
+Kingston upon Thames,counter,637,237.0,145.0
+Kingston upon Thames,service,858,396.0,170.0
+Lambeth,counter,1079,369.0,111.0
+Lambeth,service,1712,786.0,308.0
+Lewisham,counter,1260,399.0,64.0
+Lewisham,service,1154,453.0,68.0
+Merton,counter,1078,425.0,326.0
+Merton,service,1122,470.0,422.0
+Mole Valley,counter,42,17.0,0.0
+Mole Valley,service,66,28.0,3.0
+Newham,counter,2289,836.0,298.0
+Newham,service,2481,987.0,501.0
+Redbridge,counter,2048,717.0,659.0
+Redbridge,service,2797,1033.0,1051.0
+Reigate and Banstead,counter,50,22.0,4.0
+Reigate and Banstead,service,77,41.0,16.0
+Richmond upon Thames,counter,386,130.0,49.0
+Richmond upon Thames,service,860,372.0,145.0
+Sevenoaks,counter,39,15.0,5.0
+Sevenoaks,service,36,15.0,11.0
+Southwark,counter,1166,410.0,68.0
+Southwark,service,1553,671.0,161.0
+Spelthorne,counter,121,50.0,3.0
+Spelthorne,service,117,44.0,22.0
+Sutton,counter,688,234.0,128.0
+Sutton,service,811,290.0,254.0
+Tandridge,counter,85,28.0,8.0
+Tandridge,service,91,39.0,16.0
+Three Rivers,counter,98,36.0,22.0
+Three Rivers,service,178,66.0,34.0
+Thurrock,counter,61,21.0,0.0
+Thurrock,service,49,25.0,5.0
+Tower Hamlets,counter,2469,802.0,549.0
+Tower Hamlets,service,4111,1457.0,1412.0
+Waltham Forest,counter,1485,504.0,316.0
+Waltham Forest,service,1989,743.0,515.0
+Wandsworth,counter,1072,367.0,120.0
+Wandsworth,service,1513,608.0,191.0
+Watford,counter,3,1.0,0.0
+Watford,service,1,1.0,0.0
+Welwyn Hatfield,counter,14,4.0,2.0
+Welwyn Hatfield,service,13,5.0,0.0
+Westminster,counter,1873,708.0,805.0
+Westminster,service,5060,2324.0,1773.0
+Windsor and Maidenhead,counter,8,2.0,0.0
+Windsor and Maidenhead,service,10,2.0,0.0

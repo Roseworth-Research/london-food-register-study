@@ -1,0 +1,9 @@
+death_era,format,died,median_years,q1_years,q3_years,min_years,max_years
+cost_of_living,counter,15509,1.86,1.43,3.16,0.23,57.82
+cost_of_living,service,18068,2.13,1.43,4.19,0.24,127.21
+covid,counter,2322,2.03,1.59,3.67,0.24,34.98
+covid,service,3351,2.54,1.72,5.48,0.24,57.85
+pre_covid,counter,4733,2.12,1.43,3.64,0.24,42.29
+pre_covid,service,7354,2.27,1.43,4.56,0.25,57.47
+revival,counter,1999,1.46,1.43,2.45,0.24,42.07
+revival,service,2216,1.99,1.43,4.11,0.25,44.97

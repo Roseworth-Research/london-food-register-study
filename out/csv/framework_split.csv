@@ -1,0 +1,5 @@
+framework,format,n,pct_negative_equity,median_cash_share,mean_employees,median_employees,surv_3y_from_first_accounts
+FRS102_small,counter,3111,33.4,0.46,5.7,3.0,0.97
+FRS102_small,service,7538,37.6,0.38,11.81,5.0,0.9806
+FRS105_micro,counter,6230,24.8,0.37,6.67,2.0,0.9545
+FRS105_micro,service,9343,27.7,0.57,9.34,3.0,0.9685

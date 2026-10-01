@@ -1,0 +1,33 @@
+step,stage,n,note
+01,dropped_no_postcode,39,Registered office postcode missing or malformed
+01,dropped_non_london_area,136225,Postcode area outside the London and London-adjacent set
+01,live_cohort,52594,Live London food companies before borough verification (step 3)
+01,matched_cohort_sic,188858,"Carries 56101, 56102, 56103 or 47240 in any SIC slot"
+01,rows_in_snapshot,5677276,All UK companies in the 2026-03-02 bulk snapshot (live only)
+02,outcodes_london,302,Touch at least one of the 33 London boroughs
+02,outcodes_tested,1530,Candidate outward codes generated from the London postcode areas
+02,outcodes_valid,341,Resolved by postcodes.io (ONS Postcode Directory)
+03,dropped_postcode_mismatch,124,Search returned a company outside the queried district
+03,register_cohort,118057,"All London cohort companies on the register, live and dissolved"
+03,register_dead,67155,Dissolved -- absent from the bulk snapshot entirely
+04,postcodes_resolved,34283,Distinct cohort postcodes with a local authority
+04,postcodes_resolved,33974,Distinct cohort postcodes with a local authority
+04,postcodes_unresolved,289,No authority found; excluded from borough analysis only
+04,postcodes_unresolved,295,No authority found; excluded from borough analysis only
+05,cohort_at_hubs,37380,Cohort companies at a hub address; excluded from premises-level succession only
+05,hub_addresses,11124,Addresses with 10+ live companies -- treated as service addresses
+05,london_addresses,576753,Distinct normalised addresses in the London postcode areas (all SIC codes)
+06,borough_unresolved,637,No borough; excluded from borough-level analysis only
+06,from_register_walk,118057,Found by the August 2026 register walk; includes all dissolved companies
+06,from_snapshot_only,1163,In the March 2026 bulk file only; registered office moved before August
+06,master_companies,119220,"One row per London cohort company, living and dead, fully labelled"
+06,snapshot_outside_london,2127,Snapshot companies whose district is not in a London borough; excluded
+08,accounts_companies,50206,Cohort companies with at least one parsed filing
+08,accounts_filings,165052,Parsed iXBRL accounts filings for cohort companies
+08,accounts_with_net_assets,162551,Filings carrying a net assets figure
+09,succession_matched,13959,Deaths with an identifiable successor incorporated at the same address
+09,succession_predecessors,38698,"Cohort deaths since 2018 at non-hub addresses, eligible for succession matching"
+09,succession_went_dark,24739,No successor observed in the window; note non-food successors are live-only
+21,relocated_from_current,27242,Placed at a different address from today's registered office
+21,tier_a_premises_confirmed,37683,Matched to an FSA food establishment on a known address
+21,tier_c_unlocated,26123,Best-known address is a mass-registration address; excluded from geography

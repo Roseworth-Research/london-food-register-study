@@ -1,0 +1,7 @@
+predecessor_format,successor_format,n,median_gap_days,q1_gap_days,q3_gap_days
+counter,counter,3194,-116.0,-242.0,128.0
+counter,non_food,2119,80.0,-162.0,462.0
+counter,service,1143,-88.0,-238.0,238.0
+service,counter,1047,-102.0,-259.0,225.0
+service,non_food,2366,74.0,-161.0,458.0
+service,service,4090,-101.0,-241.0,153.0
